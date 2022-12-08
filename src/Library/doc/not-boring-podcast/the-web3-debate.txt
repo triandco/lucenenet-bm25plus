@@ -1,0 +1,308 @@
+Hi friends 👋, 
+
+Happy Tuesday! Yesterday was a holiday in the US – Martin Luther King, Jr. Day — so we’re coming to you on a rare Tuesday. We’ll be back to normal next week.
+
+I’ve been trying to take holidays off, I really have, but I just couldn’t not write this one.
+
+Hopefully, this is the last time we have such a general, non-useful debate around web3. I appreciate the Prof for laying out all of the Oppositions’ points so we can knock them down and move on. 
+
+Let’s get to it.
+
+
+On Friday, everybody’s favorite Professor sent out a piece titled, simply, Web3.
+
+I didn’t receive it. I don’t subscribe. But my dad forwarded it to me, with an “uh oh…” 
+
+Uh oh is right. I should have been nervous about opening it. I’m very long crypto. But I wasn’t even a little bit nervous, because I had no doubt what side the Prof would be on and what kind of piece he was going to write. And that’s exactly the piece he wrote.
+
+Now I don’t want this to be a “dunk on the Prof because he’s always wrong” piece. My friend and Party Round CEO Jordi Hays proclaimed that “shitting on Galloway is played out,” and I tend to agree. I didn’t even want to respond. 
+
+But then I noticed that he misquoted me and misrepresented things I was involved in. Then I looked a little deeper and found errors and misdirections galore. 
+
+The Professor’s piece was a lazy regurgitation of other peoples’ arguments with some key inaccuracies, intentional or accidental. Hundreds of thousands of people read, listen to, and even pay to learn from him, and normally it’s not my problem… but if he’s going to accidentally pull me into this debate anyway, let’s debate. 
+
+Welcome to Debate Club
+At the risk of making myself seem unimaginably cool: I debated competitively in high school and college, and actually just started a Debate Club in NYC when COVID hit. 
+
+In Parliamentary debate, the kind we did at Debate Club, there are two teams – the Proposition and the Opposition – who debate a resolution. The resolution might be something like “General AI should have fundamental rights.” The Proposition defends the resolution and the Opposition tries to poke holes in it. 
+
+The two sides go back and forth making arguments, concluding in a rebuttal from each team summarizing the debate, reiterating their points, and trying to make clear why their side won. If you want to read the rules, I wrote up a stripped down version for Debate Club. 
+
+There are a few things that you want to do to win a debate. 
+
+The most obvious is that you want to find the most and best evidence in favor of your side. 
+
+In the course of your research, you will also find evidence that contradicts your side. Be aware of this evidence in case you need to defend against it, but by all means, don’t to bring it up (unless, of course, you’re playing an advanced game and want to say things like “I expect that our opponents will tell you that x, y, z… they’re wrong because a, b, c.”). Less scrupulous debaters might even bend or make things up. 
+
+Remember, the point in a debate is to win, not to get to the truth.
+
+That’s Debate 101 type stuff. And then there’s the more advanced shit: instead of fighting the battle you were assigned, you start a new battle about whatever serves your agenda. 
+
+An experienced debater will spend a good chunk of her time setting the definitions. Take our General AI debate. What is General AI? 
+
+The Proposition might define General AI as “a being with human-like intelligence and emotions indistinguishable from a human in all but origin.” If the Opposition lets that definition slide, they’ve probably already lost the debate. 
+
+More likely they’ll come back and say that the definition is wrong, and that experts agree that, “Artificial general intelligence is the hypothetical ability of an intelligent agent to understand or learn any intellectual task that a human being can.” 
+
+The Proposition might come back and call the Opposition out for using the Wikipedia definition, reiterate their own, and argue as if their own definition is true. 
+
+The outcome of a debate between experienced debaters often comes down to whose definition stands. 
+
+If General AI is indistinguishable from a human, of course it should have fundamental rights (and let’s not even get started on the definition of fundamental rights!). 
+
+If General AI is just a hypothetical ability to understand or learn intellectual tasks, it should probably have rights more similar to computers than humans.
+
+Really, if you win the definition battle, the actual points you make don’t matter as much. 
+
+All to say – debate is a really fun intellectual battle if you’re a nerd like me, but it’s not good for finding the truth and it’s not a particularly useful way to approach real-world conversations. 
+
+Unfortunately, over the past few weeks, a debate is exactly what the web3 discourse has turned into.  
+
+The Web3 Discourse: More Debate Than Dialogue
+Probably since the day Satoshi dropped that whitepaper in 2008, there have been people who are for crypto and those who are against it. Among those who are for it, warring factions fight for the supremacy of their coin and chain of choice. 
+
+The in-fighting is silly, counterproductive, and never-ending. Bitcoin vs. Ethereum. Ethereum vs. All Other Smart Contract L1s. Arbitrum vs. Optimism. Bitcoin vs. The World. As I’ve written before, I’m a Maximalist Minimalist.
+
+The ex-fighting is constant, too, but the angle of attack shifts and evolves. First, the anti-argument was that crypto was just used by criminals. Then it was that it’s bad for the environment. When one criticism is sufficiently disproven, critics move on to the next. 
+
+Today, the argument seems to be that web3 – inclusive of traditional “crypto” and things like dApps, NFTs, social tokens, and DeFi – is a construct made up by VCs and isn’t as decentralized as you think it is. 
+
+Whatever the raison du jour, people rarely change sides or change their mind.
+
+I would imagine you could administer a personality test that had nothing to do with crypto – like the Big Five Personality Test – and learn with a high degree of accuracy who is on which side. You could do the same by looking at someone’s fifty most recent tweets on other technologies or new things. If the people who disliked Elvis and Rock ‘N Roll in the 1950s were alive today, chances are, they’d be anti-crypto. 
+
+So really, what’s happening is that people pick their sides in advance, and then try to use whatever evidence they can to make their case instead of taking in the evidence and then making up their mind.
+
+In that sense, the web3 discourse is more debate than dialogue. 
+
+If we look at it as a Parliamentary debate, the resolution of this particular one would be something like: “Web3 is good.” 
+
+In the Opposition’s opening speech, Jack Dorsey, ex-Twitter and current-Block CEO and Bitcoin Maximalist, set the stage for this particular debate in December when he tweeted this: 
+
+Twitter avatar for @jack
+He pushed the idea that VCs own web3, so it’s centralized into the spotlight.
+
+In its second, Signal CEO Moxie Marlinspike added some texture to it when he wrote his very thoughtful piece, My first impressions of web3 earlier this month. His biggest contribution to the Opposition was this idea that web3 actually relies on a lot more centralized technology than your opponents would have you believe. 
+
+Now that you’ve been trained in the subtlety of debate, you should be able to see what’s going on here. Jack and Moxie shifted the battleground to a debate over degrees of centralization. 
+
+They’re trying to win the definition battle. Instead of a more vague “Web3 is good,” they tightened the focus to a more easily winnable, “Web3 is more centralized than it appears from the outside, which is bad.” 
+
+Like experienced debaters, Moxie and Jack shifted the battleground with subtlety and tact…
+
+And then Professor Scott Galloway crashed through the wall like the Kool-Aid Man. 
+
+Uninvited, Galloway joined the debate and exposed his side’s tricks in a ham-handed rebuttal for the Opposition.
+
+Prof G Enters the Web3 Debate
+Let me flashback for a minute. 
+
+When I debated in high school, sometimes we’d get randomly assigned teams of three. If you got a team with two strong debaters and one weak one, ideally, you’d go strong, weak, strong for the course of your three speeches. The strong lead-off debater could set the tone, the weaker one would stumble a little in the middle, and then the other strong debater could come in and clean up the mess with a powerful rebuttal. 
+
+Sometimes, though, the weaker debater would ask to do the rebuttal and you didn’t have the heart to tell them no, so you let them go last… and it was a train wreck. 
+
+The rebuttal is the closing argument. It’s often make or break. In the rebuttal, a debater sums up his or her team’s points, once again tears down the opposing team’s points, and then tries to tie a compelling bow on the whole thing. No new information is allowed in a rebuttal; it’s just a summary of what’s been said. The best you can do is use more colorful and compelling language on top of the existing points, and structure everything in a way that makes your team look good. 
+
+It should be fairly easy – there are no new points to make – but in the hands of a weak or inexperienced debater, the rebuttal can be a disaster. 
+
+When that happens, the problem is often that the two stronger debaters were the ones who came up with most of the arguments and figured out how they fit together into a larger narrative. They felt the arguments in their bones, grokked them on a deeper level, and actually understood what they were trying to say, but they needed to rely on the weaker debater to deliver them. 
+
+Often, even if the weaker debater mostly made the right points, there was just something in the delivery and the word choices and the flow and the way they leaned on their notes and looked at their partners that made it clear that it wasn’t their argument, that they didn’t actually know what they were talking about. 
+
+That’s what it felt like reading the Prof’s rant against web3. 
+
+Take this paragraph, a short, simple one that exposes so much of his schtick: 
+
+
+No Mercy / No Malice
+“Woah!” you might think reading this, “The Prof is wicked smaht! He knows about web3 infrastructure, he must know his stuff! I can trust everything else he’s saying.”
+
+Truth is, this is a bad copy-paste-reword job from Moxie’s piece. While he did link to the piece (that’s the underline under “people don’t want to run their own servers”), he didn’t mention Moxie’s name anywhere in the piece or the paragraph. 
+
+That might be forgiven as a style thing. Personally, I would have led with something like “As Signal CEO Moxie Marlinspike pointed out…” lest people thought I was trying to pass the ideas off as my own, but that’s just me. But there are a couple of other things hidden in there that show that the Prof was just regurgitating instead of understanding. 
+
+First, the only original idea in the paragraph – that people don’t want to have to write code every time they buy a loaf of bread – is a straw man. Of course it would be bad if people had to write code to buy bread, but that doesn’t matter because no one in the world is suggesting that people would need to write a single line of code to buy anything. 
+
+
+Second, the Prof fails to point out that a16z led Alchemy’s Series C in October at a $3.5 billion valuation. He takes every opportunity to come at a16z throughout, including its investments in Coinbase and OpenSea, but misses this layup! If I were his debate partner, I would have steam coming out of my ears. 
+
+Anyway, that’s just one paragraph in a larger debate. If you’re keeping score at home: 
+
+Jack delivered the first speech for web3’s Opposition and tried to set the definitions, to make the debate about VC ownership in web3. He shook things up. It was effective. 
+
+Moxie delivered the second speech, handling some of the Proposition’s claims and adding a new point for the Opposition: that the tech stack was more centralized than people realized, too. Also well done. 
+
+Then, the Prof stepped up to deliver the rebuttal for the Opposition, and… woof.
+
+Now, again, I think that the web3 debate is kind of dumb, that there are good and bad pieces and good and bad actors, that some things should be centralized and others should be decentralized, that nothing is all good or all bad (for a more nuanced synthesis of the Proposition and Opposition, check out my friend Dror’s Unpacking the Web3 Sausage). I’d prefer a more constructive conversation. 
+
+Everything, everywhere, always is about trade-offs. Web3 is no different. I’d prefer a more constructive conversation that starts there. A Debate is so… violent.
+
+But like I said, I don’t like when me and my friends are misrepresented. 
+
+So I decided to dust off the old Debate Pants and enter the fray to deliver the rebuttal for the Proposition, “Web3 is good.” 
+
+My Rebuttal for the Proposition in the Web3 Debate 
+Ladies and gentlemen, judges, teammates, and of course, esteemed opponents: thank you for being here this morning for this riveting debate. 
+
+Because we’ve wandered a little off course, I’d like to remind everyone what we’re debating. I’ll read the resolution right from the paper to make sure I don’t miss anything: “Web3 is good.” 
+
+Now, the Opposition has tried everything to make this entire debate about centralization versus decentralization. If there is centralization anywhere – on the cap table or in the tech stack or in the platforms consumers choose to use – they’d have you believe, then web3 is bad. And they’ve shown that there is centralization in places. Of course there is! You’ll hear no argument here.
+
+But that does not mean the Opposition has won, because that’s not what this debate is about.
+
+Arguments around specific attributes of web3, or of any network, like centralization or the existence of bad actors, are besides the point, like arguing that the internet is bad because Facebook or 4chan exist. 
+
+We agree openly that there are bad actors and scams and frauds, and that a lot of tokens sit in the wallets of a few people. We agree that there is a lot more work to be done to build a truly decentralized internet for those who want it, and vehemently agree that not everybody will. 
+
+We’d go even further than our opponents and say that a fully decentralized future is impossible. Some people will always prefer centralized services for everything, many more will prefer fully decentralized services for some things and centralized ones for others. 
+
+But this debate is not about centralization versus decentralization. It’s about choice. 
+
+This debate is about whether or not web3, an internet owned by the users and builders, orchestrated with tokens, is net good or net bad for humanity, not just as it stands today in its earliest form, but in the promise it holds. (See what I did there?)
+
+It’s about whether the world will be better if entrepreneurs have web3 tools at their disposal, or not. Again, it’s about choice – choice for builders and choice for users. 
+
+Some people will want centralized services, some will want fully decentralized ones, many will choose points on the spectrum in between that work for them at different times and for different things. We’re arguing that they should have that choice.
+
+And we’re arguing that web3 gives them that choice.
+
+But we’ll get there. First, allow me to try to dismantle the Opposition’s arguments, as summarized in Professor Galloway’s rebuttal. I’ll show you why they’re irrelevant, incorrect, misleading, or just plain wrong. Importantly, I’ll show that when the evidence didn’t quite fit, he bent the truth to make it fit.
+
+This web of lies underpins what the Prof tries to pass off as an argument. If you weren’t able to follow it, I understand. I’ll try to summarize. It goes something like this:
+
+The elites are using the “promise of decentralization” to centralize control and achieve unimaginable riches. Centralization is evident in NFT and Bitcoin ownership, a Forbes list of twelve (12) cryptobillionaires, would-be-monopolies like Coinbase and OpenSea, and the infrastructure itself. There’s crime. DAOs aren’t that centralized because ConstitutionDAO wasn’t and because they elect representatives, and hey, why do we need new internet-native structures when we have public companies anyway? Also, centralization is pretty good because of the Webb Space Telescope, and web3 tools like NFTs and DAOs have potential, but like not that much potential, and regulators need to stop the innovators. Also, a16z invested in centralized companies. Meet the new boss… he’s your old boss. Plus, Elon’s on my side and Gary Gensler better do something. Anyway, Silicon Valley is trying to take over the media, the economy, and the military to achieve complete tyranny and they do not want web3 to be regulated. Web3 is the same thing as Web2.0, and Facebook and Google have too much control. Ask someone with teen girls if that’s good.
+
+I’m exaggerating a little here, but not really. Go back and read his piece. That’s the flow. It may not be yogababble, but it’s somethingbabble. 
+
+But an incoherent argument should draw sympathy, not ire. 
+
+What got my blood up were the four specific misdirections, two of which I was involved in personally, a third which I was a part of publicly disproving, and a fourth which is just plain numbers. You’ll see that without those, the Prof’s argument makes even less sense. 
+
+Misdirection #1
+Debate is so often a battle of definitions, so my ears perked up when the Prof used a modified version of my definition of web3 (and called it “yogababble”). 
+
+
+No Mercy / No Malice
+Yogababble is one of the Prof’s favorite words. He actually repeated it later in the piece, arguing that decentralization has “created a Coachella for fraud, where anonymity, yogababble, and complexity protect the fraudsters from oversight or accountability.” I’m not offended by the characterization. I don’t think mine is a perfect definition by any stretch.  
+
+What I am a little offended by is that the Prof tweaked my words to fit his core argument – that web3 isn’t actually as decentralized as it seems. Specifically, he added the word decentralized to the definition.
+
+The actual definition I used in the piece that he linked to is: “Web3 is the internet owned by the builders and users, orchestrated with tokens.” I intentionally didn’t use the word decentralized because I don’t think decentralization is actually the key feature. But it does make a good straw man, and so the Prof threw it in there. 
+
+To be charitable, it’s a subtle difference, and decentralization was discussed in the piece he referenced.
+
+But ultimately, that’s not the definition I used. He attempted to reframe what I said to fit his argument. He got caught. You can throw out that attempt. 
+
+Misdirection #2
+The second misdirection is straight numbers. 
+
+Galloway uses the chart below to show that, “The advertised decentralization of power out of the hands of a few has, in fact, been a re-centralization of power into the hands of fewer.”
+
+
+No Mercy, No Malice
+The chart on the right represents BitInfo data that shows that 2% of accounts own 95% of Bitcoin, meaning that, “​​If it were a country, Bitcoin would have the greatest inequality in the world.” 
+
+(Of course, nowhere in the Prof’s argument does he mention that his former-enemy-now-ally Jack and his company, Block, are among the world’s biggest Bitcoin holders and are in that 2%.)
+
+There’s a big hole in that analysis, though, which Glassnode uncovered last February. The 2% includes wallets for exchanges like Coinbase, whose wallets hold Bitcoin for millions of people. Adjusting for that, the top 2% own 71.5% of Bitcoin. That Glassnode article is not obscure; it’s the fourth thing that comes up when you Google “Bitcoin concentration.”
+
+We agree that 71.5% is still a heavy concentration; not as sensational as 95%, but it has the benefit of being accurate, to the extent that matters to our opponent. We agree that we would like to see ownership more evenly distributed. But we disagree that it’s relevant to the Professor’s argument, especially since to the Prof’s teammate, Jack, web3 and Bitcoin are very different.
+
+It’s another small thing, but I hope you’re picking up a pattern of the Prof disregarding any evidence that is inconvenient to his case. 
+
+Misdirection #3
+Next, the Prof argued that DAOs are often not-decentralized by using the example of ConstitutionDAO, which I was involved in. Specifically, he wrote: 
+
+ConstitutionDAO, which made news when it lost out in a $43 million bidding war for an original copy of the U.S. Constitution, hadn’t even established a governance model before it shut down, because the founders hadn’t figured out how to prevent a few large holders, or “whales,” from taking control. [Emphasis mine]
+
+He linked to this conversation that core team member Jonah Erlich had with The Verge’s Nilay Patel. Turns out, that’s not really what Jonah said. I’m going to give the full section of the conversation here to show you how the Prof picked and chose: 
+
+Verge: When someone buys tokens named $PEOPLE or $WTP, do they get one vote per token?
+
+​​Jonah: We had not figured out the governance model. In the rush to be able to buy this document, there were a lot of details that we were going to figure out after we had won. We were actually discussing different governance models had we won. One of the big concerns is that some of the large holders in the crypto world — we call these whales — would have outsized control over what happens with the documents. Our big message is: this is a movement for the people. This is the people’s document, so we want to have it controlled by the people.
+
+We were looking at different mechanisms. We were looking at the direct democracy voting: one token, one vote. We were also looking at one vote per wallet, which isn’t an exact proxy for one person, but it’s pretty close. Quadratic voting is another mechanism in which voting power is actually diminished when a person has more tokens: you don’t have a hundred extra votes for every hundred extra tokens, but rather a smaller amount of votes as that number of tokens increases.
+
+Verge: When you say DAO is speedrunning the history of organizational structure, you’re describing speedrunning the history of democracy: setting up a voting system and figuring out how those votes will be representative of a group of people. However, a group of people has to make those decisions; not exactly democratic. How is that working for ConstitutionDAO?
+
+Jonah: There’s a good concept called progressive decentralization: it’s really hard to actually start something fully decentralized, so you have to start with an initial team that builds something, who then brings it to decentralization. Our plan with ConstitutionDAO [was] that, once we win this auction, we’re going as fast as we can to becoming fully decentralized to the greatest extent possible.
+
+Only in the least charitable interpretation could you read the above as “hadn’t established a governance model because they couldn’t figure out how to stop whales from taking over.” 
+
+In fact, Jonah mentioned whales in response to Patel’s question about whether people would get one vote per token, not as a reason that there wasn’t a governance model in place. The truth is the opposite of the point that the Prof made; the founders knew exactly how to stop whales from taking over: don’t give one vote per token.
+
+As Jonah laid out, the real story was: 
+
+There was less than a week from idea to auction,
+
+The team chose to tackle things that weren’t mission-critical, like a governance model in the case of a win, until we actually won, 
+
+The potential governance options were known (Jonah listed a few); that wasn’t the bottleneck,
+
+The plan all along, as it should be for 99.9% of DAOs, was to progressively decentralize, which is accepted best practice. 
+
+That’s not me leaning on memory and first-hand experience, that’s exactly what Jonah said in the conversation the Prof referenced. The Prof just chose to leave out anything that didn’t fit his point.
+
+That a 6-day-old project had not yet decentralized is a weak and amateur indictment of the concept of DAOs as a whole. Indeed, it seems the Prof’s arguments against DAOs more broadly are based on a very basic and inaccurate model of governance in which maximum decentralization is the goal and every decision should be one person, one vote. That doesn’t reflect the reality on the ground.
+
+Misdirection #4
+Finally, my opponent argued that the decentralization narrative “is a false god evangelized by high priests who pass collection plates the size of Mars and admonish regulation as heresy.” [Emphasis mine]
+
+The language is fun and colorful; the point is simply untrue. 
+
+Outside of a handful of Bitcoin maximalists (who tend to hate on web3 anyway), there is not a single serious person in web3 or crypto or whatever you want to call it who doesn’t believe that it should be regulated, let alone who believes that regulation is heresy. Every founder and investor I’ve ever spoken to on the topic wants regulation in the US to come sooner so they can stop building and investing in ambiguity. 
+
+In fact, when a16z’s Chris Dixon and I wrote about the future of crypto in The Economist, we ended the piece with a call for sensible regulation of the industry in America and beyond:  
+
+In the coming year more leaders, in America and in other democracies, will realise the need for sensible regulation that encourages responsible innovation while also allowing entrepreneurs to build the next generation of the internet.
+
+a16z, where I am an advisor and which the Prof decided to single out with its own section, has a section on its website dedicated to web3 policy, which states:
+
+We are radically optimistic about the potential of web3 to restore trust in institutions and expand access to opportunity. But realizing that potential depends on smart policy. Good regulation establishes a framework for how innovation can benefit society while managing the real risks that might otherwise harm consumers. It’s time to define that vision.
+
+No one is admonishing regulation as heresy. Quite the opposite. I suggest that the Prof take a glimpse at the firm’s recommendations for policymakers… 
+
+
+a16z
+These are the facts. But the facts might get in the way of the Professor’s good story. Bring the truth to light and all he’s left with are, as @Jack would say: “Words.”
+
+Of course, there are more examples of little things that betray a lack of understanding, or a lack of desire to understand.
+
+He mentions a16z’s investment in the centralized exchange, Coinbase, but not its investment in the decentralized exchange, Uniswap. 
+
+He points to data showing that blockchain tokens launched recently have more insider ownership at share launch without acknowledging that most of those projects were founded and funded during crypto winter and needed VC funding to survive.
+
+No doubt taking a cue from Moxie, he also used OpenSea as an example of web3’s centralization. He overplayed his hand without understanding the facts: 
+
+The potential to establish monopoly power, to own the rails (i.e., to centralize), is increasingly what VCs fund, and that’s the true protocol for web3. OpenSea, the world’s largest NFT marketplace, is eerily similar to any other exchange platform: In return for making transactions easier and (modestly) safer, the company takes a 2.5% cut of every transaction.
+
+Ironically, four days before the Prof published his piece, an NFT platform called LooksRare launched. NFT platforms launch all the time. What made this one particularly relevant is how it bootstrapped initial demand. 
+
+LooksRare airdropped 12% of its total $LOOKS token supply on users based largely on how much volume they transacted on OpenSea between June and December 2021. That data was easy for them to access; it was all publicly available on the Ethereum blockchain. 
+
+LooksRare was able to attract OpenSea’s biggest customers by giving the biggest rewards to the people who’d spent the most on OpenSea. They were also able to induce those customers to perform specific activities on LooksRare to unlock those tokens: I wasn’t able to claim my 200 $LOOKS until I listed an NFT for sale on the platform. I’ve actually never even listed an NFT on OpenSea, but I have listed one on LooksRare now! 
+
+So is it working? According to this Dune Dashboard from @hildobby, yes: 
+
+
+@hildobby on OpenSea
+It’s early, and there’s a lot of buzz around $LOOKS, but it’s a good start. LooksRare is doing 2-3x the daily volume of OpenSea, although OpenSea is still smoking LooksRare in terms of Daily Users and Daily Transactions. As a few people have pointed out, there’s some wash trading and marketplace mining at play here, which accounts for the discrepancy, but it’s a good start for a week and shows one angle of attack to knock off centralized services with decentralized ones.
+
+Now, it’s up to LooksRare to build on the early momentum and retain and grow its user base. To do that, it architected the platform to lower gas fees, rewards users for buying and selling NFTs, charges lower trading fees, and shares 100% of fees with $LOOKS holders who’ve staked their tokens. 
+
+
+LooksRare
+It’s hard to look at that and call OpenSea a monopoly. That is, of course, if you’re looking, if you’re trying to find the truth instead of trying to win the debate. 
+
+In fact, that’s the point that Jack, Moxie, and certainly Professor Galloway missed. It’s not about whether any particular platform is centralized, or who owns how much of what. It’s about the fact that the data is open, that builders and users have choice, and that they’ll choose the platforms that extract less and give them more ownership.
+
+In web3, if a platform misleads its users, those users can choose to take their data and money to another platform. 
+
+It also highlights why the whole debate is practically meaningless. While we exchanged words, a few entrepreneurs opened up their laptops, built something better, and made the case for web3 better than I ever could. 
+
+I hope we can end this silly debate now and engage in more nuanced, thoughtful conversation like the one prompted by Moxie’s piece instead of loud and inaccurate yelling like the Prof’s. Or just get out of the way.
+
+Web3 isn’t all good or all bad, but we believe it’s net good, it’s happening either way, and it deserves more thoughtful and honest critiques and, yes, regulation, in order to reach its full potential.
+
+Thank you, ladies and gentlemen, I rest my case. Life is so rich.

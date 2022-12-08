@@ -1,0 +1,359 @@
+Hi friends 👋 ,
+
+Happy Monday!
+
+On Thursday, I sent out Part I of a two-part series on web3 use cases, today and in the future. In today’s essay, we’ll focus on the future and discuss whether web3 will be worth the hype.
+
+Note: I tried to limit this to 1k words, then to 3k, and ended up over 6k. There are a bunch of nuance and a bunch of use cases that still didn’t make it in. This is a complex system, and the best way to find out how it’s going to play out is to watch it evolve.
+
+In the meantime, I’ll lay out why I’m personally excited.
+
+Let’s get to it.
+
+
+What’s the point of all of this? If web3 ends up becoming a big thing with a lot of users and new, valuable business models, so what? 
+
+On Thursday, I wrote about the web3 use cases that exist today to set a baseline:
+
+NFTs: $31.3 billion of volume in the past year on OpenSea alone
+
+Decentralized Exchanges: the leading DEX, Uniswap, has handled over $1T in volume
+
+DeFi Protocols: Compound, Maker, Aave, and other DeFi lending protocols have held up well during the sell-off while centralized DeFi lenders have struggled
+
+Real-World Lending: Goldfinch and Jia help close the credit gap in developing countries.
+
+User-Owned Marketplaces: Braintrust has doubled Gross Service Volume to $74 million in the past five months while keeping its take rate at an industry-low 10%.
+
+Connected Device Networks: Helium and DIMO facilitate networks built by users and ecosystems of applications built on top of user-owned data.
+
+Stablecoins: USDC, DAI, and other fully/overcollateralized stablecoins facilitate payments, especially internationally. There are $155 billion of stablecoins in circulation.
+
+Evan Conrad Use Cases: In a blog post, Evan Conrad highlighted non-government money, cheap loans, Filecoin, Lab DAO, Radicle, Helium, Toucan, and Golden.
+
+Today, real people are spending real money to use real products, even if some seem silly or circular. 
+
+But the real question isn’t whether there are any use cases, but whether there will be use cases that, collectively, are worth the hype. 
+
+Twitter avatar for @levie
+In other words, will web3 produce use cases that justify all of the venture dollars, investment, and talent dedicated to the space? I think it will. That’s what today’s essay is about. 
+
+There are two time-scales on which I’m excited about web3’s potential: the next few years and the next few decades.
+
+If there is another bull cycle in the next few years, I think it will happen on the backs of real products that people use at scale, not speculation. When those hit, speculation will follow, but that will look more like a traditional tech bull run than pure speculation. These products are on the way – the applications are coming and the infrastructure continues to improve. 
+
+In the next few decades, I believe that web3 infrastrastructure will become the fabric of much of what we do online and in our financial lives. I also believe that the experiments web3 protocols are running in economic design, incentive alignment, and governance will jump out of the internet and impact “real-world” institutions. 
+
+Today, I’ll dive into some of the future use cases and potential benefits I’m excited about. 
+
+The Next Few Decades 
+So let’s begin with the future. If all of this pans out, so what? 
+
+Personally, I’m excited to see more rapid iteration, more ownership and upside for users, new governance and economic models, more liquid, efficient, and global capital markets, and a more fun world. 
+
+While it’s hard, in the midst of a bear market, to see a path through all of the short-term technical, financial, and social challenges, it’s actually equally difficult to imagine a future world a few decades out in which web3 doesn’t play a big role. 
+
+When I think about where all of this is heading, I have a graph that looks something like this in my head: 
+
+
+When people say that web3 is speedrunning the history of financial markets, or speedrunning the history of governance, what they mean is that we’re making a whole lot of mistakes that have already been made before, at a much faster rate than we’ve made them before. 
+
+In the earlier stages of that process, it looks incredibly stupid. “That’s a ponzi!” “Of course direct democracy doesn’t work for DAOs, there’s a reason the US is a representative democracy. And at that point, are you really decentralized?” “Have these people learned nothing from 200,000 years of human history?” 
+
+But I think that there’s a logical fork, and that you have to believe that one or the other is true: 
+
+That existing economic and governance models are as good as they’re ever going to get. 
+
+That they’re not, and whatever allows for the most rapid iteration on new models will ultimately produce superior models. 
+
+If I had to describe why I’m excited about web3 in one idea, it would be that: web3 allows for the most rapid iteration on new economic and governance models of any system humans have built. 
+
+Every new app, game, and protocol is simultaneously a mini-experiment in economic design. Every DAO and even some NFT projects, like Nouns, is simultaneously a mini-experiment in governance. In the early days, that means that web3 entrepreneurs face even more complexity than a traditional entrepreneur might – they need to build a great product, a thriving economy, and an attack-resistant and productive governance system. Some skeptics believe that the trifecta represents too much complexity to build things users understand and love. Centralized products can move more quickly on their own. But I think web3 startups will experiment, learn, and evolve quickly as a hive, that each successive startup will build on the previous startups’ software and Idea Legos until they accelerate past current institutions’ pace.
+
+Some of that experimentation will be micro: for example, a web3 version of Twitter with an open protocol on top of which anyone can build clients will power more innovation in web3 Twitter client design. Other experimentation is macro: for example, how large groups of token holders can govern lending protocols that control billions of dollars fairly. In both cases, there will be more failures than breakthroughs. 
+
+But the breakthroughs might be very important. They might influence how we design traditional economies and institutions, and even the economic and governance models we create when we get to build them from scratch, on Mars, asteroids, and beyond. 
+
+At the core of web3’s rapid iteration is the concept of Hyperstructures. Jacob Horne’s essay on Hyperstructures, which I shared on Thursday, is foundational reading, literally. Hyperstructures are “Crypto protocols that can run for free and forever, without maintenance, interruption or intermediaries.” They “are entirely onchain, and are public goods which create a positive-sum ecosystem for any participants.” 
+
+
+Paolo Soleri's "hyperstructure" in ground-level view from Hyperstructures
+Hyperstructures are like the open protocols like http, IP, DNS, SMTP, and the others that underpin the internet we know and love, with additional features, as laid out by Horne: 
+
+Unstoppable: the protocol cannot be stopped by anyone. It runs for as long as the underlying blockchain exists.
+
+Free: there is a 0% protocol wide fee and runs exactly at gas cost.
+
+Valuable: accrues value which is accessible and exitable by the owners.
+
+Expansive: there are built-in incentives for participants in the protocol.
+
+Permissionless: universally accessible and censorship resistant. Builders and users cannot be deplatformed.
+
+Positive sum: it creates a win-win environment for participants to utilize the same infrastrastructure.
+
+Credibly neutral: the protocol is user-agnostic.
+
+The concept shares ideas with Chris Burniske’s Protocols as Minimally Extractive Coordinators, a classic that I’ve quoted a bunch. 
+
+The important thing to take away from both pieces is that web3 introduces the opportunity to create software infrastructure that is free to use forever, and that anyone can build on top of, but that rewards “the builders and participants for creating and contributing to these invaluable systems that serve society at large for many years to come.” 
+
+The most successful example to date, which I highlighted last week, is Uniswap. Despite not charging its users a fee, Uniswap has a $4.1 billion market cap (fully diluted: $5.6 billion). Horne believes that there should be a single hyperstructure for each financial and non-financial utility: exchanges (Uniswap), marketplaces, lending pools, options, domain names, registries, identity, curation, tags, reputation, emojis, read receipts, and more. 
+
+Each would be a piece of free infrastructure, composable with other pieces of free infrastructure, that each successive generation of entrepreneurs can build with, enabling them to focus on the thing that differentiates them, thus increasing the rate of innovation and abundance of creativity. Hyperstructures excite me for the same reason that APIs excite me, with the added benefits of being free, permanent, expansive, and permissionless. 
+
+Hyperstructures will underpin a global, liquid market for both digital and physical items. 
+
+As Zach Weinberg highlighted in our debate on DeFi and housing, there’s a lot to figure out to bring real world assets (RWA) online. For one, what happens in the case of default? While defaults are a rare occurrence that happen on less than 2% of loans, they will still need to be settled on paper, in courts. There will need to be hybrid solutions that mirror some analog workflows. But dealing with legacy processes for a small minority of cases in order to make the majority of cases faster, cheaper, more efficient, and more composable is a feature, not a bug. 
+
+Personally, I think it’s inevitable, and I’m going to quote our friend Jeff Bezos to explain why: 
+
+'What's not going to change in the next 10 years?' … [I]n our retail business, we know that customers want low prices, and I know that's going to be true 10 years from now. They want fast delivery; they want vast selection. It's impossible to imagine a future 10 years from now where a customer comes up and says, 'Jeff I love Amazon; I just wish the prices were a little higher,' [or] 'I love Amazon; I just wish you'd deliver a little more slowly.' Impossible.
+
+Customers want low prices, fast delivery, and vast selection. Web3 has the potential to bring all three to financial markets. Whether in ten years, twenty, or thirty, I expect that most large financial assets and transactions touch web3 – whether that’s houses, cars, project finance, or company ownership. Bringing those assets on-chain will connect them to global pools of capital and liquidity, and to all of the money legos being created in DeFi. 
+
+As Sam Lessin put it, “Most things people own, real estate, small businesses, etc. have shit access to liquidity, leverage, etc.” The prize for solving that pain point is enormous – the tokenization of everything – and will attract waves of talent, capital, and creative approaches. Obviously, this will need to be done hand-in-hand with smart regulation. When crypto touches RWA – when small business owners can source cheaper capital, when homeowners can get more competitive home equity loans, and when users can seamlessly own a piece of the products they use – regulators will be motivated to find solutions that protect people without restricting access. 
+
+With Hyperstructures, tokenized everything, and rapid iteration on economic and governance models, web3 will be a big piece of the puzzle in solving some of humanity’s most complex challenges.
+
+Physical 
+
+The first essay I wrote this year was called The Laboratory for Complex Problems. It was about web3’s opportunity to be a simulator for solutions to complex problems that require large-scale human coordination, like climate change.
+
+The theory is simple. All of the tokens, voting, and even NFTs are in a goldilocks zone: contained enough that the stakes are low for most people, but with bigger financial consequences than the $20 students play with when they participate in academic economics studies. Plus, web3 ecosystems are dynamic and interconnected, more like the simulations that complexity scientists run than formulae and theories, with real people instead of “economic man.” Read that piece for the full argument; for now, I’ll quickly go over two complex problem areas that web3 is starting to tackle via regenerative finance and decentralized science.
+
+Regenerative Finance. Among the challenges with our current financial system is that it’s too easy to get away with producing negative externalities and letting the commons foot the bill. Regenerative Finance (ReFi), is a bold attempt to rethink the system. As I wrote in Celo: Building a Regenerative Economy:
+
+ReFi is a beautiful idea – a re-imagining of the financial system using the tools humanity now has at its disposal to better account for the needs of all stakeholders, current and future. It puts a price on externalities, charging those who create negative externalities and rewarding those who create positive externalities. 
+
+Specific ideas in ReFi include UBI, lending, data ownership, community commerce, and many web3 x climate projects that Not Boring Capital has backed, including: 
+
+Toucan: The web3 Carbon Stack, including tokenized carbon credits, with over 21.9 million tonnes of CO2 bridged to date.  
+
+Loam: Creating a marketplace for farming data, a fast, easy, and transparent platform to incentivize farmers to engage in regenerative practices.
+
+Do you need a blockchain for these use cases? Maybe, maybe not. Carbon credits exist already. It might be possible to create a web2 marketplace for farming data and an exchange for credits based on the carbon farmers put back into the ground. Web3 just makes both more efficient, transparent, and composable – imagine a pool of Loam Credits tapping into global capital markets on Toucan. On a recent episode of Bankless, Mark Cuban talked about how much easier it was to buy and burn BCT (Base Carbon Tonnes) on Toucan to offset his carbon footprint than it was to buy carbon offsets from a broker. 
+
+Twitter avatar for @BanklessHQ
+(To be fair, he also said he hasn’t seen a killer app like streaming yet, which I agree with.)
+
+By simply making it easier to access carbon credits and providing a liquid, global market, ReFi has the potential to increase the demand for offsets (Toucan, Flow Carbon), which should spur more supply of carbon offsetting projects (Loam, Open Forest Protocol).
+
+There’s been an explosion in ReFi projects over the past year, but I’m keeping this in the future bucket, because it will be decades before we see how much of an impact they’ve made. 
+
+Read more about ReFi here:
+
+
+Decentralized Science. Another web3 category with physical world impact is Decentralized Science (DeSci). As Phas3 founder Sarah Hamburg wrote: 
+
+Still in its infancy, DeSci lies at the intersection of two broader trends: 1) efforts within the scientific community to change how research is funded and knowledge is shared, and 2) efforts within the crypto-focused movement to shift ownership and value away from industry intermediaries.
+
+Hamburg highlights potential applications of DeSci – funding, peer review, access incentives, pace, specific fields like biotech – along with some open questions, including whether DeSci is really the best name. Decentralization doesn’t feel like the core value prop; instead, she highlights a few areas in which blockchains are useful: 
+
+Smart contracts to mediate between authors and peer reviewers without going through the academic publishing industry. 
+
+Incentivized communities might use tokens and NFTs to encourage scientific communities to share, review, and curate different resources. 
+
+Combat censorship by storing data and information forever to avoid political interference.
+
+Blockchain-based funding models might use the public goods, DeFi, NFT, or DAO Legos to get projects funded, return value to the funders, and create self-sustaining scientific communities. 
+
+Verifiable reputation to let anyone contribute science, peer review, or fund based on what they know instead of which institution they’re associated with. 
+
+Ownership to let scientific communities own their work and the results of their work. 
+
+I suspect that one of the most successful early applications of DeSci will be funding. 
+
+Not Boring Capital portfolio company Vibe Bio launched last week to create DAOs that fund research and drug development for rare diseases, which have definitionally smaller markets than more profitable blockbuster drugs. Vibe believes that “The biggest obstacle to treating patients with overlooked diseases isn’t finding potential treatments — it’s funding them.” 
+
+
+Vibe Bio
+By aligning a community of patients, scientists, and other partners, they plan to get treatments funded that wouldn’t be worth the trouble for big pharma, smooth the approval process by aggregating trial participants, and give patients the potential for financial (in addition to medical) upside if the drugs are successful. Vibe launched with two partner communities – NF2 Biosolutions and Chelsea’s Hope – to find cures for NF2 and Lafora disease. 
+
+Why a DAO? Why not a Kickstarter or a series of LLCs? The first answer is the simplest: the ability to tap into crypto’s global funding market. Plus, as projects generate successful outcomes, the money goes back to the DAO, and the community can vote on which additional projects to fund with the proceeds. 
+
+I’m interviewing Vibe co-founder Alok Tayi on Not Boring Founders this morning; subscribe to hear his rationale for building Vibe on web3 rails.  
+
+Molecule also uses web3 tools to fund life science research, starting with three DAOs: 
+
+VitaDAO is focused on longevity research
+
+PsyDAO is focused on psychedelic medicine
+
+LabDAO is an open, community-run network of wet & dry laboratory services
+
+At the core of Molecule’s approach is the IP-NFT, through which they attach projects pre-screened by their community of scientists and practitioners to NFTs. People can fund projects by purchasing the NFT, and if the IP-NFT is sold, funders get upside. It’s a novel way to fund early stage research and development for research projects that might not get funding via traditional channels. 
+
+DeSci is in the very early days, and you should read Hamburg’s Guide to DeSci to understand the current state of the market, including some very real challenges and open questions. But if DeSci is successful in making it easier to fund scientific research and for scientists to share knowledge, this one small area of web3 could be important enough to justify the hype. 
+
+Digital
+
+More obviously, web3 will impact the internet economy. In the upside scenario, web3 will serve as the value layer of the internet, connecting a global digital economy. Let’s jump into the Metaverse.
+
+The Metaverse. The best way to get someone to stop taking you seriously is to say “Metaverse” with a straight face, but here we are. 
+
+The Metaverse is already here. People spend more and more time online, nearly 2x as much as we did a decade ago. As I wrote in The Great Online Game, crypto is the in-game currency for our online activities. If the Metaverse is going to become a larger part of our lives, then our digital goods will need property rights like we have for our physical ones. Simply put, crypto gives physical properties to digital items, making them ownable, tradeable, composable, portable, and interoperable across platforms. 
+
+Whether the Metaverse looks like Twitter and Zoom and video games or is comprised of immersive, multiplayer virtual spaces, like Cyber, being able to own items and transact with minimal friction will be important to a smoothly functioning economy.
+
+
+Cyber x RTFKT Pod
+The first piece I ever wrote on web3, The Value Chain of the Open Metaverse, describes why I think web3 will be a necessary component of the digital economy. 
+
+
+Read that piece for more comprehensive thoughts. The most relevant part is that, by replacing centralized aggregators with minimally extractive Hyperstructures, more value can accrue to creators and consumers, incentivizing a richer, more liquid economy. 
+
+
+The idea that web3 might be useful for the Metaverse isn’t controversial. On Cartoon Avatars, Jon Wu and Zach agreed that at this point, it’s a matter of believing that the future will turn out a certain way, and of waiting and seeing whether that turns out to be true. I won’t spend more ink on it here. 
+
+For all of the reasons above and more, I believe that if we get it right, web3 will be well worth the hype and money that’s gone into the space to date. But will we get it right? What progress is being made now? Will web3 get over the hump and reach a point where regular people use and benefit from it? 
+
+With that utopian vision of the future painted, and the acknowledgement that we’ll have to wait and see, let’s turn to some of the things I’m excited about in the near-term. 
+
+The Next Few Years
+To get to that utopian future I described above will require a lot of hard work, experimentation, and mainstream usage over the next few years. We’re not entering the next bull cycle until there are use cases beyond speculation that drive adoption and add value to peoples’ digital, and even physical, lives. People are less likely to be lured in by “risk-less” 20% yields or baseless “Bitcoin to $250k!” prognostications a second time around. 
+
+It’s not surprising that there aren’t a lot of web3 applications with broad appeal beyond speculation and lulz yet. Great products take time to build. Great networks take longer to build. Smart contracts are seven years old. 
+
+Patience will run thin quickly, however, without killer web3 apps that emphasize great experiences over speculation. I’ll cover a few of the most promising areas that might generate those killer apps.  
+
+Web3 Social. I was a skeptic about web3 social – thanks in large part to Bitclout, which was just Twitter + Tokens – because I didn’t think that adding money would be enough to overcome incumbent social media platforms’ deep network effects. And as it stands, building fully decentralized social networks on web3 rails would be too slow, clunky, and technical for all but the most ardent crypto fanatics to use. 
+
+My view changed when I read Varun Srinivasan’s Sufficient Decentralization for Social Networks. Varun posits that decentralized social networks can challenge centralized social networks by making two promises: “They can guarantee that users own a direct relationship with their audience and that developers can always build apps on the network.” 
+
+To believe that web3 social will take off doesn’t require you to believe that any one social product would benefit from building in tokens. Instead, it requires you to believe that a well-designed social protocol – potentially a Hyperstructure itself – will give each of the more centralized, performant, and novel apps built on top of it a better shot at building and sustaining network effects by tapping into a shared social graph. 
+
+
+One of the most challenging aspects of building a web2 social product today is bootstrapping a network and attracting enough people that other people are willing to stick around. 
+
+As users come for specific apps, potentially including ones built by the same team that built the protocol, they can create user names, messages, and connections in one app that get written to the protocol, and that they can use in any other app in the ecosystem. Importantly, the apps themselves can be built in a centralized way that maximizes the quality of the user experience. Some apps will become really popular, others will, like so many social apps created over the past decade, get super hot early and burn out, but all will contribute to the strength and quality of the protocol’s network, making it easier for the next app to come in and tap into more users. That should mean that app developers can spend more of their time focused on building excellent, targeted user experiences instead of figuring out how to reinvent the network wheel. 
+
+Plus, by connecting the apps, users would be able to build followings in one app that accrue to all of the other apps they use in the ecosystem. Imagine, for example, if all of your Twitter followers followed you on Clubhouse, or if every follower you picked up on Clubhouse automatically (or by opting in) followed you on Twitter. I bet things would have gone differently – Twitter might not have built Spaces, more creators would have found creating content on Clubhouse to be more worthwhile – if both were built on a web3 protocol. 
+
+There will be challenges, of course. There are a lot of people I follow on Twitter who wouldn’t use a web3 product if it’s presented as a web3 product, for example, which would make the experience inferior to regular Twitter. Web3 social’s killer apps will likely have to feel like normal social apps and focus on simplicity over web3 bells and whistles. Even still, the killer apps might start out by amassing a big chunk of crypto enthusiasts or by appealing to a younger demographic that’s more likely to try new social apps.  
+
+In this space, I’m excited about what Farcaster and Lens Protocol are building. As I’ll mention in the conclusion, it will likely be important for one winning protocol to emerge in order for web3 social to reach its potential. 
+
+Web3 Gaming is evolving, too. 
+
+In 2021, play-to-earn gaming was all the rage, led by Axie Infinity’s wild ascent. When I wrote about Axie last July, it had done $79 million in revenue in the first 18 days of that month. 
+
+
+Axie World
+It peaked the next month at $364 million, most of which came from fees to breed new Axies. Volume has fallen dramatically since, to under $1 million last month. Thanks largely to lessons learned from Axie, play-to-earn has fallen out of favor and better games are in – Sky Mavis itself, the creator of Axie Infinity, recently released Axie Infinity: Origin, which gives users free starter NFTs instead of making players buy NFTs to get started. 
+
+If good web and mobile products take a long time to build, AAA games take even longer. AAA games can take a team of 100+ people anywhere from two to five years to develop. Over the past year or so, game developers from AAA studios have started to build for web3, and it will take another year or two before they release their titles. These games will tap into web3 models and infrastructure where useful, and use centralized tech where necessary. Great games first, ownership as an added benefit. 
+
+One that I’m excited about, and that Not Boring Capital invested in, is GOALS, a “gameplay first football game.” GOALS will be free to play, but more serious users can own and trade assets. Essentially, if you just want to play, it will be a fun, fast-paced, free soccer video game. If you want to go into Franchise mode, there will be a thriving economy around players, training, equipment, stadiums, teams, tournaments, and more that will let players earn for their talent. The focus, though, is on the gaming experience. Earlier in June, the team dropped this trailer, which shows off the quality they’re building towards: 
+
+My guess is that the early breakout web3 games will follow a similar model: top-notch gameplay, a free mode for people who just want to have fun, and a crypto-powered economy for people who want to win or earn by playing and building. From there, game worlds will get more complex and connected, as laid out by a16z Games investor James Gwertzman in this thread:
+
+Twitter avatar for @gwertz
+There are challenges here, too. For one, a lot of gamers fucking hate web3. When Discord CEO Jason Citron shared a screenshot of a Discord/Ethereum integration in my replies, I had to mute notifications because there was so much vitriol coming in by the second from his company’s largely gamer user base. There will need to be a lot of work to convince gamers that web3 isn’t a scam, not mainly in words, but in the way that game developers design their economies. 
+
+But the prize is worth the fight. Video games are an absolutely enormous market, generating $165 billion in revenue in 2020 and $180 billion in 2021. 
+
+
+Visual Capitalist
+And they have an interesting feature relative to other forms of entertainment, like music: new platforms tend to be additive to overall revenue instead of cannibalizing prior ones. Games with rich, connected economies can be a rich new layer on this revenue stack, and ultimately, give Console, PC, and Mobile games new ways to monetize. 
+
+Decentralized Storytelling. Web3 social and gaming might end up looking like different versions of things we’re used to. Not all of the use cases will be so straightforward. One that I’ve been particularly excited about, probably because I write for a living, is decentralized storytelling. While different projects in the space take different approaches, the general idea is that communities and fans of particular stories and characters can participate in creating their favorite story’s universe. 
+
+Not Boring Capital has invested in two companies in the category: Tally Labs, the team behind Jenkins the Valet, and StoryDAO. Mythos, led by the Founding Chairman of Marvel Studios and my friend Clint Kisker, and Adim, founded by It’s Always Sunny in Philadelphia creator and start Rob McElhenney, are both worth watching, too. 
+
+Decentralized storytelling is trying to solve two problems simultaneously: 
+
+How content and IP get funded and developed. In the current model, studios and streaming services like Netflix buy the rights to IP and cap creators’ upside. Since it can take hundreds of millions of dollars to build up great IP in the traditional model, creators are often left with no choice but to sell. 
+
+Community involvement in world building and storytelling. Fan fiction — fans writing their own stories based off of Star Wars or Harry Potter or other popular IP — is surprisingly popular, but those creators don’t impact the core IP. Decentralized storytelling would let fans help create the universe and tell stories, all off of a central IP backbone, and own their favorite characters.
+
+As one example, Jenkins the Valet is releasing a book written by Neil Strauss with input from Writer’s Room ticket holders. The book licenses characters from Bored Ape and Mutant Ape holders, and shares the profits from the book sales (done as NFTs) with them.
+
+Twitter avatar for @jenkinsthevalet
+This space is early, but I think is one of the most fascinating. To learn more, listen to my conversations with the Tally Labs Founders here:
+
+And the StoryDAO founders here:
+
+Tokengated Commerce. When Alex Danco visited Not Boring to write about tokengated commerce and how his team at Shopify is making Shopify wallet-aware, I got a lot of feedback that it was the most compelling and easy-to-understand web3 use case people had come across. 
+
+Tokengated commerce, according to Danco, “starts with an observation: that there’s a new kind of internet user out there in the world, called people with wallets.” In those wallets, people might have fungible tokens or non-fungible tokens, but the fact that they can show up to an online store with the contents of those wallets turns them into non-fungible buyers. Merchants can treat those people as non-fungible, without ever having met them before. 
+
+
+If you own a Doodle NFT, for example, the Doodle Store might let you buy a hoodie reserved only for Doodle holders. More magically, any merchant, Doodle-affiliated or not, could give Doodle holders access to certain things that a fungible buyer might not be able to access. The Yankees might have Doodle night, and give discounted tickets to anyone with a Doodle. Supreme might reserve a certain number of pieces in its upcoming drop for Doodle holders. 
+
+Tokengated commerce connects the very real ecommerce market to web3. Tokens have the potential to add richness to the online shopping experience that makes it feel more like physical shopping.  Read the full piece here for a detailed breakdown of how it works, why it matters, and why blockchain and tokens are necessary ingredients:  
+
+
+This is happening already. Shopify has “four amazing tokengating apps live - PERC Engage, Manifold, Shopthru, and Lit Protocol” for merchants to plug into their stores. 
+
+People are willing to do crazy things to access exclusive products. Popular merchants will be a driver of new web3 users, and will show a more mainstream audience that NFTs can be a lot more than jpegs. 
+
+Data Ownership and Wallet-Aware Sites. Tokengated commerce is a subset of a broader concept that I’m excited about: wallet-aware sites. When Nikhil Basu Trivedi asked for my contribution to his annual Next Big Thing piece in December, I wrote: 
+
+
+Tokengated commerce is one example of this idea, but I think developers will begin to build a wide range of wild wallet-aware products. Here are a few potential applications: 
+
+Personalized Recommendations. Spotify has a huge data advantage – it knows what you listen to, how often, and for how long, and can build tailored playlists that keep you coming back. What if I could carry my listening history in a wallet across the internet, along with all sorts of other information about myself from different sources, and give access to third-party apps that could recommend different playlists, of course, but also movie recommendations, book recommendations, product recommendations, and even food recommendations? 
+
+Koodos. Koodos, a Not Boring Capital portfolio company, lets people turn their favorite things across the internet into NFTs, not for financial gain, but to show off what they care about, like a digital scrapbook or wall full of posters. Developers might build experiences on top of Koodos that are even better personalized than they might be from a firehose of data. Or creators might surprise their biggest collectors with special experiences. 
+
+Discounts for a Cause. A lot of businesses came forward in the wake of the Supreme Court’s decision to overturn Roe v. Wade to say that they would pay for out-of-state travel for abortions. In part, that’s a way to support their employees; in part, it’s a way for them to show that they support women’s rights. What if those same companies also offered discounts to people who could prove that they donated to support women’s rights? Some friends of mine launched ChoiceDAO, which is raising $1 million and donating it in $250k tranches to various organizations based on community input. What if donors received an NFT, which Dick’s or Disney could read? 
+
+Over the next few years, we’ll begin to see more wallet-aware experiences pop up across the internet. They might be created by web3 companies, or they might be a subtle option presented by established companies, like Shopify merchants or sports teams. 
+
+One of the Not Boring Capital portfolio companies I’m most excited about, Vana, is working to make it easy for people to own and give access to their data, which will help open up this new world of digital experiences. 
+
+Wallet-awareness will make the whole internet a more magical, personalized, and connected place. 
+
+Zero-Knowledge Proofs, Soulbound Tokens, DAOs, and Beyond. The first draft of this essay had a promise: to keep it under 3,000 words. We’re at twice that now, so I’m going to chill on the use cases and quickly highlight some key pieces of infrastructure that could be useful in addressing big open challenges and helping some of those applications go mainstream.
+
+Zero-knowledge proofs have the potential to eliminate a major trade-off inherent in living, working, and transacting online: the convenience, speed, reach, and scale of the internet in exchange for our privacy. A big challenge with web3 today is that, unless you use a bunch of wallets and try to mask their connection, you end up exposing a lot of information about what you own. For real-world assets to move online, for people to use their web3 wallet like a bank account, or even to send DMs on web3 social, there need to be ways to privately transact and interact while still proving certain things about yourself. ZKPs are a key piece of that puzzle. Companies I’m excited about working on this problem include Aztec Network (where Jon Wu works), Espresso Systems (Jill Gunter is a co-founder), Aleo, Starkware, and zkSync. Read more here: 
+
+
+Soulbound Tokens. Tokens are a powerful building block for experiences like tokengated commerce and governance, but their transferability causes challenges. One party might buy up a ton of a DAO or protocol’s governance tokens to influence decision-making, or someone might lend me their Doodle so that I can buy a product gated for Doodle holders (not a big deal, but depending on what’s being tokengated, it could be). In January, Ethereum co-founder Vitalik Buterin proposed a solution to these issues: Soulbound Tokens. These tokens would be non-transferrable and tied to a specific person or wallet, meaning that they could only be used by the intended user. Plus, the inability to trade would help de-financialize aspects of web3 that would be more stable without the urge to speculate. 
+
+DAOs. Most of the Hyperstructures, protocols, and projects we’ve discussed in this piece will, after a period of progressive decentralization, be governed by DAOs. DAOs will be a hotbed for governance innovation in the next few years as they iterate towards the best approaches for governing online. 
+
+There will also be more fun, purpose-built, and culturally relevant DAOs that capture the public’s imagination: they’re the fastest way to spin up an internet organization that captures the Zeitgeist. There will be more ConstitutionDAO-like moments. DAOs like Krause House might pull off their dream of buying an NBA team. Not Boring Capital portfolio company Arkive is building a decentralized museum of items that will appeal to the wider population. 
+
+Saying DAOs will be important to mainstreaming web3 is like saying LLCs were important to mainstreaming the internet. They’re just a structure. But they’re a dynamic structure that will evolve and allow organization to match imagination. You can learn the basics of DAOs here: 
+
+
+Personally, there are a lot of things on the horizon, and in the distant future, that make me excited about web3. To get to that future state, web3 projects will need to prove usefulness in the short-term, and the examples I shared are some of the ones that I think have the potential to pull it off. That said, the people actually building will have a better sense for what’s coming, and have things in their heads, IDEs, and Figmas that I can’t possibly imagine. 
+
+I’m optimistic that web3 will be worth the hype, and that we’ll start to see more frequent signs that even skeptics can agree on in the next few years. That doesn’t mean the path will be straightforward, or that there won’t be challenges. There will be a ton of issues and setbacks! Let’s close by exploring some, and the opportunities to overcome them. 
+
+Challenges and Opportunities
+The best part of this ongoing debate is that it’s brought to light some very legitimate concerns and challenges. After my post on Thursday, for example, Box CEO Aaron Levie sent me a thoughtful set of technical and game theoretical problems that he believes will be difficult or impossible to overcome. He’s very smart and his logic on a lot of them is sound. 
+
+Yesterday, we had a good conversation in the DMs about the idea that splintering the choice of protocols on which developers build – whether on L1 like Ethereum vs. Solana or a use case-specific protocol like Farcaster vs. Lens – actually slows innovation and hurts network effects by fracturing developer and user interest. He shared a great 6-year-old blog post by Signal’s Moxie Marlinspike on the challenge of building federated services. 
+
+That challenge is compounded in web3 by the fact that people have skin in the game – in the form of tokens – that might make them choose to build on or use an inferior protocol. We ultimately agreed, though, that if the ecosystem coalesces around one protocol per use case – Uniswap for liquidity, Farcaster for social, XMTP for messaging, etc… – those issues become less challenging. In other words, like Horne, we came to the conclusion that there should be a single Hyperstructure for each thing. 
+
+This is the value of productive debate. I hadn’t thought about the problem this way before, and it shifts the way that I think about the competitive dynamic. Instead of being either inevitable or impossible, there’s a clear problem to solve, and one that’s familiar to anyone who’s tried to build a platform in a competitive environment: how to attract a critical mass of developers to one protocol. 
+
+This isn’t a web3-specific challenge. Even Meta, with its Hall of Fame network effects, is in a heated battle to turn Oculus into the platform for VR. As I wrote in Everybody Hates Facebook: 
+
+To become the platform, Zuck predicts the company needs to sell 10 million Oculus headsets in order to attract enough developers to build an ecosystem. That’s why the company dropped its price to $299. 
+
+Protocols should approach their battles the same way: how do we become the protocol on top of which developers build applications for this specific use case? How do we attract developers who attract users who attract developers who attract users, and so on, until the only logical place to build a client or application is on our protocol? Those are questions that any platform needs to answer, and web3 presents both unique challenges and unique tools to answer them. 
+
+From there, there are more challenges. What if the best social products are built on Ethereum but the best lending products are built on Solana? What does that mean for composability and user experience? 
+
+Here, I’m going to get hand-wavy and say that the market will figure this one out. LayerZero, for example, is an “omnichain interoperability protocol” that “enables the realization of cross-chain applications with a low level communication primitive.” (Listen to my conversation with LayerZero co-founder and CEO Bryan Pellegrino here.) It makes it easier for developers to build products that work across chains, and for users to exchange assets across chains. At the user level, I invested in a company that’s building a wallet which will abstract away the need to swap tokens or bridge assets across chains to interact with web3 apps. Put in USD, connect your wallet, and transact in whichever currency is needed for a particular app. Those are just two examples of the many companies working to make web3’s UX less confusing. 
+
+Still, for many cases, a question remains: why does this need to be on a blockchain? 
+
+Nathan Schneider addresses this critique well in Web3 Is the Opportunity We Have Had All Along: Innovation Amnesia and Economic Democracy, and I largely agree with his argument: to the extent the hype around web3’s impact as a democratizing force for economics and governance is justified, “it is only partly due to the affordances of the technology itself. Perhaps more important is the amnesia it has induced, as an innovative paradigm whose novelty inclines people to neglect once-stable norms.”
+
+Leaving the technical pieces aside, one of the things that excites me the most about web3 is simply that it has spurred a re-thinking of many of the models and systems we’ve taken for granted, and provided a laboratory in which to experiment. In many situations, blockchains really are needed – tokengated commerce works because any merchant can read what’s in your wallet – but in many others, the magic comes from the willingness to experiment and try new things in a real-life laboratory.
+
+It’s understandably hard to look at pictures of monkeys and unsustainable yields and volatility and “have fun staying poor” tweets and hundred-million-dollar hacks and think, “Yes! This is how we’re going to solve all of the world’s problems!” It’s even harder to imagine that the same system that produces so many frauds, scams, and rug pulls will be net good for society, especially when there are so many other pressing problems to work on. 
+
+To be clear: are there things that people could be doing instead of building web3 products that would have a more immediate and important impact on humanity? Sure. Yes. If you’re a scientist who thinks you might have the cure for cancer, please stop reading this immediately, close your Metamask, and get to work. 
+
+I don’t think it’s that zero sum, however. For one thing, as highlighted above, DeSci might provide new funding and knowledge-sharing mechanisms that accelerate the development of a cure for cancer. For another, web3 isn’t stealing the scientists and aerospace engineers  – it’s attracting software entrepreneurs who might otherwise work on less open products, traditional finance people who are applying their skills to a more liquid global market, and academics, like economists, mathematicians, and policy wonks, who would rather spend time experimenting with new models in a living laboratory than refining old ones in formulae. 
+
+Ultimately, this won’t be settled by a debate. It will be settled by usage and usefulness, by whether any of the things I’ve written about here, and a whole host of others I can’t imagine, come to fruition, or if the scams, margin calls, obnoxious maxis, and frauds overwhelm the positive potential. Through this debate, I’ve realized why it’s important to call out bad actors and unsustainable models even if I’d rather focus on the positive things: the bad stuff, by proving skeptics right and inviting overbearing regulation, can prevent the good stuff from ever happening. 
+
+While things feel bad in the middle of a bear market, and web3 feels harder to defend than it did a couple of months ago, the upside if the space reaches its potential are real, enormous, and worth fighting for. I hope we look back at this period in 2050 and see the seeds of more equitable economic and governance models, of a more fun, diverse, and weirder internet, and of a laboratory that contributed to the solutions to some of our most complex challenges. 

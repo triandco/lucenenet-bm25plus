@@ -1,0 +1,250 @@
+Today’s Not Boring, the whole thing, is brought to you by… Capital
+Capital is banking built for founders. If that sounds like you, sign up for a Capital account today, whether you’re just raising your first million or doing millions in ARR.
+Hi friends,
+Happy Monday! The Phillies are tied 1-1 in the World Series and the Eagles are still undefeated. How could a week start any better? 
+A deep dive on one of my favorite companies, Capital. 
+This is a piece that I’ve wanted to write for a very long time, pretty much since I met then-Party Round founder Jordi Hays in early 2021. The plan Jordi laid out to me back then seemed crazy, but it hit close to home: build a media business focused on founders, monetize through financial services. 
+In the intervening year and a half, I’ve become more and more impressed with both Jordi and the company that he’s building. It’s like a reverse mullet: party in the front, business in the back. Or like an onion that looks like candy on the outside but becomes healthier and healthier each layer you peel off. I’m not great at short analogies. Please allow me ~6,000 words to explain. 
+This essay is a Sponsored Deep Dive on a company I’ve invested in every time I had the chance. I’ve been retweeting Party Round into your Twitter feeds for a while; this is my opportunity to explain why I’m so bullish. You can read more about how I choose which companies to do deep dives on, and how I write them here.
+Let’s get to it. 
+Capital & Taste
+"The relationship between capital and taste is complex and often contradictory." 
+- Pierre Bourdieu 
+Think about your bank. Really bring it to mind. Swim in it. Picture the website: the sign-on flow, transferring money, finding your account information, downloading transaction histories. Transport yourself into one of the brick-and-mortar locations: the faux-wood desks, the blue carpet, the line for the teller, the swipe-ATM-to-access after it’s been locked up for the day at like 5pm. Recall the last time you saw its marketing: smiling multicultural friends, exhortations to use the app anywhere and anytime, the big blue or red logo at the end. 
+Would you say that your bank has taste? 
+In his book, Distinction: A Social Critique of the Judgement of Taste, French sociologist Pierre Bourdieu argues that taste isn’t just a matter of personal preference; it’s shaped by our social position. 
+(Admission: I’d never heard of Pierre Bourdieu before last week, but LEX recommended him when I fed it everything up to “Would you say that your bank has taste?” AI, man…) 
+Anyway, Bourdieu believed that to have good taste is to have the capital – economic, social, and cultural – to acquire it. Hence the complex relationship between capital and taste. Capital of some form is necessary to acquire taste, but it’s clearly not sufficient. Think of the gaudy nouveau-riche. Think, again, of your bank. 
+So much capital. So little taste. 
+I don’t mean to pick on banks. They do their job. They make a lot of money. And they’re already under attack from dozens or hundreds of well-funded startup neobanks. 
+Neobanks attack incumbent banks on a number of vectors. They ditch brick-and-mortar and pass savings on to customers. They do away with usurious ATM and overdraft fees. They make it dead simple to send a wire. They serve increasingly small demographic niches with tailor-made features. They benefit from a race among banking APIs to arm the rebels with sophisticated add-ons. 
+But as the feature set gets commoditized, there’s one vector that’s remained untapped because it’s so ineffable and hard to pin down that it’s strategically risky to pursue: taste. 
+Taste is difficult to even define. Like Justice Potter Stewart’s definition of porn, you know it when you see it. It’s about doing things that others wouldn’t dare do, and pulling them off in style. A good test might be: when someone tells you they have a marketing drop coming, do you cringe in pre-embarrassment or get excited knowing for a fact it’s going to be great?
+By that test, Capital has taste in spades. Taste is in its DNA, and taste permeates its strategy. 
+Capital started its life as Party Round, the easiest way for founders to raise money from investors. 
+If you follow me on Twitter, you’ve likely heard of Party Round. Every time Party Round launched a new drop, or really tweeted anything at all in the past two years since Not Boring Capital first invested, sure as night follows day, a DM popped into my Twitter inbox, demanding amplification. 
+
+The 32 Times Party Round DM’ed Me to Boost Their Tweets
+And I’m always happy to amplify, because they’re always so damn good.
+The only thing wilder than the volume of their drops is their consistent quality. From Helpful VCs, CryptoPunk-style NFTs of top VCs, to the Monopoly-inspired VC Puzzle in partnership with Shrug Capital, to Party Grounds in partnership with Cometeer, to Party Round Mag, each unhinged-seeming drop built the brand with a niche community: fundraising startup founders. Party Round was like fintech MSCHF.
+But Party Round was just an appetizer for the company’s main course. The most recent DM in my inbox from Party Round wasn’t from @PartyRound. It was from @capitalxyz, sharing this tweet:
+Watch that video. It celebrates Capital’s customers – founders – balancing inspiration with shitposting, Steve Jobs with Adam Neumann. Taste. 
+Capital expands Party Round’s offering from fundraising to a full suite of financial services focused on startups. Today, that’s banking – so you can hold, spend, and send the money you’ve raised with their flagship fundraising tool (fka Party Round). In the future, it might be treasury management, payroll, credit, software, and services. Capital is a big name for a small company. It hints at big ambitions. 
+There’s a very long way between here and there, and myriad well-funded competitors lurking on the path, but if Capital lives up to its name, it will be because of its taste. 
+Along with the launch video, and a related Nike-style video series featuring three (Not Boring Capital) founders, Capital’s first foray onto the scene was something that few Seed stage companies could even think about pulling off: with a couple of tweets (sent from LA, no less) and a website, Capital floated NYC Tech Week in August.  
+Texts between Dylan Abruscato & Jordi Hays
+By October, two months later, the “decentralized conference” was a real thing with hundreds of real events that thousands of founders and investors alike came to NYC to attend. Normally, throwing a big event with a bunch of otherwise busy people takes a lot of financial capital. In this case, it took taste. After a year and a half of building a brand targeted at exactly this audience, almost entirely through tech Twitter, Capital had built up enough trust to acquire peoples’ most valuable resource: their time. 
+And that’s the bet with Capital: that leveraging its taste, and the distribution and trust it’s built up with the target customer, is the right way to compete for startups’ capital. 
+That’s the bet that husband and wife co-founders Jordi Hays and Sarah Chase have been making from day one, when it seemed crazy. But the insight is sneaky brilliant, grounded in the reality of the competitive landscape.
+As The Diff author and all-around genius Byrne Hobart emailed me in a reply to a Not Boring essay a couple years ago: “For any fintech product the question always comes down to: do they have a sustainable advantage in low CAC?” 
+With the proliferation of banking APIs in the two years since, and the fierce competition in the financial services startup space, that question has become even more relevant. When everyone wants to acquire the same customers with similar-ish products, how do you acquire them without killing your economics? 
+Byrne’s question has stuck with me ever since, and it’s a reason that I’ve invested much more in fintech infrastructure than applications. But I invested in Capital, and doubled down when given the opportunity, because I believe they have an answer. 
+Capital’s answer centers on three interlinked strategies: 
+•	Build a Media Business that Monetizes Through Financial Services
+•	Leverage the Compounding Power of Young Users
+•	Extend Excellent Taste to the Product Itself
+Today, we’ll dive into Capital’s strategy, and much much more:
+•	Capital’s Bets 
+•	Party Team
+•	Risky Business
+•	Size of the Prize
+•	Capital & Taste 
+Capital is funny on Twitter, but its ambitions are no joke. Jordi and Sarah have their sights set on SVB, Chase, and history’s biggest financial institutions. That’s going to take some explaining.  
+Capital’s Bets
+To understand why Capital believes it can land among history’s great financial institutions, you need to understand the bets it’s making. Everything about the company is opinionated, and it will thrive or fail based on whether those opinions are correct. 
+The foundational bet that Capital is making is one that we strongly agree with at Not Boring: startups are the engine of innovation and value creation, and will only get bigger and more important over time. 
+Put another way, over the next century, more value will be created by companies that don’t exist yet than by ones that do, by a wide margin. Those companies have unique needs. Providing financial services to those companies will be both very lucrative and very impactful. The less time they spend banking, the more time they spend building new things. 
+Capital isn’t the only financial services company that has that belief. AngelList certainly seems to feel the same way, as does Mercury, as do others. The question then is how to put itself in a position to serve more of those companies, better, than anyone else. 
+Which brings us back to Capital’s three-part strategy:
+•	Build a Media Business that Monetizes Through Financial Services
+•	Leverage the Compounding Power of Young Users
+•	Extend Excellent Taste to the Product Itself
+Build a Media Business that Monetizes Through Financial Services
+Remember: the toughest part about building a fintech app is CAC. With so many financial institutions competing for your lucrative business, the customer often goes to the company with the rosiest outlook on that customer’s lifetime value, and therefore, the willingness to pay the most to acquire them. That can be good for growth in the short-term, and really, really bad for unit economics over the long-term. 
+Media businesses, on the other hand, can be pretty great at acquiring customers cheaply – the content markets itself – but have a harder time with monetization. They acquire eyeballs cheaply, but they don’t make much money from those eyeballs.
+Capital’s founding insight, which Jordi laid out on our first call in early 2021, was that you might be able to solve the fintech CAC problem if you started out looking a lot more like a media business. 
+They’d launch a newsletter, do drops, pull off stunts like parking a party yacht in front of Keith Rabois’ waterfront Miami mansion during Miami Tech Week to get earned media (sadly, they didn’t do it, but great idea), and make as much noise as possible in one particular channel, the one where all of their target customers hang out: tech Twitter.
+In an interview with TechCrunch’s Natasha Mascarenhas, Jordi explained:
+We were very comfortable saying that in the first 18 months of building this company, we’re going to ignore every single possible channel except tech Twitter, and that was the best possible strategy we could have done. There’s 100,000 early-stage founders and investors signed up for our email list.
+Of course, building a fintech company as a media company is easier said than done. Countless unmemorable company blogs are a testament to how hard it is for startups to create content that resonates. Company accounts on Twitter are cringe far more often than they’re brand-additive. Doing it right requires taste. 
+For a year and a half, Party Round went on an all-out assault on Twitter. Its drops were appointment viewing. It ran guerilla marketing campaigns in NYC, SF, and LA. It created NYC Tech Week out of thin air. It even spun out a media company that’s killing it in its own right: Adam Ryan’s WorkWeek (another Not Boring portco), which is on pace to reach a $10M run rate by the end of this year.
+For a while, before Party Round the product was even out in the wild, there was a running joke that none of us had any idea what Party Round was actually building, but we liked it. 
+And it worked. Without relying on paid acquisition, Party Round grew its list to 100,000 early-stage founders and investors. Prior to launching the Capital rebrand, Party Round had supported 300+ companies in raising millions of dollars, and built up a 50k+ founder waitlist for the product. The product supported the biggest party round of the year – Yuga Labs – with investors like Nas, Shaq, Diplo, Paris Hilton, and more investing in the Bored Apes parent company through Party Round, and showing off their commemorative NFTs to their combined tens of millions of followers. Party Round got that reach for free, as residue from its built-in virality. 
+
+Tweets from some of Yuga Labs’ Celebrity Investors
+The beautiful thing about brand marketing done right is that it treats marketing as CapEx – an upfront investment that would pay off over time – instead of OpEx. The result is that Capital now owns its audience, and knows how to reach founders before they even start their company. 
+Now, it’s evolving. In addition to the product expansion, Capital represents an important shift in the company’s marketing efforts. While the company brand will continue to be hugely important, it’s starting to lend its brand to its customers. For the same reason I happily retweeted Party Round drops – it let me borrow some of their taste – founders are happy to be associated with Capital.  
+Its content has already shifted from Party Round-focused to founder-focused. The logo went from red and fun to black and sophisticated. The company brand is moving to the background as it pushes the founders who use the product into the foreground. 
+Which makes sense, because Jordi told me that two of the company’s inspirations are Nike and Red Bull, essentially marketing businesses that monetize through apparel and energy drinks respectively, both of which put their athletes front and center. There’s no better marketing than showing people that other people succeed when they use your product.
+
+Kathy Sierra (h/t Nathan Baschez)
+To that end, Capital’s first campaign as Capital focuses on three customers: Mary Gooneratne of Bridgesplit, Will Manidis of ScienceIO, and Devin Lewtan of Mad Realities. 
+Here’s Mary:
+Capital @capitalxyz
+
+Modern companies are built on Capital. Episode 001: @marygooneratne Learn more: capital.xyz/mary
+
+4:06 PM ∙ Oct 6, 2022
+________________________________________
+285Likes31Retweets
+
+And Will: 
+Capital @capitalxyz
+
+Modern companies are built on Capital. Episode 002: @WillManidis Learn more: capital.xyz/will
+
+3:50 PM ∙ Oct 13, 2022
+________________________________________
+290Likes26Retweets
+
+And Devin:
+Capital @capitalxyz
+
+Modern companies are built on Capital. Episode 003: @DevinLewtan Learn more: capital.xyz/devin
+
+3:45 PM ∙ Oct 20, 2022
+________________________________________
+139Likes16Retweets
+
+In a seemingly crowded space with an increasingly commoditized backend, Capital is focusing on a specific customer - founders - and putting them front-and-center. 
+This leg of the strategy is paying off already. In the three weeks since launch, 480 companies have created a Capital account. The CAC is essentially the money that Capital spent on founder billboards, the money it spent to fly its team to NYC Tech Week, and the cost of producing the founder videos. It’s spent no money on paid acquisition, just brand. And the beautiful thing about good brand marketing – brand marketing that converts into tangible things like email addresses, new accounts, and fundraises – is that as more founders see those billboards and watch those videos, the CAC for every customer comes down. Instead of paying for each customer, Capital amortizes its marketing costs across all of its customers.
+So attention: Once they have it, they need to convert it into business. Part two of the strategy speaks to how they acquire founders before anyone else can, and retain them as they grow. 
+Leverage the Compounding Power of Young Users
+Capital’s owned marketing builds awareness and top of funnel among founders, often those at the earliest stages of their journeys. The fundraising product turns them into customers at the first step of company creation: raising money. 
+The product lets Capital build early relationships with founders by partnering and adding value as early in the company’s life as possible. It’s Capital’s version of one of my favorite long-term strategies, employed with great success by companies like Stripe and Replit: the Compounding Power of Young Users.
+The idea is simple but powerful: if you can acquire the youngest users, retain them as they grow up, and continue to attract the new cohorts of young users, you will win over time. 
+Prior to the Capital launch, founders who used Party Round would connect a bank account or wallet and send the funds there, kicking off a relationship with a new financial services provider. Capital’s banking products close that loop. Founders can now not only raise money on Capital, they can hold, spend, and send those funds from their Capital bank account. Of course, founders who fundraise elsewhere, or who’ve already raised, can also just transfer funds into a fresh Capital account and start with its banking products.
+Jordi shared an internal Slack that highlights the strategy better than I can:
+
+Capital Internal Slack
+A customer came in, for free, from Twitter, raised $700k, kept it in their Capital account, and then made a $3k purchase using their Capital virtual debit card. 
+That company, and many of Capital’s early customers, are small. They’re not super lucrative yet. Their needs aren’t super complex. But that’s the best time to start the relationship, when they’re early and overlooked. 
+Y Combinator has made a lot of money by indexing startups at the earliest stage and riding the growth in their valuations. Stripe focused on developers at startups first, manually signing up all of their YC cohort-mates, and rode them to the juggernaut it is today. Capital can do the same by riding the growth in startups’ spend and financial needs. From here, Capital can grow its product offering alongside its customers. 
+Of course, that requires building great products. Banking relationships are sticky, particularly once you’ve set up recurring payments and connected your Stripe account and formed links between the account and all of the things your company uses money for. But they’re not that sticky. If Capital’s products don’t meet their customers’ needs, if the reality doesn’t live up to the Twitter hype, customers will jump ship to Mercury or AngelList Stack or even Chase. 
+So the third leg of the strategy is to apply Capital’s taste to the products it builds. 
+Extend Excellent Taste to the Product Itself
+The first call I had with Jordi was all about building a marketing company that monetizes through financial services and software, but the second was about the product. Many of the conversations that have impressed me the most, probably because of cognitive dissonance from the juxtaposition with the company’s fun-loving front-facing brand, have been about how Jordi and Capital are building the product. 
+Taste isn’t superficial. It has substance. Nike’s marketing is backed up by products that the best athletes use. Wander, whose properties are stunning, also made the highest-quality sweatshirt I own. Stripe’s docs are famously thoughtful. And Capital’s taste extends to the products it builds.  
+Party Round was the first example. The brand could talk about meeting founders where they are, and building the simplest fundraising experience, but actually creating a smooth mobile fundraising product is really hard. It means handling signatures on docs like SAFE Notes, connecting bank accounts and crypto wallets, accepting fiat and stablecoins, making sure that the money gets to the right place, letting investors go direct to cap table instead of the traditional SPV approach for small checks, and even letting investors mint their commemorative NFTs, all from the phone.
+
+
+gefen @chiefgayofficer
+gm @partyround thanks for the nft 
+
+
+2:40 PM ∙ Feb 15, 2022
+________________________________________
+118Likes2Retweets
+
+The NFT that investors can mint to verify and celebrate their investment is just a nice little bonus, but the mobile minting experience is maybe the smoothest I’ve experienced. It’s that attention to quality that comes across in every aspect of the product.
+Now, with Capital, the company is extending that taste to banking products that we’re more familiar with: holding, sending, and spending money. 
+The banking experience is smooth, whether in fiat or crypto, on mobile or desktop. It showcases the company’s taste in a bunch of little details that work more smoothly than you’d expect if you’re coming from a traditional bank. For example, I can invest in a company with USDC directly from my Ethereum wallet. Connecting the wallet was really easy, and sending stablecoins is easier (and safer-feeling) than sending directly from my wallet. 
+The company plans to expand into all of the financial things a startup needs to do over time. While it still needs to prove that it can build those products, the good thing about earning trust by proving taste is that my expectation for each new launch is that the experience will be a step above competitors’. As they grow, they should be able to retain those young companies they acquired and grow their usage as long as they maintain that trust and continue to deliver tasteful products that work well. 
+That’s the strategy. Use media to acquire customers cheaply at the earliest stages of their journey, when they aren’t particularly lucrative, and then continue to earn their trust and spend as they grow into more and more product needs. The goal is to become the digital home for the startups that use Capital. 
+That strategy is easy to write and hard to execute. On one diligence call, a more sophisticated investor told me that he loved the virality, but was concerned about the company’s ability to build product because they hadn’t released anything at the time. He asked what I thought, and I told him that Jordi, Sarah, and the team had executed brilliantly on the first leg of the strategy, and they had my trust that they could build great products until proven otherwise. Then they went out and delivered on the product front, with Party Round and now with Capital. 
+I think it will be the same with customers: their trust is Capital’s to lose. Now, it comes down to the team’s ability to continue to build its brand and its product. 
+Party Team
+OK, this far in, there’s something I realize I should have clarified earlier. Companies don’t have taste. People do. Capital’s taste is a reflection of its team’s taste. That starts at the top. 
+Co-founders Jordi Hays and Sarah Chase are exceptional and complement each other well. 
+Sarah’s background is in investor relations and fund management, Jordi’s is in brand, marketing, and design. Capital & Taste. 
+Jordi is a serial founder, and Sarah is a serial investor. They first met when Jordi pitched Sarah his previous startup and got to talking about romantic things like the archaic and manual process of raising money from individuals, one thing led to another, and Party Round was born.  
+When I first spoke to a fellow investor, Fintech Today’s Ian Kar, about Party Round, he mentioned that the two have very different skill sets and roles: Jordi is the visionary, and Sarah makes sure that everything is done to the highest standard. 
+Jordi is the kind of founder I call a Worldbuilder. Worldbuilders all have a few things in common: 
+1.	They predict something non-obvious about the way the world is moving before others see it and before the market is ready for their ultimate vision.
+2.	They create a wedge into the market and leverage it into a much larger opportunity. The public often ridicules or dismisses the initial wedge product. 
+3.	They timestamp their vision, whether in public announcements or internal documents. 
+In Jordi’s case: 
+1.	He realized that the fintech backend was becoming commoditized and CACs were unsustainable, and that owning distribution would be the most important thing, so he built Capital as a media business. That seemed silly, until it didn’t. 
+2.	Party Round was Capital’s wedge into the market and fundraising remains a wedge into banking. Especially early, before the product was released, Party Round was met with a fair amount of skepticism – why do you need this when AngelList SPVs exist? 
+3.	Jordi laid out the plan that they’ve been executing against in the first conversation we had. While some minor details have changed, the vision and the broad strokes of the strategy have remained consistent. 
+Jordi shared Party Round’s Pre-Seed deck on Twitter recently, so some of that proof is timestamped here:
+
+
+Jordi @jordihays
+In 38 days we’ll make an announcement that will change @partyround forever For now, I thought I'd share the deck that @sarahchase and I used to raise our preseed in May of 2021, in case it'd be helpful to anyone who's thinking about raising their first round: 
+
+
+5:07 PM ∙ Aug 26, 2022
+________________________________________
+468Likes26Retweets
+
+I saw that deck at the time, and while I was impressed that it was so different from others I’d seen, I was skeptical. AngelList existed. I used it and loved it. Why another fundraising tool? And being loud on Twitter didn’t exactly guarantee success; going all-in on that channel sounded risky. It wasn’t until I got on the phone with Jordi that I understood what he was trying to do. 
+
+
+
+While Party Round was fun, Jordi was dead serious. That showed up in the deeper memo he shared, laying out the company’s long-term ambitions, and in the Figmas we walked through. It showed up in his conviction that more companies would use crypto, but that the experience needed to get a whole lot better. And it showed up in the team he and Sarah had already started to hire.
+Beyond the founders, capturing the zeitgeist over and over again takes an incredible team. Of course, great hiring requires great taste, too, and Capital has built a team that combines non-obvious but impactful hires with people who have blue chip experience at companies like Google, Cash App, Uber, and more. 
+
+
+The Capital Team — Legendary Financial Institution or… Bust
+Product and design are key to the company’s success, so they hired someone world-class to lead it: Brandon Jacoby, who came from the Cash App team. Marketing is a core competency, so they hired Dylan Abruscato, who led marketing and partnerships teams at HQ Trivia and Postmates. They even hired Brian Armstrong, the Coinbase CEO former Director of Engineering at $800M fintech company Cadre, to run engineering, to make sure that the product holds up to the hype. 
+The team is still small – only 15 people – but in each of the roles, they’ve brought in exceptional talent, going so far as to save two spots at a company offsite to attract potential engineers. 
+
+Jordi @jordihays
+.@partyround retreat in 2 weeks and there's 1 extra bedroom If you're a product or brand designer, full-stack or iOS or platform eng, or content marketer and you're ready to make a move: 1) Shoot me a DM 2) We'll run a 7d hiring process 3) If it's a fit, we'll fly you out 
+
+
+8:44 PM ∙ Mar 7, 2022
+________________________________________
+273Likes27Retweets
+
+And it actually worked. They hired a marketing engineer named Tyler from that tweet. Tyler doesn’t have big logos on his resume, but Jordi calls him a “savant.” Some evidence to back that up: Tyler simultaneously built the new Capital site, the intricate Party Round Mag drop site, and the NYC Tech Week site in the same week. 
+
+
+Jordi @jordihays
+
+Thrilled to announce that @tj_cages is joining @partyround Tyler built us a drop while interviewing & it was so good that I had to share it. Choose a founder & collect investors on your cap table, Pokémon style testflight.apple.com/join/GYndAsJF
+
+
+4:20 PM ∙ Apr 7, 2022
+________________________________________
+116Likes9Retweets
+
+I might sound like a broken record here, but the good thing about investing in founders with taste is that you can trust that they’ll do most things really well. Hiring is no different – as long as Jordi and Sarah are involved in the hiring process, I trust their taste in candidates. Of course, they’ll need to scale that taste, and scaling taste is a risky business. 
+Risky Business
+At this point, it should be obvious that I’m a big fan of the Capital team and product. 
+I’m not just writing that. Not Boring Capital has backed Capital two times, during its Pre-Seed and Seed rounds, led by Gradient and a16z respectively, with participation from 776, Shrug, Abstract, and 75+ other angels and funds (... party rounds…). 
+That said, Capital’s success is by no means guaranteed. 
+The main risks to Capital center around competition, the slowdown in the capital markets, product execution, and taste.
+Competition. As mentioned throughout the piece: Capital is chasing a very large market opportunity and will need to compete with incumbents, scaleups, and other ambitious startups alike. A few of the more notable scaleups, even if not directly competitive, include AngelList, Carta, Mercury, Stripe, Brex, and Ramp. The biggest threat is AngelList, but as a daily AngelList user and fan, the two companies’ strengths are very different, and I think that Capital will be able to establish a strong foothold with companies in the earliest stages.
+Capital Markets Slowdown. Capital is accelerating its GTM right when the capital markets are cooling off — the velocity of new startups and fundraising rounds has slowed, and will continue to be slower over the next few quarters, which will impact Capital’s ability to drive volume. On the flip side, more companies are raising smaller rounds from insiders and angels to extend runway, which might provide a short-term tailwind. Plus, as we highlighted in Friday’s Weekly Dose, I expect that big tech layoffs will breed a new generation of first-time founders, many of whom will raise and bank on Capital. 
+Product Execution. Capital’s strategy is largely reliant on products that it can definitely build, but that it has not yet launched to customers. Early customers love the Party Round product, but that doesn’t guarantee the same level of Product-Market Fit with Capital’s broader suite of financial products. 
+Taste. Taste is a fickle thing on which to hang the fate of a company. At some point, growth pressures can get in the way of making sure that every detail is perfect, that every hire is great. Taste, like trust, takes a lifetime to build and minutes to destroy. Capital will live and die by its ability to scale taste.
+Those are very real risks, but I am personally a huge fan of the Capital team and the product and firmly believe that it can overcome them. Plus, financial services is a big enough category for multiple huge winners.
+Size of the Prize
+The competition point is worth expanding on. Competition is always a key factor in a company’s outcome, whether or not founders and investors like to say “ignore the competitors.” Very tangibly, in fintech, backend commoditization creates more competition which leads to higher CACs and challenging unit economics. 
+But unlike ridesharing, financial services is not a winner-take-all market. There are many big winners. In fact, another portfolio company that I’m extremely bullish on, and need to write about soon, is another financial services startup, Series. Capital serves startups, Series serves institutions, and I expect that they’ll both be multi-billion dollar outcomes. That’s how this market works. 
+Globally, there are 15 bank and bank holding companies worth over $100 billion. In the US alone, there are 13 banks with market caps over $13 billion, not including investment banks like Goldman Sachs and Morgan Stanley, or brokerage firms like Charles Schwab, that also offer banking services. Those 13 banks have a combined market cap of $1.28 trillion. 
+Landing among those financial institutions is Capital’s long-term ambition, but a lot of banking fintechs have tried to land among their ranks, and very few have market caps above $13 billion (Revolut and Chime have as of most recent funding although in this market, who knows). 
+A more realistic upside comp set are the banks and fintechs focused on startups, including Silicon Valley Bank, Brex, Ramp, AngelList, and Mercury. While these are best-in-class companies (and private valuations were all set before the downturn), and there’s nothing close to a guarantee that Capital will reach their heights, it paints the size of the upside if Capital pulls off its ambitious plan. It also illustrates that while it will face competition, this space is large enough that there have, can be, and will continue to be many huge winners.
+Beyond the financial services opportunity, Capital has its sights set on becoming a true platform that a business can run on, similar to Rippling’s approach but with a different wedge. If you zoom in on the image I shared earlier, you’ll see that Capital’s vision includes helping companies with software & services, customers, and employees. 
+
+
+
+It’s an ambitious vision, and it will take a bunch of perfectly-executed steps to get there, but if Capital pulls it off, it represents a high-margin opportunity on top of the financial services business, one that uses Capital’s media chops and financial services products as another wedge into an even bigger opportunity. 
+Capital & Taste 
+There’s a lot more to Capital than meets the eye. If it wins, it will be because it was willing to pursue a seemingly silly strategy before that strategy became obvious. As discussed above, when founders take that course, “the public often ridicules or dismisses the initial wedge product.” 
+Check
+Over the weekend, The New York Times ran a piece featuring Capital titled Silicon Valley’s Unbridled Euphoria Runs Into Economic Reality. Pitched to the company as a feature on the rebrand, the final product was what we’ve unfortunately become accustomed to from The Gray Lady’s tech journalism: a downer on the tech industry that traded snark for the actual story. 
+For a while, it was fun. The tech industry soared to record heights during the pandemic, and Party Round rode the frenzy with self-aware marketing stunts that poked fun at and celebrated start-up culture….
+Then the party abruptly ended…
+So Party Round adjusted. Making jokes about the absurdities of tech culture is fun when everyone is getting richer by the day, but they don’t land the same when everyone is getting laid off.
+“Party Round is now Capital,” the company announced this month.
+With the new name, the company moved into banking services. It plans to trade absurdist marketing campaigns for something more practical — a co-working space that its customers can use in New York.
+The Times’ Erin Griffith wrote that Party Round’s rebrand to Capital is “one of a growing number of signs that the start-up world’s season of unbridled euphoria is really, truly over,” suggesting the move was a reaction to the market downturn. 
+The reality of the company’s evolution couldn’t be further from the picture painted in the story. For one, as we’ve laid out, fundraising from friends and family is still at the heart of the product. It’s Capital’s earliest wedge into a startup’s business. For another, evolution has been the plan from the very beginning. I’m biased – an investor writing a sponsored deep dive who’s become friends with the team – so don’t take my word for it. Here’s a timestamped memo from the company dating back to October 19, 2021, before the market peaked:
+
+
+Capital Internal Notion Doc
+The truth is, if you’re building a financial institution to serve founders and you get scared away by a market downturn, you’re not going to build a very good financial institution to serve founders. Ups and downs are part of the game. Outside observers view downturns as the end; great founders view downturns as an opportunity. 
+Capital exists to serve great founders, and its expansion signals that it believes the party is just getting started. 
+Unless this time really is different, tech startups will continue to create and capture value. They’ll continue to raise money – from institutional investors, angels, friends, and family – and they’ll continue to spend that money to build things, against all odds, that have never existed before and, hopefully, if everything goes just right, will “make the world a better place.” 
+Articles like the Times piece, and the more pervasive attitude towards tech that it illustrates, are why there was an opportunity for Party Round, and now Capital, to build a brand that unabashedly celebrates founders in the first place. That brand won’t appeal to everyone, but the beauty is, it doesn’t have to. It just has to resonate strongly with early stage founders, and all of the early signs – the drops, NYC Tech Week, the 100k strong mailing list, Capital account creation –  point to the fact that it does. 
+If Capital’s bet is right, and the value created by startups over the next couple decades dwarfs the value created by startups over the last couple, the company will be rewarded for sticking to the plan and doubling-down on supporting founders despite the market downturn, even because of the market downturn. A downturn doesn’t stop great startups from being born, but it does weed out competition who get more worried about short-term metrics and run upmarket. 
+The Times piece was disappointing not because it was unexpectedly negative, because anyone’s feelings got hurt, or because it hurts Capital’s business. On the contrary, part of the strategy when you’re loud on tech Twitter is to get talked about, good or bad, and pieces like that are just part of the founder journey. If anything, it gives the company more credibility with and empathy for their target customer. The piece was disappointing because, by focusing on the superficial attention grab, it missed the real lesson. 
+The real lesson to take away from Party Round and Capital is more complex. As backends become more and more commoditized, as it becomes easier to build products that would have taken millions of dollars and blown customers’ minds just five years ago, as generative AI shrinks the gap from idea to execution, taste matters more than ever. 
+When everyone has access to software superpowers, the playing field moves up a level. Companies with the taste to string the right components together, design smooth and beautiful front-ends, and speak directly to customers in an increasingly noisy market will win. They’ll earn the right to evolve their product to serve more and more of those customers’ needs. To the tasteful will go the spoils.
+Capital will continue to evolve. It will launch new products, speak to founders in different ways.  Party Round was just the first step, a loud exhibition of the company’s taste. In a very real way, taste sits a layer above both product and distribution, a requirement for truly exceptional and lasting expressions of either.
+As long as it maintains its taste and its resonance with founders, Capital will continue to earn the right to continue to offer them new products. At the beginning, that was fundraising. Today, it’s fundraising and banking. In the future, it will be fundraising, banking, and a full suite of founder tools that let startups spend less time on admin so they can spend more time building the future.  
+A downturn doesn’t change that. Taste is its own form of capital. And Capital has taste.
+

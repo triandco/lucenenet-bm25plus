@@ -1,0 +1,298 @@
+Hi friends 👋 ,
+
+Happy Thursday! Apologies for the late send — just when I was ready to send 3 days late, Substack had issues sending emails, which added an hour. Back to regular schedule next week.
+
+In any case, after a long week, I’m feeling more optimistic than ever.
+
+Optimism isn’t a belief that everything will go well all the time. It’s a belief that despite the inevitable challenges, we will make progress. We need more of it.
+
+Let’s get to it.
+
+
+Not Boring’s mission is to make the world more optimistic. 
+
+I’ve never written that down before, or even thought it coherently until very recently, but it’s been an undercurrent throughout many of the essays I’ve written: Schumpeter’s Gale, Compounding Crazy, Existential Optimism, The Best is Yet to Come, The Best is Still Yet to Come, The Invisible Swarm, The Laboratory for Complex Problems, Ownership and the American Dream, Newton’s Alchemy, and more. It comes across in the pieces I write on specific companies, too. 
+
+I’m far more interested in answering the question, “What does the world look like if this goes right?” than in analyzing all of the reasons something might not work. It’s how I’m wired. 
+
+But wiring is the wrong way to phrase it. That suggests that some people are wired to be optimistic and others are wired to be pessimistic, and both are equally valid, and that’s just the way it is. That’s wrong. Both are not equally valid. Optimism is more useful than pessimism. But pessimism is more pervasive than it has a right to be.  
+
+This weekend, Julian Weisser tweeted Nick Cave’s response to a question from a reader named Valerio, “Following the last few years I’m feeling empty and more cynical than ever. I’m losing faith in other people, and I’m scared to pass these feelings to my little son. Do you still believe in Us (human beings)?” 
+
+Cave’s answer is excellent, addressing the evil of cynicism and the virtue of hopefulness.
+
+
+Nick Cave, The Red Hand Files
+On cynicism: “Cynicism is not a neutral position – and although it asks almost nothing of us, it is highly infectious and unbelievably destructive. In my view, it is the most common and easy of evils.” 
+
+On hopefulness: “Hopefulness is not a neutral position either. It is adversarial… It says the world and its inhabitants have value and are worth defending. It says the world is worth believing in. In time, we come to find that it is so.” 
+
+Valerio is not alone. On Sunday, in a New York Times Opinion piece titled Your Kids Are Not Doomed, Ezra Klein highlights a Valerio-esque question he’s been asked more than any other: Should I have kids, given the climate crisis they will face? 
+
+
+Ezra Klein, Your Kids Are Not Doomed, The New York Times 
+Throughout the rest of the piece, Klein directly explains why the kids are (gonna be) alright, and indirectly lays out a case for optimism.
+
+Before we get too much further, it’s important to define what I mean by optimism. When most people think of optimism, my guess is that they’re picturing blind optimism: “proceeding as if one knows that the bad outcomes will not happen.” Blind optimism isn’t what we’re talking about; it’s as useless as pessimism. 
+
+We’re talking about Optimism. In The Beginning of Infinity, physicist David Deutsch defines The Principle of Optimism: “All evils are caused by insufficient knowledge.” 
+
+From that principle, Deutsch writes, flow a few implications that help understand optimism:
+
+Optimism is “a way of explaining failure, not prophesying success”: If we’ve failed at something, it’s because we didn’t have the right knowledge in time. 
+
+Optimism is a stance towards the future: Nearly all failures, and nearly all successes, are yet to come. 
+
+Optimism follows from the explicability of the physical world: If something is permitted by the laws of physics, then the only thing that can prevent it from being possible is not knowing how.
+
+In the long run, there are no insuperable evils: There can be no such thing as a disease for which there can’t be a cure, because bodies are physical things that follow the laws of physics. 
+
+If you want, you can call it “realistic optimism” or “pragmatic optimism” or “realistic skeptical optimism” or whatever you want to call it in your head to make it feel less doe-eyed, but the actual definition of optimism captures those, so I’ll just call it optimism.
+
+That’s the kind of optimism found in Klein’s essay. He even uses a similar vocabulary, writing, for example, “We face a political problem of politics, not a physics problem.” Physics problems are soluble. Political problems are thornier in the short-term, but the long arc of history bends towards progress. Klein also acknowledges that things aren’t perfectly rosy, and will get much less rosy if humans don’t make progress.
+
+It’s not blind optimism, but it’s not pessimism. It’s the very optimistic belief that things will inevitably go wrong, but that each new challenge is an opportunity for further progress.
+
+That’s the kind of optimism I’m arguing for, and I’ll go further: I think the single most important thing we can try to do is to make the world more optimistic. Optimism is the meta that defines the rate of progress, and progress translates into longer, healthier, wealthier, and happier lives for more people. I’ve embedded this tweet more than any other: 
+
+Twitter avatar for @patrickc
+It’s about more than money, though. Optimists move the world forward. There’s something deeply optimistic about entrepreneurship, the idea that it’s possible to create things that have never existed, and find a market for them. Science, too, is optimistic: to run experiments in order to better understand the universe assumes a belief that we can discover more than we already know, and use it to improve the world. Again, that doesn’t mean believing everything and hoping that it will all get better. That’s the opposite of how science works. As Deutsch writes, “there is only one way of making progress: conjecture and criticism.” 
+
+Criticism is crucial, but pessimism – “a tendency to see the worst aspect of things or believe that the worst will happen; a lack of hope or confidence in the future” – is actively harmful on both individual and societal levels. If pessimism causes people to stop having kids out of fear, that’s bad. If it makes people give up on trying to improve their environments, that’s bad. If it discourages entrepreneurs from starting companies, or encourages them to play their ambitions safe when they do, that’s bad. 
+
+Pessimism might sound smart, but it isn’t. 
+
+At the same time, optimism actually is smart, but it seems like it isn’t. Let’s fix that. 
+
+Today, I’ll make the case for optimism in three parts:
+
+We’re more pessimistic than we should be.
+
+Optimism shapes reality.
+
+The downside to optimism is limited, the upside is uncapped.
+
+Then, I’ll turn to a discussion of a few ideas for promoting and enacting optimism I’m excited about, and turn it over to you for your thoughts. Onwards. 
+
+We’re more pessimistic than we should be
+A 2021 Pew poll that found that 68% of Americans believed their children would not be better off than they are, “putting the U.S. as the sixth-most pessimistic country in the survey.” That pessimism is unfortunate, because as Steven Pinker points out in Enlightenment Now, it’s most likely unfounded, both globally and in the United States. 
+
+
+Enlightenment Now via Our World in Data
+The chart on the left shows the Gross World Product in 2011 international dollars (essentially normalized globally and over time, and according to Pinker, conservative), which stayed close to $0 from 1 BC to roughly the 18th century, and has gone completely vertical, growing to nearly $110 trillion in 2015. The chart on the right shows the growth in GDP per capita per country since 1600, and again shows lines, including in the US, that are nearly vertical. 
+
+To reverse these historical trends to the point that the next generation is worse off than the current one would be unprecedented; the most recent dips on the chart represent the Global Financial Crisis, when the GDP per capita in the US dipped after 2007 and recovered to new highs by 2013, in just six years.
+
+Addressing this gap – between how terrible people think things are and how good they actually are relative to even recent history – is the theme of Enlightenment Now. Beyond wealth, Pinker addresses the progress humans have made in categories spanning life, health, inequality, the environment, peace, safety, knowledge, quality of life, happiness, and more. In each category, the data (at least the data he uses in the book) shows that things are both much better than they were and much better than we think they are, for an ever-growing number of people.
+
+(For a good quick summary of Enlightenment Now, check out Jason Crawford’s here.)
+
+Or as former President Barack Obama put it during a 2017 Gates Foundation Event:
+
+If you had to choose any moment in history in which to be born, and you didn’t know in advance whether you were going to be male or female, what country you were going to be from, what your status was… you’d choose right now.
+
+Despite the facts, presented in short form by Obama, long form by Pinker, and chart form by Our World in Data… 
+
+
+Our World in Data
+… optimism certainly doesn’t feel like it’s the default stance of the modern era. Often, it feels like the opposite. Spend any time on Twitter or watching the news, and you’ll get the sense that everything is falling apart: crime is up, war is on, the economy is going to hell, and humans are going to kill the planet, which will kill us right back. Why is that? 
+
+Pinker in part blames the structure of the news cycle, which focuses on the bad things happening day-to-day instead of the good things happening over time. He cites peace researcher John Galtung, who pointed out that, “If a newspaper came out once every 50 years, it would not report half a century of celebrity gossip and political scandals. It would report momentous global changes such as the increase in life expectancy.” But the news does come out every day, and it paints a bleak picture. 
+
+Take Wired, a site I actually turned to looking for optimistic headlines for this piece. I found the opposite. Despite being founded by Kevin Kelly – who literally wrote The Case for Optimism in 2021 – these were the trending stories on Wired’s homepage when I looked over the weekend: 
+
+
+wired.com homepage, June 4, 2022
+Three of the four trending stories cover racist Star Wars fans, the “Great Reinfection,” and the “Breaking Point,” in which the author foresees the “Great Snapping.” 
+
+Those more pessimistic pieces are mixed in with a fourth story about the first asteroid spotter that can track the trajectories of specific asteroids to tell if they’re on a collision course for earth so that we have enough advance warning to stop an asteroid from hitting earth, lowering one of the major risks to humanity’s ongoing survival. 
+
+Still, I’d bet the takeaway from a quick perusal of the site is that people suck, COVID’s going to be with us forever, and we’re all about to snap. As Wired both writes and contributes to, “Tragedies converge, apocalypse colors the air.” 
+
+Wired is not alone. I actually went there searching for positive headlines, and came up empty. Check out the homepages of The New York Times, BBC, The Washington Post, Al Jazeera, or your friendly neighborhood Twitter feed for more pessimism. 
+
+Here’s the homepage of The New York Times on Saturday: 
+
+
+NYTimes.com - June 4, 2022
+And for good measure, here’s a headline The Times ran in its newsletter last week: 
+
+
+The New York Times
+Politicians, and politics as an institution, are certainly guilty of sowing fear, discord, and pessimism, too. The whole system incentivizes waves of challengers to highlight how shitty things have been under the incumbent, and, in the US at least, it seems that each party is content opposing any progress the other proposes, and then highlight that lack of progress, rather than making any real progress itself. 
+
+Trump was deeply guilty of pitting Americans against each other and falsely promising to go back to the way things were, but my point isn’t to be partisan. I’ve also been deeply disappointed in how badly the Democrats have fumbled the opportunity to try to reunite the country around common missions. President Biden’s recent jab at Elon Musk, sarcastically wishing him luck on SpaceX’s NASA-funded trip to the moon, is the most in a recent example of the progressives opposing progress, and the people who both create and benefit from it:
+
+Twitter avatar for @amasad
+Politicians are even more disappointing than journalists, because these are the people we elect to make the country better. Instead, they tell us just how bad it is because of the other guy. Instead of Make America Great Again, a campaign slogan I’d rally behind would be something like: Keep Making America Greater. 
+
+But that doesn’t get votes. Thanks to journalists, politicians, and the broader cynic class, pessimism seems to be winning the day.
+
+People can’t resist poo-poo’ing the new, despite all of the evidence in progress’ favor. Or as Huge If True’s Cleo Abram elegantly puts it: 
+
+Twitter avatar for @cleoabram
+This is not a modern phenomenon, either. In a 2016 essay, Morgan Housel asked Why does pessimism sound so smart? He explained that pessimists have always garnered more respect than optimists, pointing out that John Stuart Mill wrote 150 years ago, “I have observed that not the man who hopes when others despair, but the man who despairs when others hope, is admired by a large class of persons as a sage.” 
+
+Housel gives five reasons pessimism gets so much attention: 
+
+Optimism appears oblivious to risks, so by default pessimism looks more intelligent. (But, he says, that’s the wrong way to view optimists.)
+
+Pessimism shows that not everything is moving in the right direction, which helps you rationalize the personal shortcomings we all have. (Misery loves company.)
+
+Pessimism requires action, whereas optimism means staying the course. (Sell sell sell! is more active than “hold.”)
+
+Optimism sounds like a sales pitch, while pessimism sounds like someone trying to help you. (But optimism is often the correct result, and pessimists are selling, too.)
+
+Pessimists extrapolate present trends without accounting for how reliably markets adapt. (This misses humans’ ability to adapt.)
+
+The only point I’d disagree with is point #3: pessimism requires action, while optimism means staying the course. I’d argue the opposite: pessimism means resigning yourself to your fate, while optimism requires action. 
+
+I was hesitant to write a piece on optimism because it seems like the obvious position to take – who would argue against optimism? – but this section shows that optimists are fighting an uphill battle in winning hearts and minds despite the evidence in their favor. 
+
+But I don’t think it has to be that way. In fact, I think the status quo is actively and incredibly harmful, and that fighting for more optimism is a worthy cause, because optimism impacts outcomes. 
+
+Optimism shapes reality 
+If pessimism or optimism only impacted our mood, that would be bad enough. But the pessimists’ push is more harmful than that, because optimism shapes reality. 
+
+In a Memorial Day Weekend post by the same name, Scale CEO Alex Wang discussed how the scope that an engineer sets for a project determines how quickly the project gets done. 
+
+
+Optimism Shapes Reality
+A high-urgency project with no scope follows a typical Guassian distribution (normal distribution or bell curve). Setting even a median scope actually increases the average project length by bunching most potential fast outcomes right before the midpoint. Pessimistic scopes – estimating that a project will take longer than it actually should and setting goals around that estimate – pushes out the time to complete the project. 
+
+Setting an optimistic scope, however, makes the project move faster. As Alex puts it: 
+
+A dearth of optimism will slowly kill any product, team, or mission. Execution will slow to a halt, and even the most minor tasks take weeks to do. Our optimism and resolve have immense influence in what we accomplish, both at a micro task-by-task level, and when summed up, what we can do over a lifetime.
+
+If optimism shapes reality, and helps people progress more quickly, and if progress has brought improvements in health, lifespan, happiness, equality, and a host of other measures that matter, then more optimism is good. Indeed, in 1795, Immanuel Kant wrote in Perpetual Peace: A Philosophical Sketch that “Optimism is a moral duty.” The scientific philosopher Karl Popper expanded on Kant, exhorting: 
+
+Optimism is a duty. The future is open. It is not predetermined. No one can predict it, except by chance. We all contribute to determining it by what we do. We are all equally responsible for its success.
+
+Even without the intellectual heft of philosophers behind it, it’s easy to grok that optimism leads to progress. Anything great humans have achieved started from a place of optimism, of believing that by increasing knowledge, despite stumbling blocks, we can improve the human condition. 
+
+When JFK said, “We choose to go to the moon, not because it is easy, but because it is hard,” he was making an optimistic statement: there will be challenges, we don’t yet know how we’re going to pull this off, but we believe that it’s possible. That speech was important because not only was it optimistic, its optimism shaped reality. We likely would not have landed on the moon on July 20, 1969 – especially when it seemed so hard – were it not for that jolt of optimism on September 12, 1962. 
+
+As with Wang’s distributions, JFK’s optimistic deadline pulled progress forward. 
+
+While counterfactuals are difficult to think through and impossible to prove, the lack of more JFK-like speeches, and the downright pessimism in their place, has likely done enormous harm to humanity. This is another reason that pessimists seem smarter than they are – all of the things that didn’t happen because of pessimism simply don’t exist, whereas many of the things that optimists pushed for failed. 
+
+When you hear pessimism around an experiment or company, think of these graphs: 
+
+
+As Pinker demonstrated throughout his book, the macro trends end up winning out in the long-term. Pessimism doesn’t stop progress – we’ve progressed, despite the pessimism of the past – but it can slow progress down. And since progress compounds – experiments create new knowledge upon which the next experiments are created – pessimism’s impact can be exponentially harmful.
+
+Luckily, the opposite is true, too. As Deutsch writes, “The harm that can flow from any innovation that does not destroy the growth of knowledge is always finite; the good can be unlimited.”
+
+The downside to optimism is limited, the upside is uncapped 
+It’s easier to picture how things might go wrong than how they might go right. Given the unlimited upside of things going right, though, it’s important to fight that natural bias. 
+
+Let’s take nuclear power, or as Lux Capital’s Josh Wolfe has taken to calling it, elemental power, as an example to illustrate this point. 
+
+Let’s start with a question: how many people have been killed by radiation from accidents at nuclear power plants? 
+
+
+You guess yet? 
+
+OK, ready.
+
+There have only been two accidents in history in which people were killed by radiation from nuclear power plants: Chernobyl (46) and Fukushima (1). That’s 47 people, total, although hundreds more were killed in the Fukushima evacuation efforts. 
+
+While any number of deaths is too many deaths, the delta between the pessimism surrounding nuclear energy and the facts is wider than it is for any other energy source by a wide, wide margin. In fact, according to Our World in Data, nuclear power is responsible for 0.07 deaths per terawatt-hour of energy (the annual energy consumption of 187,000 Europeans) from accidents and air pollution.  
+
+
+Our World in Data
+Wind, hydropower, and solar are all slightly lower, but it’s rare to hear concerns about their safety. Coal is 351x more dangerous than nuclear, and oil is 263x more dangerous than nuclear. 
+
+Pinker blames the availability heuristic: people estimate the probability of an event by the ease with which instances come to mind. It’s incredibly easy to picture mushroom clouds from nuclear bombs or cinematic depictions of bubbly skin from radiation poisoning. As Construction Physics points out, rising costs are also responsible for nuclear’s decline. Much of the increase is due to increased regulation.
+
+Fukushima’s deadliest impact was scaring others into shutting down nuclear plants. Germany decided it was done with nuclear power two months after the accident. According to a research paper cited by the Washington Post, “following Germany’s nuclear phaseout, an estimated 1,100 additional people died each year from inhaling the poisonous gases and particle pollution from the coal plants Germany used to temporarily replace its nuclear ones.” For our part, the United States’ nuclear power capacity peaked in 2012, the year after Fukushima. 
+
+Even those somewhat direct numbers don’t do the disparity justice. Europe, for example, has recently experienced what a geopolitical pickle relying on foreign energy can create. But even that pales in comparison to what the world is missing out on in its irrational aversion to a potentially plentiful, reliable, clean source of energy. 
+
+What would the world look like with abundant clean energy? One of my favorite videos that I’ve watched this past year is Huge If True’s The Big Misconception About Clean Energy, which I’ve shared previously: 
+
+Huge If True describes itself as “an optimistic tech show,” and this video demonstrates the power of that approach. In it, Abrams and Matt Yglesias approach the climate crisis not as a disaster to be averted, but as an opportunity to be seized. Their message is that as long as we generate clean energy from renewable sources – including nuclear, along with geothermal, wind, and solar – we can actually use more energy, instead of cutting back, which is both more realistic for developing countries and more hopeful for everyone. 
+
+When I say uncapped upside, here’s what I mean. In the last segment of the video, Abrams says, “So for the next minute, just listen to him describe what we could do and let yourself imagine what could go right.” Yglesias lists off a few things that we know how to do, but that are impractical to scale because of energy intensity, each of which we could do relatively easily with abundant clean energy: 
+
+Use Direct Air Capture to pull carbon dioxide out of the atmosphere
+
+Create vertical farms to feed everyone locally while using drastically less water, and produce more crops at greater efficiency 
+
+Desalinate salt water to produce effectively unlimited drinkable water
+
+These are just three examples, and each one would do an enormous amount to increase humans’ life expectancy, particularly considering the impact on billions of people of averting a climate crisis. And they’re just scratching the surface. Imagine the impact of practically free, abundant clean energy on all sorts of things, from electric vehicles to supersonic flight.
+
+Think even bigger. Pinker writes, “Energy channeled by knowledge is the elixir with which we stave off entropy, and advances in energy capture are advances in human destiny.” More energy equals more elixir equals a potent weapon in the ongoing battle against entropy. 
+
+In the pessimistic case, assuming we replicated previous disasters (and ignoring the existence of safer and cheaper modern nuclear solutions, like small modular reactors), we would risk 47 lives. In the optimistic case, we would save millions of lives, lift tens of million more out of poverty and hunger, and improve the standard of living for all humans. 
+
+While abundant clean energy may be the most potentially impactful technological impact, because energy powers all of the others, there are many other categories that would benefit from the same optimistic reframing: 
+
+Education is a force multiplier, and instead of trying to push all students to the middle of the distribution, we should fight to create a system that provides abundant personalized and motivational education. Knowledge creation is at the root of progress. That’s why I’m so excited about Primer, Agora, Synthesis, and other companies innovating in education.
+
+Space is an infinitely large frontier to explore, inhabit, and commercialize, and going multiplanetary, and ultimately multi-solar-system, increases humanity’s chance of long-term survival, to say nothing of the inspiration that exploration provides. SpaceX, Hadrian, Varda, and many more have my attention and respect.
+
+Healthcare is obviously directly connected to health and wellbeing, and commands an enormous percentage of our GDP. Improvements to both the healthcare system and the care that people receive both extends health spans and frees up money to go to other things. I’ve written about NexHealth, Fount, ScienceIO, Oscar, Cityblock, and have invested in many others here.
+
+In each of these categories, and many more, the upside to optimism is, for all intents and purposes, unlimited. It doesn’t mean that each industry will transform overnight; it means that we need to encourage the entrepreneurs and policymakers and businesspeople and researchers who want to experiment their way to the incremental advances that compound to make very big differences. 
+
+This same principle explains why I’m so optimistic about web3: along with its more direct potential benefits, like cross-border payments, it’s a petri dish for the governance and economic models that might underpin many other innovations. I wrote about that idea here. Companies like Vibe Bio and Toucan are trying to reimagine the incentive structures, funding sources, and transparency of drug development and carbon credits, respectively. There are many, many more examples. 
+
+That doesn’t mean that I think everything in web3 will pan out. Someone on Twitter estimated that 95% or more will fail, and I agree. I also agree that there are a lot of scams and bad actors in the market; those are even more harmful than their direct cost by giving pessimists and cynics legitimate fodder. But I strongly believe that the experimentation happening will increase knowledge and lead to unexpected positive outcomes. 
+
+(For the avoidance of doubt, I’d put getting my ass kicked in a web3 debate into the good criticism category, not the pessimism category, that’s not what this piece is about.)
+
+And we haven’t even gotten to AI. Combine any of the above with the grandchildren of DALL-E 2 and GPT-3 and the results boggle the mind. In his Case For Optimism, Kevin Kelly calls Ubiquitous AI “the most optimistic force we can imagine.” 
+
+There are, of course, pessimistic cases that can be, are, and will be made about any of the above. People as future-leaning as Elon Musk have warned of the dangers of AI. Many concerns are valid and need to be addressed, but ultimately underestimate humans’ ability to evolve and address new challenges with new solutions. Progress isn’t static; it’s dynamic. 
+
+But everything I’ve just laid out – and many things I can’t imagine – aren’t possible without optimism, without the belief that humans can make things better through trial and error and conjecture and criticism. 
+
+So how do we become more optimistic? 
+
+Optimism in Action: The Abundance Agenda and American Dynamism
+The first steps towards broader optimism are soft: greater education about the historical facts and trendlines, better understanding of what optimism actually is, and a shift to focusing on the benefits of progress in place of fear. I’m trying to do that in a small way today. 
+
+More tangibly, a couple of examples highlight efforts to fuse optimism into institutions that I’m following closely: The Abundance Agenda, a more optimistic plan for government, and American Dynamism, which suggests that startups can fill in where incumbents and government fall short.
+
+Abundance Agenda
+
+In January, Derek Thompson wrote a piece for The Atlantic titled A Simple Plan to Solve All of America’s Problems. The simultaneous ascent of digital communications platforms like Twitter and slowdown in atoms-based progress, according to Thompson, has created an American story in which “America has too much venting, and too little inventing.” 
+
+We complain about climate change, and oppose nuclear. We complain about rising housing prices, and block new housing development. It’s the problem we’ve been discussing throughout: vocal pessimism and absent optimism.
+
+To address the challenge, Thompson proposes an abundance agenda, a non-partisan shift to solve the national problem of scarcity by making it easier to make more of the things we need. It’s similar to the idea of supply-side progressivism that Ezra Klein has proposed. Instead of focusing on the demand side – food stamps, Social Security, universal healthcare – it focuses the government’s efforts on making more stuff in order to accelerate all of the curves that Pinker highlighted in his book. More doctors, more clean energy, more access to education, more high-skill immigration. It says we should innovate out of problems instead of paying to fill ever-present gaps. 
+
+Importantly, Thompson acknowledges that making the abundance agenda work requires a reframing of threats into benefits. He concludes:
+
+This is an unabashedly utopian vision. But moving from venting to inventing, from zero-sum skirmishes over status to positive-sum solutions for American greatness, requires not just a laundry list of marginal improvements but also a defense of progress and growth. The abundance agenda aims for growth, not because growth is an end but because it is the best means to achieve the ends that we care about: more comfortable lives, with more power to do what we want, with more time devoted to what we love.
+
+We don’t just need technical advances, we need a shift towards optimism. 
+
+American Dynamism 
+
+There’s a lot the government can do to create the conditions for abundance: pass laws to increase the number of physicians, fund R&D, cut the red tape that makes nuclear plants so expensive to build, change zoning laws to encourage development, and much more. 
+
+But the government won’t be able to innovate alone; it’s not what it does best. Katherine Boyle, who runs a16z’s American Dynamism practice, believes that the government should work more closely with startups to address the nation’s biggest challenges. 
+
+Boyle has been hitting the press circuit recently, with a Noah Smith interview and a conversation with Ben & David on Acquired. Her message is clear: the only way to reverse America’s recent stagnation and kickstart innovation post-COVID is through “technologists building companies that support the national interest.”
+
+She, too, acknowledges that technological progress is an important piece of the puzzle, but that, “most importantly, dynamism requires optimism and a belief in growth and opportunity.”
+
+While her solution is different from, or at least complementary to, Thompson’s, both agree that a re-ignition of optimism and a renewed appreciation in progress and growth are critical elements to any plan that would create abundance. 
+
+Whatever the specific solution, it’s time for pessimism to subside and optimism to thrive. In the interview with Smith, Boyle hands the pen over to David Foster Wallace, who pointed out the declining usefulness of irony, as captured in Stephen J. Burn’s Conversations with David Foster Wallace:
+
+Irony’s useful for debunking illusions, but most of the illusion-debunking in the U.S. has now been done and redone…All we seem to want to do is keep ridiculing the stuff. Postmodern irony and cynicism’s become an end in itself, a measure of hip sophistication and literary savvy. Few artists dare to try to talk about ways of working toward redeeming what’s wrong, because they’ll look sentimental and naive to all the weary ironists. Irony’s gone from liberating to enslaving.
+
+If you’ve spent any time on Twitter, or your social media platform of choice, you recognize the truth in DFW’s observation. It’s another way of saying that pessimists seem smart, and optimists seem naive. But the facts support the optimists, and culture needs to shift to support them as well, not to avoid a terrible future (although a more cynical future sounds terrible), but to create a much better one.  
+
+The optimists aren’t always going to get things right, and even when they do, it’s not ever going to be easy. It’s going to be hard. Abrams concludes the video I shared above by saying, “This is a story about ambition. About the sheer audacity that it’s gonna take to get to where we need to go.” Strong “not because it is easy, but because it is hard” vibes. We need a lot more of that at every level. 
+
+I asked people on Twitter what made them most optimistic about the next decade, and received answers ranging from “my kids” to the COVID vaccine effort to remote work to DNA sequencing to nuclear fusion:
+
+Twitter avatar for @packyM
+There’s a lot to be optimistic about if you’re looking. At Not Boring, we’re going to keep investing in and telling the stories of the optimists, the people and companies who are making much of what we’ve discussed a reality. We’ll be realistic and acknowledge challenges, of course, but focus more of our attention on what the world looks like if things go right. There are more than enough cynics out there to counterbalance my optimism. 
+
+And I want to do more. One idea: let me know if you’d be interested in a weekly roundup of optimistic stories, a tiny pushback against the doomsday headlines that blanket most media homepages. I’d love to hear your ideas, too. Reply to my tweet on this article at @packym to contribute.

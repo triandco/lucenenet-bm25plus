@@ -1,0 +1,296 @@
+Hi friends 👋 ,
+
+Happy Tuesday!
+
+I was a dumb optimist in the bull market, I’m gonna continue to be a dumb optimist in the bear. The technological and cultural shifts I was excited about like three weeks ago haven’t gone anywhere, and in fact, the bear market might give builders more breathing room to get weird. 
+
+One of the areas in which I think we’ll see the most progress during the bear is token design. This last cycle was full of very early attempts to build new forms of organization and new economies, and I think that over the next [insert length of bear market], people are going to experiment with new models focused less on price and more on creating sustainable new worlds. 
+
+One of the questions that’s been lodged in my brain as I’ve been thinking about this is whether protocols behave more like companies or countries. What are the competitive and cooperative dynamics at play? How important is it to own the reserve currency of [web3, the metaverse, the Great Online Game]? 
+
+Unfortunately, I’m not smart enough to answer that question on my own. Fortunately, I’m friends with someone who is: Tina He. Tina is the founder of Station, which I was lucky enough to invest in via Not Boring Capital, and the author of one of my favorite Substacks, Fakepixels.  A few months ago, on a catch up call, she told me that after Station, she wants to become a token designer. I didn’t even know that was a thing, but she talked about combining economics and code, aligning incentives, and creating new digital economies. It’s a beautiful idea: coordinating human behavior and resource allocation through smart token design. 
+
+So when Tina tweeted this…
+
+Twitter avatar for @fkpxls
+… I replied that Protocols as Nations was on the to-write list, she asked how she could contribute, and we decided to join forces to write it up. 
+
+The result is better than I could have hoped for. I think this can be a go-to resource for people designing DAOs and protocols, people building new worlds. 
+
+Let’s get to it.
+
+(Psssst… Click this 👆👆 to read the full piece online)
+
+
+When trying to understand tokens, it’s tempting to draw from what we already know. 
+
+Sometimes, tokens function like equity in a company, and owning a token is akin to holding a stake in the project’s potential upside. Other times, tokens function like a “token-of-gratitude” and symbolize goodwill among close friends in the purest sense. The wide-ranging role isn’t a bug but a feature representing value in the most abstract sense, whose meaning is given by the system's very design.  In other words, a token doesn’t necessarily have any intrinsic value but relative value. It’s the encapsulation of a unit of value universally recognizable and enforceable by a system. 
+
+Tokens are barely a new concept. Shells and beads were the earliest types of tokens as a medium of exchange. Others that we’re familiar with today — casino chips, credit card points, stock certificates, concert tickets, and club memberships – are all forms of tokens as they represent a unit of value universally recognized and enforced by the system that issues that token. When the respective systems fail to enforce and recognize the value of these tokens, the jurisdiction can step in to protect the token holders. 
+
+Think about the last token you interacted with — What does it allow you to do that you otherwise cannot? Why are you holding it and want to own more of it? What happens if you discard or transfer ownership of your tokens? To many, the answer to these questions would be “getting even more tokens.” To others, holding tokens allows for participation rights in projects and communities that they care deeply about. The former speaks to the economics of holding a token, the latter to access rights. 
+
+A token design is poor when there’s value misalignment between value accrual in the system and value accrual to the token. Gabriel Shapiro aptly describes tokens like UNI, COMP, and the recently launched APE, as “value by association,” as he acutely identifies the fragmentation in value streams for the protocols aforementioned — the prime slice has been preserved for the insiders, while the “illusion of power” gets distributed to the rest. 
+
+One of the reasons that there is so much confusion around token design, and value accrual specifically, is that tokens, and the DAOs and protocols that issue them, are so multifaceted. Sometimes, the issuers want them to behave like shares in a corporation. Others issue “governance” rights to skirt regulations while insiders pump the tokens in the hope of getting out before the price tumbles. Others still want to build and unify digital nations. Often, even the issuers aren’t clear exactly what they want to do with the token, but they know that tokens are a great way to capture value.
+
+While token design isn’t the only important aspect of creating a new protocol or digital economy – delivering value to users should always be priority #1 or else the token’s price will inevitably crumble – it’s a critical one. Just like a messy cap table can inflict mortal wounds on a startup or poor monetary policy can derail a nation’s economy, bad token design can doom a protocol before it even gets off the ground. The crypto graveyard is littered with examples of good projects whose token designs cemented their eventual demise from day one – maybe the tokenomics encouraged too much growth, too fast – and we’ll cover some of them here. There are others whose token designs allow them to do things that non-web3 companies can’t by properly aligning incentives in the system, and connecting the system to the larger ecosystem. We’ll cover those, too. 
+
+Why does it matter? Everything is falling apart. Terra collapsed largely thanks to its token design. Projects that attracted millions or billions of dollars with the promise of absurd APYs are learning the truth of the old adage, “Easy come, easy go.” The regulators are coming.  Tokens that were worth a lot of fiat a couple weeks ago are worth a lot less today.
+
+All of those reasons and more are exactly why it’s critical to understand good token design today. Not only because good token design can help avoid catastrophic outcomes, but because, assuming we’re entering a sustained bear market, now is the perfect time to experiment with novel token designs without the pressure of the expectation of high prices and “up only.” 
+
+Tokens are naturally economic; they have a price attached from inception, and are instantly tradeable on liquid, global, 24/7 markets. But tokens can be much more than that. They’re programmable primitives that allow DAOs and protocols to signal what matters in their ecosystem, to reward good participation, to trade with each other and build interconnected webs of support, and to support new forms of digital organizations and nations. 
+
+So what are you building? Are you building a club or a co-op, a corporation or a country? 
+
+Protocols can be all of the above, so we’ll start by walking through how they compare to companies and countries, before laying out a framework for token analysis, and imagining what the world will look like when the dust settles. We hope that it’s useful to the builders, contributors, and investors alike. 
+
+We know you wanted a break, anon, but it’s time to jump back down the rabbit hole.  🕳 🐇
+
+Definitions
+A quick pause here to define three key terms will pay dividends throughout the piece. 
+
+Protocol: a system of logic that coordinates exchange between suppliers and consumers of a service, based on rules written into the code. SMTP, which coordinates email, and Ethereum, are both protocols. Only Ethereum captures value, thanks to ETH tokens.
+
+Token: a unit of value universally recognized and enforced by the system that issues it. There are different kinds of tokens – including governance tokens, DeFi tokens, non-fungible tokens, security tokens – all designed to do different things. Tokens are code, and as such, can be programmed to do nearly anything its creator dreams up.  
+
+DAO (Decentralized Autonomous Organization): a group organized around a mission that coordinates through a shared set of rules enforced on a blockchain. (Linda Xie) Protocols are governed by DAOs once the protocol has a token and is fully decentralized. 
+
+Protocols as Companies
+The easiest analogy for protocols is that they’re like corporations, but digital. DAOs are Digitally-Native Corps. 
+
+Thinking of protocols as companies is convenient from a strategy perspective. There are countless books written on and frameworks created for corporate strategy. We talk about them a lot in Not Boring. Competitive Strategy, 7 Powers, 5 Forces, Good Strategy, Bad Strategy. The list goes on. Most of the people creating and running protocols come from the corporate world (with the exception of those who come from academia, either as professors or students). It’s tempting to port those ideas and experiences over. 
+
+It’s convenient from a finance perspective, too. There are rules and textbooks and models and an entire industry built on valuing companies. To understand companies, we need to understand how value gets created, the sustainability and defensibility of the value creation (unit economics and moat), as well as governance and control dynamics (management team).
+
+We derive the value of a company by looking at its net assets (or equity, which is the value of all assets minus that of all liabilities). Savvy investors would look at a company’s assets and assess the quality of each source cash flow to conclude a fair value. Not all cash flow is created equal. 
+
+Good managers of traditional businesses understand the investor lens, thus focusing most of the company’s resources to improve the core assets that drive enterprise value and ignore or spend minimal effort on the rest. Employees are allowed and encouraged to contribute ideas from the bottom-up, but it’s up to the CEO, and sometimes the board, to decide which of these ideas will compound value to the core assets. 
+
+For a company like Meta, the core asset is the user data and the algorithm that’s able to surface the right content for higher conversion. The trillion gigabrain things that Zuck seems to be orchestrating — from the fashionable Instagram to the highly utilitarian WhatsApp — are all meant to collect more data, diversify sources the of data, increase the quality of the data, and de-risk the irrelevance of the data, thereby increasing core asset quality and its revenue-generating potential. Everything feeds the core. The absence of this kind of compounding focus is why companies that do a bunch of unrelated stuff, like conglomerates, often get valued at a discount.
+
+Investors on Twitter are taking initiatives to value protocols similarly. An investor can conduct a DCF (discounted cash flow) analysis to understand value accrual to xSUSHI holders by projecting the growth of the 0.05% fee on all protocol transactions. In addition to its core DEX (decentralized exchange), Sushiswap, offers a diverse set of financial products from lending to an NFT marketplace. Investors may discount these non-core, auxiliary cashflows as they’re still early and highly speculative, and focus on valuing the protocol based mainly on its DEX fees. Here, protocols seem similar to companies. 
+
+Both companies and protocols are trying to coordinate human and financial capital to accomplish a set of goals. A company’s main goal is to produce a return on capital invested. Many protocols certainly share a similar goal of generating profits, but these objectives tend to be much more diverse — from maintaining a piece of public digital infrastructure to creating one of the most cost-efficient lending platforms in the world. 
+
+When you look at all of the functions of companies and protocols or DAOs line-by-line, the parallels are clear:
+
+
+With a quick glance at the table above, it’s striking that DAOs and companies do many of the same things. Both have “tokens” of sorts, both need to establish governance models, both write governing laws, etc.  A closer inspection shows that there are major differences within key line items. 
+
+Governance is where the analogy breaks down most cleanly: corporate governance and protocol governance are very different. The former relies on centralized management, while the latter relies on the good judgment of token holders. 
+
+Protocols can run like corporations for a while in the beginning, when the founders and core team need to make the fast, life-or-death decisions startups need to make. But after they’ve progressively decentralized, protocols need to fully hand over the reins to their communities. This presents a difficult trade-off: it’s challenging for a protocol to retain both corporate-like efficiency and include token holders in decision-making.  
+
+That’s one of a few internal areas in which companies and protocols diverge. 
+
+Externally, where companies and protocols derive their competitive advantage and how they distribute value – how they sustain profits and split them up – differ wildly as well. 
+
+In an excellent recent article for Harvard Business review, Why Build in Web3, Jad Esber and Scott Kominers explain that companies building in web3 have a different set of competitive advantages than companies building in web 2.0. In web 2.0, as highlighted above, one of the greatest sources of strength is data ownership and the most dominant moat, the strongest of the 7 Powers, is network effects.  
+
+Every action we perform on Facebook (lol we don’t use Facebook, but go with us) stays on Facebook’s servers. All of that data allows Facebook to build features that keep you more engaged with the product and to help advertisers target you better. Then, as more of your friends engage with Facebook, there’s more of an incentive for you to use, and continue to use, Facebook. You know this story. 
+
+Web3, according to Esber and Kominers, is built different: 
+
+It’s based on the premise that there’s an alternative to exploiting users for data to make money — and that instead, building open platforms that share value with users directly will create more value for everyone, including the platform.
+
+In Web3, instead of platforms having full control of the underlying data, users typically own whatever content they have created (such as posts or videos), as well as digital objects they have purchased. Moreover, these digital assets are typically created according to interoperable standards on public blockchains, instead of being privately hosted on a company’s servers.
+
+Data ownership and portability might be the most important difference between web 2.0 and web3 from a strategic perspective. The implications of that subtle shift – while far from realized in the current instantiations of many web3 projects – are tectonic. 
+
+Take Lens Protocol, a “decentralized social graph.” Lens lets creators own their creations and take them anywhere in web3. It also creates a shared database of that content, and of the connections between people, that anyone can build on top of. Facebook, Twitter, and the like derive power from the data they own and from the strength of the social graphs that only they have access to. Lens envisions an internet where that’s flipped, where the data and social graphs are out in the open for anyone to build on top of.
+
+As web3 developer Miguel Piedrafita tweeted: 
+
+Twitter avatar for @m1guelpf
+That not only means that a richer ecosystem of applications can flourish by tapping into a growing source of content and connections, it also means that the sources of power and where value accrues shift completely. Don’t like the Twitter algorithm? Great, tap into all of the underlying data and build something different. Building new social products has essentially been a dead-end – it’s practically impossible to bootstrap the network effects built up by incumbents over the years – but Lens Protocol aims to eliminate that cold-start problem for social app developers, which could lead to more social apps.
+
+As Esber and Kominers write: 
+
+The dynamics of Web3 are less zero-sum, which means a platform’s overall value creation opportunity can be bigger. Building on an interoperable infrastructure layer makes it easy for platforms to plug into broader content networks, thereby expanding the scale and types of value they can provide their users.
+
+While the value creation opportunity can be bigger, there are still open questions about value capture. As Packy wrote in Shopify and the Hard Thing About Easy Things, “Here’s the hard thing about easy things: if everyone can do something, there’s no advantage to doing it, but you still have to do it anyway just to keep up.” If the protocols make it easier for developers to build applications, more people may build applications and compete away profits. 
+
+New web3 primitives might spell trouble for the incumbent networks, but it’s still unclear where the value accrues in this new world. Esber and Kominers propose that sharing infrastructure drives “towards a greater emphasis on platform design as a competitive advantage” and that “user insight will continue to differentiate consumer apps.” That seems to be a less durable competitive advantage than the incumbents enjoy. 
+
+In Why Decentralization Matters, Chris Dixon explains that “as platforms move up the adoption S-Curve, their power over users and 3rd parties steadily grows,” and they move from friendly “attract” moves – like designing more delightful platforms and opening APIs to developers – to adversarial “extract” ones – like prioritizing features that get users to click on ads and locking down APIs. 
+
+
+Chris Dixon
+In web3, when the content and connections are open and available for anyone to build on top of, it’s much harder for applications to move to the “extract” phase, which happens to be the phase in which most of the profits are generated. Dissatisfied users can pick up and move to another app, and dissatisfied developers can either fork the project or start their own on top of the same infrastructure, content, and connections. That’s likely healthier for users, developers, and the overall ecosystem, but presents a murky profitability picture for applications. 
+
+It seems, then, that value may accrue to the protocols, which can take advantage of cross-side (“indirect”) network effects, in which two groups of participants – users and app developers – attract each other. As more developers build on top of Lens Protocol, for example, they attract more users, who share more of their content and connections with the protocol, which makes it a more obvious choice for the next developer. Lens Protocol can take a lot of nibbles in the form of fees, benefiting from the overall growth of usage on the platform without concern for the stickiness of any particular application built on top. 
+
+But not so fast! In the classic Protocols as Minimally Extractive Coordinators, Chris Burniske observes that, “As coordinators of exchange, protocols should be minimally extractive.” If a protocol’s fees are too high, if it moves from “attract” to “extract,” developers will leave and bring their users with them. So protocols are incentivized to keep fees low enough to retain developers while still taking a small enough margin such that it doesn’t make economic sense for a new protocol to try to compete. That said, protocols can still make money. As Burniske clarifies (emphasis ours): 
+
+I should note minimal extraction doesn’t mean cryptoassets that capitalize protocols will capture minimal value; if something is minimally extractive, but globally produced and consumed, the coordinating asset can capture a significant amount of value.
+
+In theory, web3 will create more value by making it easier for applications to build on top of open protocols and databases, capture more value through tokens that are intrinsically linked to the use of the protocols and applications, and importantly, share value with builders and users, building token-powered network effects. 
+
+Here, too, it’s still so early, and that thesis will need to be proven at scale. But if it is, it will likely be because of potentially the biggest difference between web 2.0 companies and web3 protocols: the cryptoassets, or tokens. 
+
+Tokens can give both applications and protocols superpowers – like power boosts on their strengths – provided they start from a place of creating real user value. For the scope of this piece, we’ll focus on protocols. 
+
+Protocols need to do many of the same things that companies do, but they also face additional challenges in coordinating decentralized groups of user/owner/contributors/voters. Luckily, they have an ace up their sleeves, tokens, that give them potential advantages in both coordinating activity and capturing value, often alongside their builders and users. In that sense, they’re not building companies as much as they’re building economies.   
+
+These strategic differences suggest that protocols might be more similar to open source software projects, a comparison that’s frequently made, with some key differences like native tokens and the fact that contributors get paid. A less obvious comparison, though, is that protocols might behave a lot more like countries than companies. 
+
+Protocols as Countries
+Less intuitively, features of decentralized protocols also largely resemble those of a nation state:
+
+
+The blockchain protocol establishes the constitution and the governing laws of the nation state, while the participating actors in the network are citizens of the network, thereby subject to the network’s law and policies. 
+
+Many of the things that national governments need to do, protocols need to do. They need to establish governance, a rule of law, balance of  powers, public goods funding, identification standards, trade policy, a currency (or two), and much more. 
+
+The monetary policy, such as token emission rate (inflation rate), is defined in the protocol and determines under what conditions new tokens get minted. The fiscal policy regulates taxation and government spending, usually in the form of transaction fees and reinvestment of DAO treasuries into ecosystem development. 
+
+Not surprisingly, as many would-be nation builders have discovered over the millennia of human history, designing the governance structures, rules, and policies to coordinate people and economies is hard. 
+
+Humans have been experimenting with economic and governance structures for millennia – with many errors and wars along the way. We still haven’t nailed it yet, but we’ve iterated our way to better models. Crypto is trying to speedrun those same simulations in weeks, months, and years to determine the best way to govern and coordinate economic activity on the internet. Re-learning at high speeds means that there are bound to be big mistakes. America went through a Revolutionary War, a Civil War, and handfuls of foreign wars, some successful, some unsuccessful, to create, protect, and spread its governance model, democracy. Its economic system, capitalism, is a messy way to run an economy – it relies on the emergent behaviors of the market – but it’s ultimately far more effective than any large-scale centrally planned attempts to date. 
+
+Crypto is an experiment in bringing similar models to the internet, at internet scale and speed, and it’s experiencing similar growing pains. We all saw what has happened with Terra over the past few weeks. 
+
+The founders of protocols oftentimes declare a nation-state-scale thesis without abiding to basic principles of economics — supply and demand. Yes, tokens can become valuable in the short-term as a container of future prosperity, but the most important determinants of a token’s ongoing value are: 
+
+The desirability of the underlying ecosystem 
+
+The token’s intrinsic utility within the ecosystem
+
+Without a clear understanding of how the ecosystem produces and captures value, it becomes almost impossible to align the capital allocation strategy with what creates a long-term successful and resilient ecosystem. 
+
+The goal of a nation state is to increase productivity growth and competitive advantage for long-term desirability and strength of its residency, exports, and currency. If analyzing protocol tokens is the art of microeconomics, then analyzing utility tokens of decentralized networks is the art of macroeconomics. The former requires the supply and demand of the product and application, and the latter focuses on the aggregate supply and demand dynamics within and between entire ecosystems. 
+
+In “Why Nations Fail,” economists Acemoglu and Robinson study the patterns of wealthy countries and developing countries. They observe that developed countries are wealthy because of “inclusive economic institutions” vs. extractive institutions. Countries that have what they call “inclusive” political governments — those extending political and property rights as broadly as possible, while enforcing laws and providing the public infrastructure — experience the greatest growth over the long run. By contrast, countries with “extractive” political systems — in which power is wielded by a small elite — either fail to grow broadly or wither away after short bursts of economic expansion. 
+
+These lessons should be taken seriously when designing crypto networks. Through the lens of development economics, the need for decentralizing political and economic power aligns well with blockchain networks’ very own design. A blockchain network’s value is largely dependent on the quality of “natural resources” (blockspace and gas) and demand for the network’s goods and services. The United States, too, is largely dependent on the quality of its l resources: its infrastructure, people, and natural resources. But good policy matters too, especially when it comes to coordinating people.
+
+Here, the similarities in structure and differences in execution between DAOs and countries become apparent.
+
+A friendly and transparent immigration policy that incentivizes innovation and provides education can become a country’s most long-lasting strategic edge. Countries can and do control who enters their borders (with obvious exceptions), and can adjust quotas of immigrants from certain countries or with certain skills based on national priorities. 
+
+Citizenship and identity, and therefore immigration, are less clear in web3. As it stands, democracy without clear citizenship leaves protocols and applications open to attack. Tokens may offer a solution.
+
+In crypto, citizenship is freely accessible and can be easily bought. On most networks, whoever owns the network tokens or runs a node can be considered a “citizen” of the network, even if the network never knows that person’s identity. The lack of identity and accountability makes protocols vulnerable to sybil-attack and hostile governance takeover. People can control multiple accounts simultaneously and sway outcomes in their own favor. 
+
+That’s where NFTs enter the picture.
+
+While NFTs aren’t traditionally included in most conversations about tokenomics and token design, their inclusion expands the design space and opens up new solutions. 
+
+NFTs represent ownership and grant access to their holders, but the tradability of transferable NFTs has historically made them less attractive as an identity solution. But fungible tokens are, well, fungible, and as such, a terrible identity solution. Imagine walking into a voting center and offering a dollar bill as proof of ID. 
+
+The buzzy SoulBound Token (“SBT” ), recently  coined by Ethereum founder Vitalik Buterin, aims to addresses this precise issue: 
+
+Non-transferable “soulbound” tokens (SBTs) representing the commitments, credentials, and affiliations of “Souls” can encode the trust networks of the real economy to establish provenance and reputation. 
+
+Station is taking a similar tack, launching its own whitelabeled non-transferable NFT collection to uniquely identify members of the community, with properties of the NFT representing the member’s involvement and reputation. The goal of these efforts is to provide fidelity of the non-financilized characteristics of network members to make the distribution of power and economics more meritocratic and transparent. In the ideal world, those who add the most value should be rewarded most generously for their contribution. That applies to both capital and labor. 
+
+These kinds of NFT-based digital passports, which let users carry their full on-chain (and increasingly, their off-chain) history, contributions, work experiences, and interests with them across web3, will contribute to strengthening the biggest difference between protocols and nations: namely, that emigration is much easier online than it is in the physical world. 
+
+Picking up and moving from the United States to even just Canada is a lengthy, cumbersome, expensive, and physical process.Moving between digital nations, however, can be as trivial as opening up a new tab. 
+
+As SBTs, reputation systems like Station’s, and protocols like Lens grow in popularity, it will be even easier to show up to a new DAO with all of your things, even your reputation. Certainly, you’ll need to build new relationships, but compared to moving from one country to another, switching DAOs is no work at all. 
+
+But unlike nations, protocol citizenship doesn’t have to be limited. One person might be an active citizen of ten or more different protocols. And the protocols themselves will share more than citizens. Like nations, they’re beginning to establish trade. 
+
+As each of these digital economies grows, we start to see the rise of inter-protocol collaborations. Protocols, just like nations, start to understand their own competitive advantages, and that by establishing trades with their neighbors, everyone could be better off. Metagovernance emerged as a popular concept in early 2022: 
+
+Metagovernance is when Protocol A holds governance tokens from Protocol B and uses those tokens to vote on proposals in Protocol B. It is essential to point out that there is no standard way to meta-govern; a DAO would adopt a meta governance mechanism and strategy that best suits the peculiarities of its operations and goals.
+
+Index Coop is currently spearheading the metagovernance effort with its $INDEX tokens. The protocol creates indices of some of the highest quality blue-chip tokens. One of the most popular indices is $DPI, which includes leading Defi protocols such as Uniswap, Compound, Aave, and many more. and as a result, $DPI purchasers, who are also $INDEX holders, in aggregate possess a meaningful amount of $UNI tokens — enough to participate in Uniswap’s governance.
+
+Organizations such as Wildfire DAO are formed to create strategic alliance and collaborations between protocols to “bring together and align community members from all around the ecosystem, forming new squads to handle token design, Governance, and coordination issues transparently and collaboratively.”  These organizations are the UN, WTO, IMF of the cryptoverse, protecting the wellbeing of the entire crypto ecosystem by aligning incentives among key players. Membership in one of these organizations symbolizes legitimacy, builds trust, but also comes with a set of constraints and terms imposed by the alliance, and oftentimes by the more powerful players at the table. 
+
+As we move from closed economies to interconnected ones, international economics might provide useful tools.  One important concept that underpins the field of international economics is the “Impossible Trinity.” In most nations, economic policy makers would like to accomplish these three goals: 
+
+Make the country’s economy open  to international flows of capital. 
+
+Use monetary policy as a tool to help stabilize the economy. 
+
+Maintain stability in the currency exchange rate. 
+
+Here’s the rub: a country can pick two out of the three goals due to the logic of economic forces. For those who are curious, you can read more about the trilemma and its historic precedents here. 
+
+
+The Impossible Trinity
+Many protocols have seen this trilemma playing out. If a protocol would like to use its tokens to invest in other protocols and receive external investments, and maintains control over its monetary policy (token supply) to incentivize ecosystem development, then it has to forego a fixed exchange rate with other tokens, which makes the protocol token more volatile as an asset to hold in a treasury or transact with.
+
+Understanding these trade-offs can help a protocol strategically position itself in the inter-protocol economy to focus on policy choices that align with its strategic advantages. Fortunately, the crypto community is very familiar with trade-offs and trilemmas, the most famous of which is the Scalability Trilemma. Each protocol will be able to write its design choices into its code, along with the ways in which citizens can vote to make different choices as their position in the inter-protocol economy evolves. 
+
+We’ve barely scratched the surface here. Entire thesis papers will be written on comparisons to which we dedicated a sentence, and there are many comparisons and concepts we left undiscussed altogether. Our point is to show that protocols are both similar to companies and countries in many respects, and different in some crucial others, and to nudge token designers to spend time thinking about their protocols in both contexts, stealing lessons, frameworks, and tricks from each. 
+
+A Framework for Token Design & Analysis 
+Which brings us to token design. 
+
+So where to begin? The most important place to start isn’t with monetary or fiscal policy – a mistake that many protocols have made; good token design, like good product design, starts with understanding what users want. 
+
+When consulting with new DAOs or crypto projects contemplating the launch of a new token, Tina tends to start with a simple question: What is the one most important reason why people are in your ecosystem? This is the Most Valuable Interaction (MVI) of the network, and the focus of the token design is to incentivize a sustainable feedback loop for such MVI. 
+
+With the MVI question answered, token designers can use this simple framework to guide them:
+
+
+Underlying Value: What is the value of the tokens? Does it let holders vote, or own the network, or give them rights to a particular asset? A protocol may have multiple tokens that have different forms of underlying value. 
+
+Supply Strategy: How will the token supply grow or shrink? Is it up to holders to vote on over time, or is it set in stone from the beginning? If set in stone, is the supply set in stone, or is a formula that determines supply set in stone? There are important trade-offs to consider, such as weighing the ability to correct errors in token design with the confidence that comes from knowing how supply will evolve. 
+
+Utility: What does the token let the holder do? Does it let them access jobs or events or markets? Can it be used as a medium of exchange within the protocol’s economy? 
+
+Drivers: Why would people want to hold the token? In some cases, that answer might be as straightforward as “to signal status,” as is the case with many NFT projects. Other tokens might give users discounts on a protocol’s products, or a cut of their cash flows. Others still, people will simply want to hold in order to speculate. 
+
+In a well-designed system, these things will be connected – the MVI should tie to the user’s Drivers and be supported by the token’s Utility, for example.
+
+To illustrate, we’ll use a grossly oversimplified example at the cost of dismissing many operational complexities.
+
+Let’s say the MVI of a network is that Brazilian farms contribute high-quality carbon credits to a network we call “AmazonDAO.” The initial demand is there if they get it right: Google, Microsoft, and other climate-forward corporations want access to premium supplies of carbon credits. The challenge is supply: out of all the carbon markets to which farms can contribute, why should they participate in AmazonDAO? Why does the token matter in all of this? 
+
+A successfully designed token should help accomplish one goal: make Brazilian farms want to contribute and continue to contribute high quality credits to the network. 
+
+Market liquidity begets liquidity. A premium supply of carbon credits could attract other market makers and buyers alike, which would increase demand, raise prices, and attract more supply. The challenge, just like any new market, is bootstrapping initial liquidity. What if we tell the Brazilian farmers that by being one of the early contributors, they not only will get paid in dollar amount in parity with market rate, but they will also become “owners” of a growing network of small agribusiness owners, credit buyers, carbon quality validators, and agricultural researchers? They come together not only to transact, but to share and create cutting-edge knowledge and education to help agribusiness owners transform and refine sustainable farming practices. The quality of their practices and knowledge attracts some of the top carbon buyers, who not only want access to the credits, but want access to their brand, story, and expertise for future strategic initiatives.   
+
+The network serves as a market maker, but rather than taking a hefty intermediary fee, after paying the contributors and developers who built the initial network, the majority of the take rate fee directly flows to a network treasury: The Amazonian Fund. The Amazonian Fund is an transparent, on-chain entity with an IRL subsidiary called Amazonian LLC. All the token holders get to decide who gets to sit on the committee to act as the representatives to interface with other legal entities. The most important decisions around the future of AmazonDAO are all made by the token holders themselves — for example, whether they should invest more capital in building local community centers to teach more farmers how to produce certified sustainable coffee. 
+
+To summarize: the primary goal of the network is to attract and retain high quality carbon credits, thereby attracting sustainable demand and growing the value of the network. Understanding these goals, we want to design token models that crisply capture values and align incentives. We propose three tokens for AmazonDAO: 
+
+$AMA: a tradable, inflationary ERC-20 token called $AMA that represents ownership in the network
+
+$sAMA: a tradable ERC-20 token called $sAMA that represents staked tokens and governance power
+
+NFTs: a collection of non-transferable NFTs that represent the participant’s status in the network and give access to different tiers of products and services based on the NFT holder’s past contributions. 
+
+The $AMA token serves as the unit of account for the network to keep track of the relative ownership of each participant in the network. It also serves as a medium of exchange as it’s used to compensate contributors, and as a community currency in the AmazonDAO vertical marketplace exclusive to NFT holders. $AMA’s liquidity provides speculative value for the token, attracting more external interest and ways to reward contributors looking for short-term liquidity. The $AMA token is expansionary to align with the network’s desire to grow and properly incentivize newcomers, while gradually diluting power away from early joiners who stop actively participating and contributing. 
+
+The $sAMA token represents governance power that is given a multiplier based on staked length. The staked tokens represent a vested interest in the long-term success of the network. All $sAMA are subject to dividends paid out from the treasury (“yield”) based on their prorated portion of $sAMA to total $sAMA. Early investors in AmazonDAO have staked their $AMA tokens and received $sAMA. They delegate most of the $sAMA to a few trusted leaders in the network who have demonstrated good judgment. 
+
+Last but not the least, the non-transferable NFTs called the AmazonDAO Passport uniquely identify each contributor of the network, including small agribusiness owners, credit buyers, carbon quality validators, and agricultural researchers. The metadata (“properties”) of the NFT evolve as a member contributes more carbon credits, creates more research reports, attends more community events, and participates more in governance. The NFT can be leveraged by members elsewhere as their on-chain credential. For community managers or leaders, they can use these NFT data to design more advanced logic such as giving a discount to transaction fee based on reputation. They can also perform advanced analytics on Dune Analytics to understand the health and diversity of the network. 
+
+Interwoven throughout the design are the four pillars of the token design framework above: Underlying Value, Supply Strategy, Utility, and Drivers. For example, the $AMA token is inflationary (Supply Strategy) and can be used as a unit of account and medium of exchange (Utility). Token designers should keep those pillars in mind, but first and foremost, focus on the MVI and how the token can serve and enhance a great user experience. 
+
+The over simplistic case study is meant to provide a blueprint upon which more complex mechanisms can be built. For example, if we want to introduce vertical lending protocol to fund new farming facilities from the DAO treasury, we can build risk models based on the borrowers’ past history in the network. If we want the DAO to engage in inter-protocol economic activity, we can figure out where it sits in the broader ecosystem, what its comparative advantages are with potential trade partners, and refine our token design to address the Impossible Trinity. 
+
+The simplicity of this illustrative example also aims to show that no clever mechanism or token design beats a high quality network with highly engaged and mutualistic participants. Building such a network requires aligning culture, stories, and purpose — the most non-fungible value can’t be compacted into tokens.
+
+What the World Looks Like When the Dust Settles 
+Token design isn’t a panacea. 
+
+A company’s legal structure and comp plan support but don’t determine its success. “Democracy is the worst form of government – except all the others that have been tried.” So much more goes into a company or country’s success than economic and governance design. Protocols are no different. 
+
+Having said that… we believe that token design gives builders a definitionally richer and more expressive toolset than companies or nations have had at their disposal to date. Anything in a legal document or monetary policy can be expressed in code that runs on the blockchain, with the benefits of firm commitments, lower friction, and automatic and cheaper execution. 
+
+Of course, to date, people being who we are, we’ve used this new superpower primarily to try to bend the laws of financial physics to get really rich, really quick. The results of those attempts have ranged from disaster to fizzle. 
+
+But there are less sensational examples, too, that hint at the potential of thoughtful token design. Take two:
+
+Braintrust is a user-owned talent network that Packy wrote about in January that uses tokenomics to keep its take rate low while incentivizing the Clients, Talent, and Nodes who operate on the protocol to do many of the things a traditional talent network would need to pay for. It’s grown from $37 million of Gross Service Volume at the end of January to $68 million today, four months later. A lesson from Braintrust is that tokens should be more valuable to network participants than they are to purely financial holders. 
+
+StepN is a Move-to-Earn app built on Solana that rewards users for walking, jogging, or running outside. According to a TechCrunch article this weekend, the app has two to three million monthly active users. It’s more impressive because it’s using its token design to get people to do something that’s good for them: walk, run, or jog outside. To continue its success, StepN will need to tweak its token design such that it can sustain even without a flood of new users and their purchases of sneaker NFTs, but already, it hit on something fundamental: finding an MVI that’s also a value add to the user, and designing the token to encourage more of that core behavior.
+
+Still, these are just a couple of early examples, and we’ve been talking a big game comparing protocols to nations. We’re a long way from that. But we believe that the models that emerge from this bear market will be more creative, thoughtful, and revolutionary than anything seen to date. Instead of applications, founders and token designers can focus on building rich economies, with vibrant domestic activity and active international trade. Well-designed tokens will both accelerate the desired kinds of activity, and capture that value to be shared among token holders, the DAO’s citizens. They can experiment with new governance models that reward people not just for ownership, but for engagement and contribution in ways that wouldn’t be possible or practical for physical world countries. 
+
+That’s a useful way to think about designing token economies: imagine being able to create any economic and governance model that currently exists, with additional features made possible by programmable money, code-based laws and enforcement, and composability. There are trade-offs, of course – decentralization can mean slower decisions, bugs in code are exploited quickly, and many more. But we believe we’re just at the very tippy top of the iceberg. The wildest ideas are yet to come, but they’re about to.
+
+Bear markets are when tinkerers get to tinker in peace. Without the pressure for price to go up, builders can create more inclusive, mission-aligned communities, orchestrated by tokens but not for tokens. In the last bear market, 99.999% of people in the world had never heard of DAOs or NFTs; any token that wasn’t Bitcoin (and mayyyybe Ether) was labeled a shitcoin. Builders have a much more expansive design space at their disposal this time around. 
+
+We take a decade-long view of innovation, and on that timescale, we have no doubt that the models created during this bear market will coordinate organizations, movements, and nations that are orders of magnitude larger than today’s largest DAOs and protocols, in terms of market cap, sure, but more importantly, in terms of participation. Crazy as it sounds, we’d bet that if you zoom out far enough, there will be space colonies operating based on economic and governance models dreamed up and implemented during this downturn. 
+
+Token design is just a tool, but it can be a powerful one. Go forth and build worlds.

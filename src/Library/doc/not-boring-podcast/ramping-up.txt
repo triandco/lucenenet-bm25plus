@@ -1,0 +1,558 @@
+Hi friends 👋, 
+
+Happy Monday! Third time’s a charm. 
+
+When Ramp CEO Eric Glyman called a couple months ago to let me know they were raising a round and ask if I’d want to write about it, my initial reaction was “Let me think about it.” I’d never written about a company other than Ramp twice, let alone three times. 
+
+But then Eric and I got to talking about updates and growth and the new things they were working on and how the round came together and all of the little details that go into making the Ramp story so compelling. Less than a year after writing about Ramp the last time, there’s a much bigger story to tell.
+
+By the numbers, when I wrote about Ramp in December 2020, the company had just passed $100 million in transaction volume – money spent on its cards; today, it’s sharing that it already crossed a $100 million revenue run rate. It was worth ~$250-300 million then; it’s worth $8.1 billion now.
+
+Plus, there’s something fascinating about following one company through its journey from the early days into an octocorn (I’m sorry) that’s set to become one of those all-time special ones. And it wouldn’t be a Ramp story without insiders doubling and tripling down whenever they get the chance.
+
+Ramp is a portfolio company, but this is not a sponsored deep dive. It’s just a snapshot in time of one of the companies I appreciate the most, and a look ahead at what it might do in the future.
+
+Let’s get to it.
+
+Ramping Up
+(Click 👆 to read online)
+
+
+Larry Page and Sergey Brin founded Google in 1998. They weren’t the first people to create a search engine, or even the tenth. Yahoo! was born in 1994. But Google’s PageRank algorithm generated better search results than competitors, and in 2000, AdWords, their intent-based advertising system, gave their better product a much better business model. 
+
+
+Sergey Brin and Larry Page in their Garage in 1998
+Google put itself in the right place at the right time to direct peoples’ attention and dollars across the internet, and charged businesses an auction-based fee for sending them people looking for what they were selling. A quarter century later, Google’s search advertising business is probably the greatest money-printing machine ever known to humankind. 
+
+In a piece full of effusive praise from all corners, allow me to set the tone: Ramp has the potential to build an even better business than Google. 
+
+
+When Ramp is Worth $1 trillion, People Will Look Back at This Picture
+Ramp isn’t the first corporate card, or even the tenth. But it’s the best corporate card company at building technology, and the best technology company with a corporate card. It’s also the first to try to help its customers spend less, an important distinction in the future I think it’s building. 
+
+This is the third time I’ve written about Ramp, and I didn’t understand the parallels with Google until now. There’s a very good chance I’m being overly optimistic. But here’s the logic: 
+
+Google built a monster business by owning the search layer. When people want to find something, they go to Google, and Google can send them to the right place. Advertisers pay it a fee each time someone clicks. 
+
+At some point in the future, automation will overtake manual purchases. That transition will happen in business spend first – businesses are more likely to buy based on specs than individuals are. 
+
+Ramp has the opportunity to own the transaction layer for businesses. When businesses spend money – a $100 trillion market – Ramp can monetize via interchange, as it does today, but it can also suggest better places to spend or even automatically redirect spend, and take an affiliate cut when appropriate. 
+
+As more spend is automatically orchestrated with software, as opposed to starting with a search and ending in a manual purchase, whoever controls the transaction controls the flow of dollars. 
+
+
+Dune (1984)
+Ramp recently launched Ramp for Travel, a cool but seemingly minor new solution that lets companies manage Travel spend automatically, in a decentralized way. I think it’s huge. I think it’s the first example of transactions as mini-apps. 
+
+Another of Ramp’s mini-apps is Buyer, which Ramp acquired in August. Buyer by Ramp has begun negotiating software contracts on its customers’ behalf. It’s not a big leap to make to imagine a world in which customers hand over software buying decisions to Ramp. The product’s landing page already says, “Eliminate the headache of buying software—let Ramp do it for you.”
+
+The launch of Bill Pay means that Ramp has visibility into spend that doesn’t touch the card, too. With this data, it should have the ability to tell who’s paying too much on a line-item basis, and one day, to redirect customer spend to better-priced vendors. 
+
+I’m not good at making images, but I’m picturing a world in which cards send out transaction intent, and mini-apps for different categories help direct purchase decisions based on rules set by each company and intelligence gathered from all of them. 
+
+
+This is a huge shift, and it’s easy to miss. The best analogy that I can come up with is that it’s like the transition from GUI to APIs, but for business spending. Like an automatic Coupa or Ariba for the long-tail of transactions. There are a lot of processes that were once manual – that humans did one at a time with pen and paper or through a computer interface – that computers now sort out with each other, via APIs. The same thing will inevitably happen to purchasing. It just takes the ability to get into the transaction (card or invoice) and the right software products.
+
+From there, the possibilities are endless. A lot of this spend presents an interchange opportunity, an affiliate opportunity, and even a financing opportunity, all aligned with the customer. 
+
+But before we get to that future, Ramp’s doing pretty well today. 
+
+Today, it’s announcing a $750 million round – $200 million in equity and $550 million in debt – that values the company at $8.1 billion, led by Founders Fund. All existing major investors are participating, along with new investors. I’m ecstatic that Not Boring Capital gets to double down. 
+
+Ramp raised the round on world-class growth and a steep trajectory. The company is worth roughly 25x what it was when then-Mainstreeter Nick Abouzeid introduced me to Ramp co-founder and CEO Eric Glyman in September 2020, 18 months ago. I wrote about Ramp that December to announce a now-quaint $30 million round. The business has grown a lot since then:
+
+Ramp has grown revenues 25x. 
+
+It’s grown cardholders 35x.
+
+It’s saved 40x as much money for customers.
+
+Ramp is the fastest-growing SaaS or fintech company of all time by revenue. It grew to a $100 million revenue run rate in two years from launch. 
+
+Much of Ramp’s growth to date has been the result of the success of its first product: a corporate card designed to help companies save time and money. 
+
+
+Ramp’s Flagship Product: The Card
+It’s done both. Since launching in February 2020, it’s saved customers $135 million and 3.5 million hours of labor (roughly 5.2 human lifetimes’ worth of just doing expenses). It’s done all of that despite only increasing headcount from 60 to 275 between September 2020 and today.
+
+So in the first part of the essay, we’ll go behind-the-scenes on Ramp’s recent round and we’ll put Ramp’s exceptional growth, mainly driven by the corporate card, in context. 
+
+But Ramp’s real magic is its product velocity, or how fast it ships software. That’s what’s going to take it from “fastest-growing corporate card company” to “software-powered transaction-layer orchestrator.”
+
+Keith Rabois, the Founders Fund partner who’s led or invested in every Ramp round over the past three years, told me, “Ramp’s product velocity is absolutely unprecedented in my 21 years working with technology businesses.”
+
+To build great software fast, Ramp has created one of the densest talent vortexes in tech. It ships big new products every month. Its team is, frankly, overqualified to run a corporate card company. That’s because it wasn’t built to run a corporate card company.
+
+In the second half of the essay, we’ll dig into Ramp’s second act, the shift from corporate card and spend management software to comprehensive financial orchestration platform. 
+
+By starting with the corporate card, Ramp has been able to build an incredibly fast-growing business, raise over $1 billion in financing in three years, and most importantly, wedge its way into the CFO suite. 
+
+From inside the CFO Suite, it’s been able to launch products to compete with entire multi-billion dollar incumbents like Bill.com, Expensify, and Concur and give them away for free. It’s done so with teams of only 3-5 engineers on each product while maintaining NPS scores as high as or higher than Apple. That’s just the beginning.
+
+Ramp is shipping new products monthly and stitching them together in clever ways. It’s combining the product velocity of a SaaS company with the transaction visibility of a fintech. That’s a sneakily powerful combination.
+
+The thing I love about Ramp is that each time I revisit the company, I discover an entirely new, enormous opportunity in front of it. This time, the new thing that’s emerged is that by building the best technology company with a corporate card, Ramp might be able to own the business transaction layer and use the transactions themselves as mini-apps.
+
+The other thing I love is that Eric and Karim are always willing to share the how – How have they grown this fast? How did they design the team? How will they keep the growth up? – so we’ll cover all of that, too. This one is jam packed with secrets: 
+
+Ramp’s Round
+
+Ramp’s Unprecedented Growth and How to Value It
+
+Designed for Speed
+
+More Than a Card
+
+Transactions as Mini-Apps
+
+From Products to Platform
+
+Ramp and the Future of Finance
+
+As I’ve gotten to know the team and the company better over the past eighteen months, I’ve become convinced that this is going to be a generational company. There’s a clear path to a $100 billion valuation for itself, but more importantly, Ramp’s in an incredibly high-leverage spot: as it helps companies save time and money, they can reinvest in product and growth. The companies that take us to space, deliver personalized healthcare, fix the climate, and more will be made stronger by working with Ramp. 
+
+That’s high praise, even for me. But I’m not alone. Let’s turn it over to Keith Rabois. 
+
+Ramp’s Round
+On November 19th, Keith Rabois called the top. 
+
+
+Atom Finance + Tweets
+In a back-and-forth on Twitter that day, someone asked if he was calling the top, to which he replied, “yes.” Another person asked if he could be more precise. He could: “yes at least 25% correction and reversion of tech multiples to historical norms, i.e. enterprise multiple of 40x recedes to 20x.” 
+
+That day, November 19th, marked the all-time high for the Nasdaq Composite, the most commonly-used proxy for public tech stocks. It fell 21% between then and March 14th, the recent low. It may or may not be done falling. He timed it perfectly. 
+
+So what Keith did next might surprise you. 
+
+In December, he offered Ramp a term sheet for a $200 million round at an $8.1 billion post-money valuation. The price was roughly double what Founders Fund paid when it led Ramp’s previous round in August at a $3.9 billion valuation. And the multiple wasn’t cheap, either: between 80-100x Ramp’s revenue run rate. Ramp accepted. 
+
+All in, Ramp raised $750 million in fresh financing – $200 million in equity and $550 million in debt. Founders Fund led the round with participation from all major investors including D1, Thrive, Redpoint, Coatue, Iconiq, Altimeter, Lux, Vista, Spark, and Definition (and minor ones like Not Boring Capital). New investors like General Catalyst (where former AmEx Chairman & CEO Ken Chenault is a partner), Avenir, 137, and Declaration joined in. 
+
+But wait… an $8.1 billion valuation? In this market?! 
+
+In semiconductors, Moore’s Law – Gordon Moore’s 1965 observation that the number of transistors in a dense integrated circuit doubles roughly every two years – has proven steady for half a century. In venture capital, Ramp is developing a law of its own – Glyman’s Law? Atiyeh’s Law? Ramp’s Law? – Ramp’s valuation roughly doubles roughly every six months. 
+
+One of the notable things about Ramp’s fundraising has been how consistently rounds have been preempted by insiders. To this day, Ramp still hasn’t made a single fundraising deck. Instead, based on board decks or investor update emails, an existing investor typically offers Ramp a term sheet at roughly double the previous valuation. Because Ramp hasn’t burned a lot of money, it never needs to raise, so it seemingly only does so when both sides agree that it’s worth about double what it was in the last round.
+
+So how’d Keith square a double with the worsening market conditions? 
+
+“It was the easiest decision ever. The traditional Founders Fund strategy is to double, triple, and quadruple down into our best companies,” he explained. “Ramp is the quintessential example of the kind of company we want to quadruple down in.”  
+
+Plus, he told me, venture capital thinks on longer time horizons – 8-12 years for a venture fund, 3-5 years for a growth fund – and he views Ramp as a great opportunity to invest over the long term. On that time horizon, what matters most are velocity and trajectory:  
+
+Ramp’s product velocity, which was “absolutely unprecedented” in his 21 years. We’ll come back to this. 
+
+Ramp’s unprecedented growth trajectory. 
+
+Paying 80-100x revenues in this market after calling the top seems crazy. And ceteris paribus it would be. But companies aren’t snapshots in time; they have motion. Logan Bartlett, who’s invested in each of the past three rounds at Redpoint, explained: 
+
+If you pick any trailing point in time, paying high multiples looks stupid. But companies are theoretically worth the discounted sum of future cashflows. The disconnect is that future growth is always hard to grok. 
+
+Let’s grok it. 
+
+Ramp’s Unprecedented Growth and How to Value It
+In the last Ramp piece I wrote, I included a section titled “Has Venture Capital Lost Its Mind?”  The pace of funding was so fast, the numbers were so high, and the double-rounds were so uncommon that it was worth asking.
+
+Unsurprisingly, I didn’t believe that Ramp’s rounds were a sign of VC madness. Something else was at play: growth. 
+
+For many reasons  – better primitives, examples, funding, talent – companies are growing faster now than they were a decade ago. At the time, Logan guessed that just a decade ago, it would have taken seven or eight years for even a great company to build what Ramp did in two. That has implications on valuation. 
+
+To highlight how important growth is, I made up an example involving two companies – Company A and Company B – which each start with $10 million in Annual Recurring Revenue (ARR) after a year and grow to $100 million in ARR. Company A takes four years to get there and Company B takes three years. That seems like a minor difference – they both got to $100 million in ARR so fast! – but it’s actually huge. Company A is growing at an impressive 115% per year. Company B is growing at 216%! As time goes on, the difference gets dramatic: by each company’s fifth year, Company A is doing $215 million in revenue; Company B is doing $1 billion!
+
+
+I thought that was pretty stark. Those were some unbelievable numbers. 216% growth!? $100 million ARR in three years?! 
+
+Whoops… 
+
+I dramatically undershot what Ramp would do. 
+
+Ramp launched its product in February 2020. By February 2021, its run rate was around $12 million. And before the company celebrated its 3 year birthday from incorporation, it crossed a $100 million revenue run rate. 
+
+
+Bessemer State of the Cloud 2019
+That is absurd. In 2019, Bessemer plotted how long it took the fastest-growing SaaS companies ever to reach $100 million in ARR. Ramp just broke Slack’s record by hitting a $100 million revenue run rate in two years from the product’s launch (it’s not technically recurring but it’s close enough).  
+
+As a once-suffering Slack bull, I understand that early growth doesn’t necessarily translate to hundreds of billions of dollars in market cap, but Ramp has some things going for it. 
+
+First, to go back to our earlier hypothetical, that’s a 734% annual growth rate. That means that by year five, at the same rate, Ramp would be doing $6.9 billion in revenue.
+
+
+Trajectory and velocity matter. This round was done at a roughly 80x revenue multiple. If Ramp is able to keep up this pace – roughly 18% month-over-month growth – this valuation would be a 1.2x revenue multiple in two years.  
+
+Second, while the growth is impressive on its own, how Ramp is growing is equally impressive. In October, growth equity fund Iconiq Growth put out its updated Enterprise Five Scorecard, the quantitative framework it uses to evaluate SaaS companies: 
+
+
+Iconiq Enterprise Five Scorecard
+It looks at each metric by ARR band, because different numbers define excellent performance at each stage. It’s easier to grow faster off of a smaller base, for example. With the caveat again that Ramp’s revenue isn’t exactly recurring revenue in the way contracted software revenue is, Ramp absolutely blows the best-in-class numbers out of the water. 
+
+
+At the $100 million+ ARR scale, Ramp outperforms the Top Quartile numbers in each category, even when compared to the <$10M bucket. In 2021, here’s what that looked like (explanations of each in the table above):
+
+ARR Growth: 734%
+
+Net Dollar Retention: ~200%
+
+Rule of 40: 734% - FCF Margin (worst case = 634%) 
+
+Net Magic Number: 1.34x past 3 months (including Dec. bonuses), prev. 3 months were 2.58x
+
+ARR per FTE: $363,636 ($100 million ARR from 275 employees)  
+
+That’s just a lights out performance. But there are two obvious questions: 
+
+How did they grow so fast? 
+
+Can they keep it up? 
+
+How did they grow so fast? 
+
+The first question has a longer answer that we’ll get to in a bit around how you orient an organization to grow that quickly, but by the numbers, Eric cited a few reasons they were able to grow so quickly last year that boiled down to: Ramp grows when its customers grow, and its customers grew a lot last year. He attributes part of it to the types of businesses that choose a corporate card that helps them save instead of giving them rewards. “It’s plausible that there’s a certain type of business – people who care about spending carefully – who grow better,” he mused. “There might be a selection bias towards less cancerous growth.” 
+
+He also pointed out that Ramp is servicing “larger businesses and businesses you wouldn’t expect.” In an October appearance on The Pomp Podcast, Anthony Pompliano asked, “Is this just for large corporations like Microsoft, Amazon, IBM…?” to which Eric replied, “We do have one of the companies you mentioned there using it…” 
+
+In addition to acquiring many new companies, Ramp worked with larger companies in 2021 than 2020 – some signed up as already-large corporations, and many grew, leading to a 200%+ Net Dollar Retention, or more than double the spend from each company year over year. 
+
+The second question is even more interesting.
+
+Can they keep it up? 
+
+That answer has two parts: 
+
+The market’s ability to support very large companies 
+
+Ramp’s ability to continue to grow. 
+
+First, Ramp’s market is enormous. Companies spend over $100 trillion each year globally, $1.5 trillion of which is on the corporate card.   
+
+In most industries in the world, hitting $6.9 billion in revenue by a company’s fifth year, as Ramp’s current trajectory suggests it might, would be a laughable target. Most categories aren’t big enough to support a player of that size. But business spending can. Take the largest incumbent: AmEx.
+
+In 2021, AmEx did $42.4 billion in revenue and $8.1 billion in net income.  
+
+
+American Express Fourth Quarter Earnings
+Its stock has held up well during this year’s market turbulence. AXP is up 13.4% this year while the S&P 500 is down 6.9% and the Nasdaq is off 12.5%. Its market cap sits at a healthy $144.8 billion. 
+
+
+Atom Finance
+(Side note: as a weird accident of history, in the ~month after Ramp launched, AmEx lost 45%. Not sure what else it could have been in mid-February 2020…)
+
+There’s plenty of room for Ramp to grow both revenues and market cap in the corporate card segment alone, particularly when you consider the fact that Ramp grew more each month last year – 18% on average – than AmEx did all year – 17%. 
+
+But using AmEx as a comp for Ramp undershoots Ramp’s opportunity. The reason that Ramp expects to keep up its growth, within the context of an unconstrained TAM, is that it’s built to be much more than a corporate card. It’s built for speed. 
+
+Designed for Speed
+Before there was Ramp, there was Paribus. Eric and Karim, who were classmates at Harvard, started talking about how to save consumers time and money with software in the summer of 2013. By the summer of 2015, the duo entered Y Combinator and launched Paribus to “get you money when stuff you’ve bought goes on sale.” 
+
+
+Alexis Ohanian, who was a YC Partner in 2015, wrote Paribus’ YC Profile
+A little over a year after launch, Capital One acquired Paribus in October 2016. 
+
+One of the side effects of selling your startup to a big company is that you often have to work at that big company. After Eric and Karim sold Paribus to Capital One, they had to spend some time working for Capital One. The experience was formative. 
+
+One story from their time at Capital One is seared into their brain. As a young entrepreneur acquired to help Capital One think more like a tech company, Eric had regular meetings with Capital One’s CEO. At one such meeting, the CEO told Eric about hockey gloves that he’d ordered for his grandson on Amazon. His grandson was coming over to play hockey the previous Saturday, so the Wednesday before, the CEO ordered him a pair of gloves. They were supposed to arrive on Thursday. They didn’t. Nor did they come Friday or even Saturday. They came on Monday, when it was too late. 
+
+
+The $29 Gloves That Sparked an $8 billion Company
+Did Amazon have a policy regarding late shipments, he wondered? No big deal, but since that’s the kind of thing Paribus did, maybe Eric could check? Of course, this was the CEO, so not only did Eric check, he checked, found out that Amazon offered refunds for late shipments, and worked with Karim to rally the troops to build a new feature into Paribus to take advantage of the rule on customers’ behalf in less than a week. Thousands of impacted customers saved money immediately.
+
+The next day, Eric’s direct manager called him into his office and asked whether he was responsible for shipping the product. Eric proudly responded that yes, in fact, that was he and his team! He expected his manager to be happy. His manager was not happy. 
+
+Capital One was a regulated financial entity and a public company. There were processes in place. Eric and Karim had not gotten the proper approvals. They hadn’t told him first. They’d shipped too fast. 
+
+
+Eric’s Manager at Their 1-1
+Eric and Karim didn’t plan on staying at Capital One forever, but that was a good push out. They started planning their next company. They wanted to design it from the ground up to go fast.
+
+As part of the process of thinking through their next company, they did a survey of the competitive landscape, as one does. They realized that each competitor with a corporate card spiked on one thing: 
+
+Capital One was excellent at underwriting; their tight controls were part of that.
+
+American Express was excellent at rewards; they incentivized customers to spend more.  
+
+New startup Brex was excellent at marketing to newly-formed startups; they addressed the underserved but fastest-growing part of the market. 
+
+Unbelievably, in 2019, there wasn’t a corporate card company that spiked on product and engineering. That created a gigantic opening for a pair of second-time tech entrepreneurs. 
+
+When they founded the company in March 2019, they knew that they wanted to start with a corporate card, but that they were really building a technology company. In a May 2019 email that he sent to Founders Fund in lieu of a deck, Karim called Ramp a “technology-driven financial services company”: 
+
+
+Ramp Email to Founders Fund
+Being the fast-moving, technology-driven company in a space seems like the obvious segment to own, but actually doing it is the hard part. How Ramp does it is its secret sauce, a blend of people, structure, and mission. 
+
+“We built Ramp intentionally to have fast velocity while growing deliberately and responsibly,” Eric told me. 
+
+That starts with the people. 
+
+Ramp has built one of the most talent-dense teams in tech. Remember Nick from MainStreet, the one who introduced me to Ramp? He works at Ramp now. He got pulled into the same talent vortex that’s attracted former founders, ex-Stripe executives, international gold medalist programmers and mathematicians, Rhodes Scholars, athletes, growth experts, and even a PhD / Bachelorette contestant, Romeo.
+
+
+Romeo, Romeo, Where Art Thou Romeo 
+Despite the past success of many of its employees, as Karim told me in April, “We hire people for potential and growth trajectory, slope over intercept. We make bets on people. The goal is not zero defects, but 10x potential.” 
+
+As a result, Ramp has become a finishing school for young talent before they go and start their own thing. 
+
+Twitter avatar for @aashaysanghvi_
+Aashay Sanghvi 
+@aashaysanghvi_
+Underrated startup strategy move: become a landing spot for entrepreneurial young talent before they start something. 
+
+Of the current crop of scale ups, Ramp anecdotally seems to have done the best job of this.
+1:47 AM ∙ Feb 23, 2022
+450
+Likes
+30
+Retweets
+All of that talent and raw energy would be wasted on a corporate card company, though, particularly one that used its financial responsibilities as an excuse to move slowly. But of course, as a company responsible for companies’ money, Ramp can’t entirely move fast and break things. 
+
+Which brings us to the second part of the secret sauce: structure. 
+
+When I asked Keith, who was an executive at PayPal and COO at Square, for a non-intuitive insight about what makes Ramp so special, he doubled down on product velocity: 
+
+Their execution is unprecedented. Their ability to take a long-term vision, distill it into a short-term roadmap, and execute in parallel across a variety of products is unique, especially in a zero-defects industry like financial services. 
+
+Karim built the product and engineering team to do specifically that – to move fast without breaking things that shouldn’t break. Early on, he realized that Ramp was attracting two types of people:
+
+People who love to move fast and build new things and stay up all night fixing what they break. 
+
+People who are deliberate and like to write perfect code the first time.
+
+A fast-moving financial software company, he realized, would need both types, for different things, so he made a big decision early: split product, design and engineering into two team archetypes.
+
+One team, full of the deliberate code craftspeople, would handle all of the things that can’t afford to have mistakes, like underwriting and transaction processing, in addition to building strong infrastructure and integrations. This team does a lot of the hard work to build a single, unified backend so that companies can plug in whatever financial software they use and let Ramp’s software translate between it all. It’s all on Ramp – one database, one platform. 
+
+The other team, full of the fast-moving builders, have a long leash to create new products with very little organizational overhead. This team was clearly built in reaction to Eric and Karim’s experience at Capital One. This team splits into smaller teams of 3-5 world-class engineers paired with designers and PMs who attack new opportunities.
+
+In addition to their raw talent, a big reason this team is able to build new products so quickly is that they’re building on top of the high-quality data and tech infrastructure developed by the other team.
+
+The reason they’re able to build the right things quickly is the third leg: Ramp’s mission.
+
+Ramp’s mission from the beginning – and even from the Paribus days – has been to save people time and money. Anything that its product and eng SWAT team spins up needs to drive towards that mission. 
+
+More than a Card
+One of the things that’s fascinated me most about Ramp since the beginning is how it uses interchange revenue to build new software products, deepening its moat. 
+
+Ramp earns interchange – 1.5-2.5%, paid by merchants and card networks – when customers spend using the card. Taking ~2% of the $1.5 trillion (and growing) companies spend on cards every year is a $30 billion (and growing) annual opportunity. Plus, it’s essentially inflation-proof since it’s indexed to total spend – as businesses spend more, Ramp makes proportionally more. That might be one of the reasons AmEx has done well while growth companies have tanked.
+
+But the plan was never to build a corporate card company. From the beginning, it’s been about saving companies time and money. To date, it’s saved customers 3.5 million hours of labor and $135 million.
+
+Helping companies spend less seems like a counterintuitive bet in an industry in which revenue is directly tied to spend. Most credit card companies use the money they make on interchange to reward users with points in order to get them to spend more so that they can make more on interchange. Ramp plows its interchange revenue back into better financial software. 
+
+The plan all along was to start with a card and build out a full suite of financial software aimed at helping companies build better businesses, and I have the … receipts … to prove it.  Way back in December 2020, I wrote: 
+
+If you want to build software that helps companies save money, the corporate card is a smart place to start. By involving itself directly in transactions, Ramp is able to see and control spend in real-time, and build software products that non-corporate card companies just can’t. 
+
+The corporate card, then, is a Trojan Horse directly into a company’s finances. 
+
+
+This has been the plan all along - December 2020
+In that piece, we announced Ramp’s first big product after the card: Ramp Reimbursements, an Expensify killer that Ramp customers get for free just for using the card. We also previewed other things Ramp might be able to do, like “automate negotiations with vendors.”
+
+In April’s piece, I talked about a few more things Ramp might be able to do from inside the CFO’s office, including:
+
+It could automate savings, like a B2B Paribus or DoNotPay, by recognizing when companies are overspending on products and reaching out to vendors to negotiate on their behalf. 
+
+It could build the bill.com killer for its customers, bringing AP and credit cards into the same place. 
+
+As described above, Ramp’s fast-moving product and engineering team splits up into groups of 3-5 to tackle opportunities like those. In addition to the corporate card, Ramp has successfully built, launched, and grown new features that can replace entire companies’ products: 
+
+
+Old Ramp Homepage
+Corporate Cards can replace AmEx ($144 billion market cap) and Brex ($12.3 billion valuation) (there’s a reason they both have “ex” in their names).
+
+Expense Management can replace Expensify ($1.6 billion market cap) and Concur (acquired by SAP for $8.3 billion in 2014).
+
+Bill Payments can replace Bill.com ($23.3 billion market cap). 
+
+We should pause on that last one for a sec. Bill Pay is Ramp’s first major non-card product launch, and I’m really glad that’s what they went with. Last January, I made what’s turned out to be my worst financial call ever: short Bill.com. Bill.com is the worst software I use to run Not Boring by a country mile, and I thought that would make it vulnerable to startups with much better products. 
+
+
+Bill has laughed in my face ever since. It’s currently up 62% since I wrote it (handily outpacing the Nasdaq, which is up 12% over the same period). 
+
+
+Atom Finance 
+But in October, Ramp publicly launched Bill Pay. That day, BILL dropped 4.7% on no other news and a relatively calm market day, because Ramp would essentially be giving away Bill’s product as a free add-on. 
+
+Bill.com is going to be harder to kill than just an announcement. I learned that lesson the hard way. It has incredibly strong distribution and network effects – as evidenced by the fact that I still use it because the companies who pay me use it – and Ramp’s product isn’t fully developed yet. For example, it handles the Accounts Payable side but not the Accounts Receivable side, which means I could use it to pay bills but not to send invoices. 
+
+Still, I’ve used the product and it’s so much better and faster than Bill. It reads and itemizes invoices with 99.9% accuracy. And it’s growing. Without marketing the product beyond current customers, it’s grown 70% MoM since launching publicly, and it’s already starting to show synergistic effects with the card. Card customers are much less likely to churn, for example, if they’re using Bill Pay. 
+
+And as Ramp’s first major non-card product, Bill Pay has the potential to build the next S-Curve for the business. A typical S-Curve describes the idea that a product’s growth normally starts slow, accelerates for a period of time, and inevitably slows down at maturity once it’s saturated the market. It looks something like this. 
+
+
+Great companies typically launch new products with their own S-Curves long before the original product starts slowing in order to keep the company’s overall growth high. The growth of Ramp’s Corporate Card product hasn’t slowed, and it’s not showing signs of slowing, but part of the idea with a product like Bill Pay is that it adds its own S-Curve to the mix. Because of Ramp’s fast growth, maybe the curves look like this: 
+
+
+Compellingly, while the Corporate Card product doesn’t really have network effects – other than maybe very weak data network effects related to software price negotiation – Bill Pay certainly has network effects. That’s what makes Bill.com so strong despite its product. In a competitive market, adding a product that’s additive to the card, has its own growth loops, taps into a much bigger chunk of business spend, and has network effects is a huge win. 
+
+Ramp’s assets – and new ones that it plans to add to the mix – might even give it the ability to knock off Bill.com over time. I think that Ramp’s mix of product and business acumen gives it the chance to topple Bill. 
+
+But the way that I’ve framed this up – that Bill Pay is a second standalone product alongside the Corporate Card – isn’t actually what Ramp is going for. 
+
+Instead, Ramp is attempting to unify all of its products into one finance orchestration platform.
+
+From Products to Platform
+Ramp’s product velocity doesn’t just show up in big launches like Bill Pay. In last April’s piece, I shared a snapshot that Ramp’s Head of Product, Geoff Charles, shared in his 2020 Product Recap: 
+
+
+This year, in his “2021 Product Recap 🚀” Geoff shared the snapshot of his team’s work over the past 12 months: 
+
+
+Bill Pay soft launched in August. Between then and the end of the year, Ramp also launched major features: 
+
+HRIS Integration. Easily give new employees cards with the right access during onboarding. 
+
+Negotiation-as-a-Service. Through its acquisition of Buyer, Ramp can now negotiate expensive SaaS contracts on its clients’ behalf. It’s already saved clients $2 million through these negotiations, for free (Ramp actually makes less because customers pay less!).
+
+Ramp for Travel. By booking travel on the Ramp card, companies can enforce travel policies and group spend under trips automatically without using separate travel booking software, enabling people to book wherever they want, in-policy. 
+
+Already this year, it’s launched integrations with Gmail, Amazon, Lyft and others to automatically verify receipts and the ability to request repayments for out–of-policy spend from employees. If you’ve ever accidentally used your corporate card somewhere you shouldn’t have and had to deal with writing the finance team a check (not me but you know I could imagine…), you know how big this is. Ramp estimates it saves one hour per out-of-policy transaction. 
+
+All five of the products and features I listed above are brilliant because they save customers time and money today, and also lay the groundwork for Ramp to automatically orchestrate purchases on customers’ behalf in the future. They’re all either infrastructure or mini-apps for that automated future. 
+
+And there’s a lot more coming. I’ve been sworn to secrecy, but I’ve seen some of the roadmap, and the pace isn’t slowing any time soon. That sounds like an unmitigated good thing, but it presents a challenge, namely: how to communicate just what it is that Ramp does.
+
+When I checked in with Logan at Redpoint (who’s criminally underfollowed on Twitter btw), he pointed out the champagne problem: “I’ve never seen a company whose product velocity made it so difficult to communicate value to customers.” 
+
+
+(Not one for hyperbole, Logan went on, “I don’t want to be quoted saying Ramp is the perfect B2B company because that’s ridiculous… but it is.” This is high praise coming from the man who broke the internet with his sober State of the Market presentation.)
+
+When I talked to Eric, Head of Communications and Content John Collins, and Communications Manager Mishaal Khan about the communication challenge, they said it was top of mind.
+
+Here’s the challenge: actually differentiating on product – offering something different than competitors – is one thing, and Ramp’s really good at that. The company was built to build better financial software than anyone else in the industry. Communicating that differentiation to customers is a completely different challenge. 
+
+They might look at Brex, AmEx, and Ramp and see “card, card, card.” 
+
+Or they might look at Ramp’s Corporate Card and Bill Pay and wonder whether they need to choose one or the other or both, and why they might choose one or the other. Too much thinking. 
+
+So today, it’s rolling out a shiny new website redesign that focuses on what Ramp does for businesses, not which products it offers. As Ramp handles more transactions for business automatically, the new framing makes a lot more sense. 
+
+
+New Ramp Website, Arrows Mine
+From the beginning, Ramp has been all about saving time and money, because that time and money can be reinvested into helping businesses grow. With the website refresh and Ramp’s focus on simplifying finance for companies of all shapes and sizes, it can more clearly categorize the new products that it will inevitably continue to launch, addressing one of the biggest risks in the business.
+
+And it’s certainly going to keep adding new products. The card was an even better Trojan Horse than I realized. 
+
+Transactions as Mini-Apps 
+Which brings us back to transactions as mini-apps. 
+
+Saving customers time and money, along with Ramp’s product velocity and prime position in each transaction, has earned Ramp an even bigger opportunity: to leverage transactions as mini-apps, like it’s doing with travel. 
+
+Ramp launched just as the pandemic did. After hiring its first 20 employees in the New York office, it hired 255 of its 275 employees wherever the best people happened to live. 
+
+Half of the employees are in New York, the other half are all over the country and the world, including Canada, South America, and Europe. 
+
+In the last piece, I joked that they were going to use their funds to launch a Miami office. This June, they’re opening a Miami office. 
+
+
+They’ve been signing smaller office leases and using the money they save to throw frequent offsites – Ski Houses in Vermont and Utah, Camp Ramp in the Catskills, Miami Hack Week, Sales Kickoff in Chicago.
+
+It’s an unnatural structure that has led to a lot of travel and some unnatural insights… including one around travel. 
+
+Because the Ramp team was spending so much time booking travel for themselves, they realized what a pain in the ass booking travel is for companies. Policies are complex and confusing. As one example, different people are allowed to book flights and hotels at different price points based on seniority, distance traveled, value of meeting, or any number of factors. 
+
+Typically, companies solve this by forcing people to book through pre-approved travel platforms or by making admins book travel for everyone or by manually sorting through receipts afterwards to figure out who booked in-policy, and then asking employees to reimburse when they booked out-of-policy. 
+
+It’s a mess. 
+
+So a six-person team at Ramp built a better way: Ramp for Travel
+
+Twitter avatar for @jsarihan
+John Sarihan ✈️ 
+@jsarihan
+1/6 Ramp for Travel is now live!
+
+We’ve taken a completely new approach to travel: decentralized booking. Travelers can book anywhere, while Ramp will automatically enforce expense policies, create trips, and generate insights for finance teams - completely zero touch.
+5:44 PM ∙ Feb 23, 2022
+173
+Likes
+23
+Retweets
+This is a deceptively strong representation of the types of products Ramp will be able to build going forward based on the fact that it started with a corporate card, built strong software infrastructure, and hired world-class talent. 
+
+
+Ramp for Travel
+The corporate card is key. You couldn’t build this product without it. Because Ramp can see and understand every transaction employees make, it can organize every trip-related expense whether an employee books on Travelocity, Expedia, Airbnb, directly with the airline, at a local restaurant, or anywhere else. Employees don’t need to book through specific travel sites because the card is smart enough to figure out what employees are doing.
+
+But a corporate card isn’t enough. This product needs good software to work – including some software that Ramp’s built already. For example, last summer, Ramp rolled out controls that let employers set limits on spend at the merchant level. Ramp has let employers set limits per card for a long time. And Ramp easily integrates into companies’ HRIS systems, so they know what level each employee is. 
+
+So now, companies can set custom travel policies – by trip length, seniority level, or even individual – that are enforced at the card level.
+
+
+Ramp for Travel 
+If I try to book a $1k per night Airbnb but the company’s nightly room max is $250, the transaction is flagged and my manager can ask me to one-click reimburse the company for the balance in a click.  
+
+It’s a subtly massive shift in the way financial software can work. Instead of forcing employees to log into a specific site to do a thing, companies can set rules, and the card can enforce those rules depending on the context. 
+
+The transaction itself becomes a mini-app - understanding the context, approving or denying, and even routing to a better solution. No dedicated website needed.
+
+And Ramp built this product with just a six-person team (including, to be fair, 3-time International Olympiad of Informatics Gold Medalist, Neal Wu). 
+
+Today, Ramp simply monetizes Ramp for Travel the same way it makes money on everything else: the merchant or card network pays it interchange. It’s incentivized to build better travel products because if it can save companies time and money booking travel, they’ll use Ramp, and Ramp will make 1.5-2.5% of the transaction.
+
+But Travel’s potential hints at the fact that despite being the fastest SaaS or fintech company to reach a $100 million revenue run rate, Ramp has just barely scratched the surface on monetizing this business. 
+
+Online Travel Agencies (OTA) Booking Holdings and Expedia Group are worth $80 billion and $30 billion, respectively. In 2021, Booking made $10.4 of its $10.9 billion in revenue through Agency or Merchant revenues, essentially the commissions it gets for sending bookings to hotels, airlines, and car rental companies. 
+
+It seems possible that Ramp could use its position in the transaction to recommend better priced options to customers and erode some of the OTAs’ power and market share and take some of their revenue. It’s another opportunity to make money by saving customers money, automatically.
+
+While Ramp’s growth has been eye-watering, it’s barely hit “go.”
+
+Ramp and the Future of Finance
+When Logan first called Ramp the “perfect B2B business,” I laughed, thanked the Substack gods for a great quote, and moved on. But as I kept writing, the idea wormed itself more deeply into my brain. 
+
+
+Did he mean it? What did he mean? Is Ramp the perfect B2B business? 
+
+Today, it certainly looks like an excellent, top 1% kind of business: 
+
+It’s the fastest SaaS business to reach a $100 million revenue run rate in history. 
+
+It makes money when customers spend money on their card, which they already do.
+
+It grows when its customers grow.
+
+It’s taken a big, old, fragmented industry and modernized it with software. 
+
+It checks, and exceeds, all of the metrics boxes. 
+
+It’s even inflation hedged, if prices go up, it makes more revenue, automatically. 
+
+I’d invest in a business like that any day, but those points alone don’t make it perfect.
+
+What makes Ramp so special – and why I think it’s a generational business – is that while it’s been growing the original corporate card business so quickly, it’s simultaneously been laying the groundwork for the really big, Google-sized opportunity. 
+
+Instead of giving customers more rewards points, Ramp has been plowing interchange back into software. Great software creates moats; points don’t. 
+
+At the same time, saving companies time and money isn’t just good marketing and counter-positioning. It lays the groundwork for Ramp’s really big ambitions. Customers are more likely to trust the company that’s been saving them time and money to automate their finances than they are to trust the card companies that have been trying to get them to spend more.
+
+The fruits of its world-class product velocity are just starting to become clear – Bill Pay, Travel, Negotiation, Receipt Integrations, and a new Chrome Extension have all shipped in just the past few months. Ramp is giving them all away for free. It might be able to monetize them, directly or indirectly, or use them to continue to make the decision to go with Ramp a no-brainer. 
+
+Whether it monetizes today or not, each of these products does double-duty: they save customers time and money today, and they’re all infrastructure or mini-apps for Ramp’s transaction orchestration future.
+
+The biggest reason that Ramp is going to be generational is that it’s the first company to recognize the potential of business transactions as mini-apps and to design a company to build accordingly. 
+
+Ramp’s famous product velocity, for example, is made all the more valuable by the fact that its team will have the evergreen opportunity to build new mini-apps based on what it’s seeing in the transactions. Being able to swarm those opportunities quickly with 3-5 person teams is a superpower.
+
+Ramp’s corporate card wasn’t just a Trojan Horse into the CFO Suite; it was a Trojan Horse into all business transactions, and Ramp loaded the horse with engineers able to respond to whatever they face inside the walls. 
+
+And as it adds new payment products, like Bill Pay, it will get even more data that it can use to help companies save time and money, and more transactions from which to launch mini-apps. The more mini-apps it launches, the more of companies’ spend it can orchestrate. 
+
+Ramp’s gotten to $100 million in revenue on one revenue stream and less than $5 billion in transactions. In a $100 trillion+ global business spend market, the opportunities are endless. In just Travel and Procurement, it could flip a switch and start monetizing tomorrow. Bill Pay offers endless opportunities for monetization, from SaaS fees (unlikely) to financing. With $550 million in fresh debt at its disposal, that seems like a reasonable possibility. 
+
+For now, though, monetization is secondary. It happens naturally, every time companies spend on the card, and Ramp has plenty of cash to keep going for a long time. For now, growth is king. More is more: 
+
+The more customers Ramp gets, the more spend it can help orchestrate. 
+
+The more spend it orchestrates, the more data it gets and the more buying leverage it has on its customers’ behalf.
+
+The more Ramp products each customer uses, the better product experiences it can design and the stickier each customer becomes. 
+
+The more products with network effects, like Bill Pay, get adopted, the faster Ramp spreads. 
+
+The more both parties in a transaction use Ramp, the smoother Ramp can make the experience. 
+
+If Ramp just keeps growing its corporate card business at even half the rate it’s growing today, this becomes a $50 billion company in the next few years. 
+
+But if Ramp is able to keep growing and keep shipping simultaneously, and if it can fold all of its products into a clean, comprehensive offering that saves time and money for customers automatically, it has the chance to own and finally bring intelligence to the most valuable real estate on the internet: the transaction. 
+
+That’s more valuable than search. That’s a trillion dollar opportunity.

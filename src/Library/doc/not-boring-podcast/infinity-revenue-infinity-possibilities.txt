@@ -1,0 +1,471 @@
+Hi friends 👋 ,
+
+Sometimes, I discover a company that makes me so giddy I can’t shut up about it. I ask everyone, “Have you heard of this company?!”
+
+Often, they’ll say, “Yeah, duh.” Occasionally, they’ll say, “Nope, never heard of it.”
+
+Today’s company falls into the latter camp. That’s my favorite kind to tell you about.
+
+Note: nothing in this piece is investment advice; just nerding out on a fascinating new model.
+
+Let’s get to it.
+
+Infinity Revenue, Infinity Possibility
+
+It looks easy because there's a cute Axie, an innocent-looking Axie. But when you're in the game, it's like playing chess. It's a strategic game.
+
+-- Howard, Filipino Axie Infinity Player, Play-to Earn
+
+From an internet cafe in Cabanatuan City, Philippines, a 22-year-old named Howard described the game he plays to make a living as innocent-looking but strategic. That game, Axie Infinity is a Pokémon-like game built on the Ethereum blockchain in which people buy digital pets, called Axies, as NFTs, and breed, battle, and trade them. It’s cute. It’s unassuming. This is what it looks like: 
+
+
+But Howard’s quote could just as easily describe Axie Infinity as a business and an economic force. It’s cute. It’s a game. There’s blockchain stuff. It’s fun! But there’s a lot going on under all that cuteness.
+
+That’s the whole idea behind Axie Infinity. Axie co-founder and growth lead, Jeff “Jiho” Zirlin, told me: 
+
+The idea is to introduce something that’s new and a little scary [crypto] through something fun, familiar, and nostalgic. Then, adding property rights and economic freedom make it really special.
+
+Axie’s cuteness obfuscates an absurdly fast-growing business, one counterintuitively trying to vertically integrate in a web3 ecosystem known for composing modularly. Beyond the business, it has a wildly bold master plan to reshape economic policy and local governance by showing what’s possible when people work in the Metaverse. In its whitepaper, Axie developer Sky Mavis explicitly says, “You can think of Axie as a nation with a real economy.” 
+
+That’s the grand plan. Right now, most of the focus on Axie centers around its eye-popping growth... Axie Infinity is picking up players and revenue at a nearly-unprecedented clip. This is its monthly revenue chart: 
+
+
+Source: Axie World
+In April, Axie did about $670k in revenue. 
+
+In May, it did $3.0 million. 
+
+In June, $12.2 million. 
+
+In July, just 18 days into the month, it’s already at $79 million. 
+
+Delphi Digital projects that it will close this month at $153 million. 
+
+The Axie protocol generates revenue by taking a 4.25% fee when players buy and sell Axie NFTs in its marketplace, and by charging fees for breeding Axies to create new ones in the form of its tokens, Axie Infinity Shards (AXS) and Smooth Love Potion (SLP). AXS and SLP are denominated in ETH, which has been cut by more than half since May; Axie has grown USD revenue even in the face of falling ETH prices. 
+
+
+If those were annual revenue growth numbers for any business, investors would be salivating. 200x revenue growth in three years would be nearly unheard of… 200x in three months?! 
+
+
+Delphi projects that Axie will end the year having generated $1.1 billion in revenue, mostly from fees generated through its NFT marketplace and from breeding Axies to meet the demand from hundreds of thousands of new players each month. There are more than 600k players currently, around the world, as many as 60% of whom are in the Philippines. 
+
+But while those numbers are mouth-watering, they’re actually not the biggest or fastest ever in gaming. The rare gaming mega-hit gets really big, really fast. Many fade away just as quickly.
+
+What makes Axie Infinity unique is that this wild growth is just the first step in a much larger plan that includes vertical integration, aggregation, decentralization, and literal worldbuilding.
+
+Even in the very first innings of its master plan (the product is still in “alpha”), Axie is doing that kind of growth as a game built on the blockchain while pioneering a new model at the intersection of work and play: Play-to-Earn. 
+
+Scores of people in the Philippines and Vietnam have quit their jobs and make a better living playing Axie for hours every day. They earn Smooth Love Potion (SLP), a token earned through Axie gameplay that can be exchanged for fiat, which in turn can be used to pay for food, shelter, medical bills, and all of the other things needed to survive. Some people who were previously making $5 per day now make $20. 
+
+Axie is already proving out a lot of things important to crypto’s long-term success:
+
+NFTs are alive and well, and their success does not depend on high-ticket art sales. Quite the opposite. This is a glimpse at the true promise of NFTs!
+
+Non-crypto people are being onboarded to crypto through a video game.
+
+Crypto can create new economic opportunities for all types of people globally, not just whales, DeFi degens, and bitcoin maxis, delivering on the promise of a more level playing field while also capturing economic value.
+
+Crypto’s network effects can create unbelievably fast-growing businesses with moats.
+
+One of the main criticisms of crypto so far is that it has no real-world value or application, but Axie makes you reconsider what real-world value is. In Axie’s case, the value comes from providing meaning, income, and opportunity to the players directly. A typical game would spend millions of dollars on marketing and keep the majority of profits to itself; Axie spends nothing on marketing, but lets players keep most of the value created. That should lead to a stickier game and more opportunities for expansion.
+
+And that’s just its first act. It wants to reshape work and build the most valuable IP in history, all owned by the players themselves. My favorite web3 projects adhere to Chris Dixon’s idea that “the next big thing will start out looking like a toy.” Axie certainly fits the bill. 
+
+You may have started hearing about Axie Infinity over the past couple of weeks, catching tweets or reading coverage in crypto-focused publications like Coindesk, Delphi, and Bankless. You may have never heard the word “Axie” until two minutes ago. But there is no doubt that you’ll be hearing about it everywhere soon. Today, we’ll go deep on Axie, covering: 
+
+Axie’s Origins 
+
+A Recent History of Gaming Business Models
+
+Play-to-Earn
+
+Axie by the Numbers: Infinity Revenue 
+
+Vertical Integration in a World of Lego Blocks
+
+Decentralizing the Axie Universe
+
+Infinity Possibility
+
+Axie’s Origins
+In November 2017, CryptoKitties came roaring out of the gate as the first digital asset to use the now-omnipresent ERC721 standard for Non-Fungible Tokens (NFTs). Less than a month later, in Vietnam, Sky Mavis founder and CEO Trung Thanh Nguyen came up with the idea for Axie Infinity: what if you could combine the gameplay of Pokémon with the NFT ownership and breeding of CryptoKitties? 
+
+It would look like Axie Infinity, “a Pokémon-inspired universe where anyone can earn tokens through skilled gameplay and contributions to the ecosystem. Players can battle, collect, raise, and build a land-based kingdom for their pets.” When Trung bred the ideas and mechanics behind Pokémon and CryptoKitties, it generated a couple key differences: 
+
+Instead of owning Pokémon cards, players buy their Axies as NFTs.
+
+Instead of just owning cards or NFTs for appreciation, players can make a living playing the game by earning ERC20 tokens that they can exchange for local currency.
+
+
+Source: Sky Mavis, Axie Infinity Whitepaper
+Trung started building in December 2017. By January 2018, when ETH hit then-all-time-highs over $1,300, he’d recruited Masamune as Art Director and Game Designer. Meanwhile, Trung kept playing CryptoKitties, where he met two more co-founders and fellow CryptoKitties enthusiasts: in March, Jiho joined to lead Growth and in May, Aleksander Leonard Larsen came on as COO. In July, Andy Ho joined as CTO, finalizing the five-headed co-founding team. 
+
+The team dropped the Origin Axie presale -- selling the first Axie characters as NFTs -- in February 2018, raising 900 ETH, just as the price of ETH was beginning to crash off all-time-highs. As ETH fell, they shipped: 
+
+In March, they launched their own NFT Marketplace where Axie collectors could trade.
+
+In May, they released Breeding, allowing players to combine Axies to make new ones.
+
+In October, players could battle their Axies.
+
+In January 2019, they raised 3,200 ETH by selling land in Lunacia, “an open world owned, operated, and controlled by players.”
+
+
+What started as an idea in the peak of the bull market became a labor of love in a deep and depressing bear market known as Crypto Winter. When I spoke to Jiho and asked him what catalyzed Axie’s recent ascent, he said that it all started with, “building throughout the bear market, when no one fucking cared.” 
+
+What seems like cursed timing actually turned out to be an advantage. It let the Axie team build and improve the product carefully, and in relative obscurity, while attracting a small core of true believers. That’s important. One of the challenges that both games and new crypto projects jointly face is that they can attract a lot of hype and fanfare, generate a ton of revenue quickly, and then die off just as fast. Jiho pointed out the paradox in building communities at scale: 
+
+The community needs to be small first to work when it gets really big. That’s what makes Axie hard to copy -- if you build a competitor now, you’re going to attract the kind of people who want to find the next Axie, not the kind of people who are actually interested in moving gaming forward. 
+
+From small beginnings, Axie has gotten really big. On Friday, it passed 600k daily active players. Its Discord server, the heart of the community, has over 540k members. When I hopped into the Discord yesterday, a new member joined every five seconds. 
+
+Axie’s growth is objectively impressive, but it’s all the more impressive when you realize how much more involved the onboarding is than you’re used to from a typical game. The Axie team published a Getting Started Guide that takes six unfamiliar steps to even get to “learn how to play.” 
+
+
+Just getting started requires acquiring ETH, signing up for a MetaMask wallet, transferring ETH, downloading another wallet (Axie’s own Ronin wallet), transferring ETH again, acquiring NFTs on Axie’s own NFT marketplace, logging in with MetaMask, and then finally downloading the application itself, on desktop or mobile. 85% of Axie’s players are on Android. Then, to join the community, you need to download Discord, create an account, enter the #welcome room, verify your phone number, agree to community standards, and type “?join Trainers” to get into the main rooms. I typed “?join Trainers,” nothing happened, I had to wait for 30 minutes, typed it again, and nothing happened, and still I waited to try again. I would imagine my experience isn’t unique; none of this is necessarily smooth or easy.  
+
+And then there’s the cost. To start playing, you need three Axies. You can acquire Axies in the Marketplace, where the cheapest of the 99,323 available is going for 0.1 ETH, or $195.  
+
+
+As a writer, it’s poor form to walk you through that whole process here. Even just reading all of that seems like a lot. I probably lost a few of you. Imagine what it’s like to actually do all of the steps. Jiho pointed out openly that it’s really difficult to start playing Axie Infinity. Yet despite all of the hurdles, Axie is growing like crazy. There must be something magical waiting beyond the onboarding. 
+
+On Invest Like the Best, Gabriel Leydon, the CEO of gaming company Machine Zone, made the counterintuitive observation that investors should look for opportunities where things are broken but still growing: 
+
+NFTs are important the same way the App Store was important. Meaning that at the beginning of the App Store, everything was broken. It took like three months to get an app approved. Just crazy stuff. It was a real nightmare. And it was growing like crazy. That's what you want. You want an environment that's completely broken. There's like a couple spaces still in the innovation phase and crypto is clearly one of them.
+
+You should listen to the whole conversation, but the takeaway from this particular section is that if something is growing like crazy despite the design and UX, it must be delivering something truly innovative and meeting a previously-unmet need. 
+
+In Axie’s case, that innovation is the Play-to-Earn model and the opportunity to make a living in the Metaverse by playing a game. To understand why it’s so innovative, we need to understand how games typically make money today.
+
+A Recent History of Gaming Business Models
+Axie Infinity isn’t the fastest growing game of all-time, nor the highest-earning. To understand what makes Axie’s growth special, we need to look at a few other gaming business models first.
+
+In June, Japanese mobile game Ni No Kuni: Cross Worlds set the speed record, hitting $100M in revenue in just eleven days, despite only launching in five markets. 
+
+
+Like the previous fastest-to-$100M game, Pokémon Go, the highest-grossing mobile game of all time, Honor of Kings ($9.97B), Epic’s breakout hit Fortnite, and most of today’s most popular games, Ni No Kuni is a Free-to-Play game. 
+
+Most Free-to-Play games give players the full game for free and make money by selling virtual in-game items like skins and emotes. In a thread on video games, music, and NFTs, Dixon pointed out how successful this model has been for the video game industry:
+
+Twitter avatar for @cdixon
+Take Fortnite, for example. In Fortnite, you can start playing the game with a generic character for free, but if you want to upgrade to play as, say, Wolverine, you can buy the Wolverine skin from Fortnite-maker Epic Games via the Item Shop using Fortnite’s own in-game currency, V-Bucks. 
+
+
+Free-to-Play can be a hell of a model. In 2020, Fortnite generated $5.1 billion in revenue. Importantly, in Fortnite, everything that a user buys is cosmetic. Buying a certain skin won’t give you a better chance at winning battles, just like buying a new shirt IRL won’t make you stronger. You just do it to show off that you can, or that you have style, or for all of the reasons that people spend on fancy things. Fortnite is a game, but it’s also a proto-Metaverse and a community. Its Discord server has 805k members. It’s a mini-economy, centrally managed by Epic Games, which reaps huge profits from players. 
+
+The fastest-growing mobile games ever, Ni No Kuni and Pokémon Go are also Free-to-Play, but their critics claim that they’re a dirty subset of Free-to-Play called Pay-to-Win.
+
+
+Source: Reddit
+In Pay-to-Win games, players can pay for items or skills that give them advantages in the game. The quotes from Redditors on Ni No Kuni highlight the issues with the model: “​​It's one of those MMOs that you will be stuck at some level and can't progress because of the exp and the gear and pet gacha look like a massive p2w, you rarely get the currency at all.” Essentially, pay up or get stuck. There are also many Redditors in the thread who contest the $100M revenue claim based on weak download numbers. Either SensorTower’s revenue data is off, or the game is benefiting from much higher-than-average spend from whales, the small group of players who spend the vast majority of money in Free-to-Play games. 
+
+Even seemingly innocent games like King’s Candy Crush can end up costing players a bucketload of cash to buy things like more lives. When the game first took off, the internet was full of horror stories of parents checking their credit card statements to find that their kids had run up thousands of dollars worth of Candy Crush purchases on their credit cards. In 2014, Apple refunded parents $32 million for unauthorized in-game purchases across a variety of Free-to-Play games. 
+
+
+Roblox, founded in 2012 and played mostly by kids, is also Free-to-Play, but it innovated in a few ways. First, instead of plugging in a credit card and letting their kids run wild, parents can buy a set amount of Robux, the world’s in-game currency, for their kids to spend. Second, instead of building everything themselves, Roblox built a platform on top of which developers and designers create games and items that they can sell to users in exchange for Robux. In Q1 2021, Roblox did $387 million in revenue, and paid out $118 million in Developer Exchange Fees (31% of revenue). 
+
+
+Source: Roblox
+According to the company, 27% of every dollar spent via Robux goes to developers, 25% to app stores, 12% to invest in and support the platform, and 27% to Roblox itself. 
+
+
+Source: Roblox
+Roblox, and games/worlds like Minecraft are a huge step forward. Instead of just paying money to game developers, users can actually make money by developing for the ecosystem. It does, however, fall just short of the Bill Gates Line for a platform -- something is a platform if everything built on top of the platform makes more than the platform itself -- given that it takes home an equal amount as developers. But with Roblox, regular users can make a living via a game. That’s a win. Previously, people could make money via gaming by winning e-sports tournaments (reserved for a small dorps of elite gamers), or by “gold farming.” 
+
+As described in this 2007 New York Times piece, Chinese workers would spend 12 hours per day for $0.30 cents per hour collecting gold and other digital assets in World of Warcraft. Their boss made $3 for selling those coins to an online retailer, and the retailer made as much as $20 selling them to American or European players who didn’t want to spend all that time themselves. Gold farming was viewed as exploitative and banned by the games in which it occurred. If only there were a way for players around the world to earn money for themselves… 
+
+All of which brings us back to Axie Infinity. 
+
+Play-to-Earn
+Axie operates an entirely new kind of model -- Play-to-Earn -- enabled by the blockchain. Unlike a traditional Free-to-Play model, in which developers sell to players, or a Roblox-like model, in which the developer intermediates transactions, Axie Infinity is player-to-player. 
+
+Play-to-Earn is a new model that “rewards players for the time and effort they spend both playing the game and growing the ecosystem.” According to Axie:
+
+Axie has a 100% player-owned, real money economy. Rather than selling game items or copies, the developers of the game focus on growing the player to player economy and take small fees to monetize. Axies are created by players using in-game resources (SLP & AXS) and sold to new/other players. The holders of the AXS token are the government that receives tax revenues. Game resources and items are tokenized, meaning they can be sold to anyone, anywhere on open peer-to-peer markets.
+
+Axie is explicitly not Free-to-Play. To start playing Axie Infinity, you need to turn fiat into ETH in order to buy three Axies, the cheapest of which will cost you $195 at today’s prices. But instead of paying a developer for the right to essentially rent that avatar (or Land, or Item, or Bundle), you own it. And by playing the game, you own the game, and can make decisions on its future development or complete quests to earn real income. If you want to stop playing, you can just sell your Axies and AXS and SLP tokens and move on. 
+
+When new players enter, they don’t buy Axies from Sky Mavis or Axie Infinity; they buy them from other players, who either sell their own Axies or breed new ones. As Jiho put it, “Players sell entry tickets to the universe.” The Axie protocol takes a 4.25% commission on each trade on the marketplace and a fee (in the form of AXS and SLP tokens) when new Axies are bred. 
+
+Unlike traditional models, in Axie’s Play-to-Earn model, 95% of the revenue goes to the players. “The first principle is: in an attention economy, users who give us their attention should be rewarded.,” Jiho told me. Why? 
+
+Playing the game is an important job. You need a lot of people to play to concurrently make it fun. Part of what makes a PvP game fun is playing against people at your skill level, and for that to happen, you need to quickly match people with other people who will give them the right level of challenge. Play-to-Earn makes Axie more fun by adding player liquidity; it’s worth giving people most of the money to achieve that. 
+
+The roughly 5% that the Axie protocol takes goes into the Community Treasury, which currently stands at 46k ETH or $95 million, and the Treasury is controlled by token holders, including but not limited to the developers, Sky Mavis, who hold about ~20% of the nation’s governance token, AXS. 
+
+
+Source: AxieWorld
+Axie is building more than a game; it’s building a virtual nation with its own economy. But it all starts with the game. Here’s how it works (this should sound familiar to Pokémon players, and like Greek to the rest of us):
+
+In Axie Infinity, players collect, raise, and ultimately battle cute digital pets called Axies. At the core of the game are battles -- either Player v. Player (PvP) or Player v. Environment (PvE). 
+
+Each Axie has different stats -- Health, Morale, Skill, and Speed --  that give them strengths and weaknesses in battles.
+
+
+Adding some complexity is the fact that each Axie’s stats are dependent on its class -- Beast, Reptile, Aquatic, Bug, Plant, Bird, Moon, Nut, Star -- and body parts -- eyes, ears, horns, mouth, back, and tail. Some classes are better at attacking, and some are better at taking damage; Axies operate in teams of three, so part of the skill comes in configuring teams with a mix of “attackers” and “tanks,” optimally constructed to fight certain configurations of other teams’ Axies. 
+
+In the battle, the two sides take turns using their Axies’ cards to attack the other side. Cards might have different impacts depending on the class of Axie you’re using it against -- for example, a Bird card used to attack a Beast Axie will cause an additional 15% damage. Each pair of classes has such a relationship with the others: 
+
+
+As Howard mentioned, this is a strategic game. It depends more on skill than luck of the draw. If you want to go deeper on the game itself, start here. For our purposes, what’s most interesting is that by winning PvP and PvE battles and completing Daily Quests, players can earn Smooth Love Potion (SLP) tokens, so named because they’re required to breed new Axies. This is where Play-to-Earn comes in. 
+
+The top PvP players can earn up to 600 SLP a day, but for the typical worker, the max is around 200, which translates to $52 at the current SLP price of $0.26. In the US, that’s not a ton of money, but over $1,500 per month is a meaningful and potentially life-changing amount of money in many developing nations. With those SLP, players can do a few things: 
+
+Breed New Axies. Axie Infinity doesn’t mint new Axies out of thin air. To meet the demand from new players, who each need three Axies to play, existing Axie holders breed new Axies from a pair of existing ones. Each Axie can be bred a maximum of seven times, and it costs the same base of 4 AXS plus an increasing number of SLP the more a particular Axie has been bred. A “Virgin Axie” costs 4 AXS + 150 SLP to breed ($108.92 at today’s prices). Given the floor price of $195 per Axie, that’s a profitable trade.
+
+
+Speculate. SLP holders might want to hold on to their SLP to speculate on the price. Over the past year, the price of one SLP is up 21.8x, from $0.0122 to $0.2664. 
+
+
+Exchange for Fiat. Both AXS and SLP are currently tradable on major decentralized exchanges (DEX) like Uniswap. In the near future, they may be able to do so on Axie’s own DEX 👀  Many players earn SLP, then exchange it for money to pay their real-world bills. 
+
+It’s this last use that’s captured the public’s imagination, and caused such an explosion in Axie usage. During COVID, when many people in developing countries, who were living hand-to-mouth as it was, lost their jobs, they turned to Axie Infinity to make ends meet. There’s even a short documentary, Play-to-Earn, about the phenomenon:
+
+The documentary showcases a Filipino town called Cabanatuan City, where Axie spread from one person to many, including a 75-year-old couple named Lolo and Lola Silverio, who play Axie to supplement the $5-6 they make from their small shop per day and pay for their medical expenses. 
+
+
+Source: Play-to-Earn
+If you’ve been paying close attention, you might ask, “How could Lolo and Lola afford to buy the three Axies required to get started? Don’t they cost at least $195?” 
+
+I’m glad you asked. This is one of the most fascinating things happening in the Axie Economy. Scholarship programs have sprung  up across the globe to provide aspiring players with their own teams of Axies. The scholarship essentially rents players Axies, and gets paid back through a revenue share from SLP proceeds.  
+
+The documentary highlights both a local scholarship program in Cabanatuan, which provides Axies and training to local players, and Yield Guild Games, which does the same globally, for Axie Infinity and emerging games like The Sandbox and League of Kingdoms. Scores of people send real, well-formatted resumes to Yield Guild and other scholarship programs every day, showing off not just their professional credentials, but their gaming experience as well.
+
+Because there’s been more demand than Yield Guild can meet, it launched a Sponsor-a-Scholar program that lets benefactors give players their start. Li Jin recently announced the Leaping Corgi Scholarship, which funded a total of 87 scholarships from the proceeds of an NFT sale. 
+
+
+Let’s pause. This is wild. The proceeds from NFT auctions are going to scholarships to support people in developing countries who want to earn a living by playing a Free-to-Earn, NFT-based game in the Metaverse. If I had written that sentence eighteen months ago, you would have looked at me like I was crazy. You still might be looking at me like I’m crazy right now. But they’re not even alone! 
+
+CoinGecko recently put together a list of ten Axie Scholarship providers. What’s crazy to see is that most of them are based in the Philippines themselves. This isn’t developed countries extracting from developing ones; it’s people in developing countries helping each other out, and building successively bigger businesses on top of Axie’s platform. 
+
+
+In a world that rapidly moved online at the same time that blockchain-based businesses and economies found product-market fit, Axie Infinity is more likely to be a glimpse into the future of work than a flash in the pan. People are building businesses in the Metaverse from wherever they happen to live.
+
+The Metaverse is already here, and it’s evenly distributed.
+
+Already, in addition to Scholarships, sponsors are offering to support players, and providing their own Play-to-Earn quests. DeFi protocols have been the first big sponsors, rewarding Axie players with their own assets for completing quests. Maker gave players its stablecoin, DAI, Aave gave players its AAVE token, and Digix gave players real gold. In other words, sponsors are directly rewarding players for their attention. 
+
+The opportunity to make a living playing games was enough to get hundreds of thousands of people, an estimated 60% of whom are in the Philippines, to go through Axie’s complicated onboarding process. Axie’s current 600k players are just a fraction of the Philippines’ 111 million people, let alone the addressable population of Play-to-Earn players around the world.
+
+Even before the past three months’ rush, the appeal of Axie’s model created a crush of demand that flooded Ethereum, whose gas fees crushed Axie in turn. So Sky Mavis decided to take matters into its own hands. 
+
+Enter the Ronin
+Last June, when DeFi Summer was just getting underway, Ethereum was awoken from its two-year slumber by the loud clatter of demand for blockspace. At the time, Axie Infinity built right on top of the Ethereum blockchain for its most commonly-used items, Axie NFTs and SLP tokens. It kept its less frequently-used Land NFTs and Item NFTs in a Loom sidechain, and hadn’t yet released its AXS governance token. 
+
+
+Axie NFT and SLP activity contributed to growing congestion on the Ethereum network, and also suffered when gas prices on Ethereum spiked. In a June blog post, the team wrote as much, calling Ethereum network congestion “a perpetual thorn in our side.” In the post, they announced that they were building their own sidechain: Ronin. 
+
+In order for Axie Infinity to reach our second, third, and fourth-degree connections (the friends and family of our friends and family) Axie needs a long term solution that makes participating in the Axie game & economy, fast, cheap, and seamless. We need it to be fun and easy!
+
+That’s why today we’re announcing our work on Ronin — an Ethereum-linked sidechain made specifically for Axie Infinity. A Ronin was a samurai without a master in feudal Japan and Ronin represents our desire to take the destiny of our product into our own hands.
+
+Many decentralized apps (dApps) built on Ethereum felt the pain of congestion. Very few built their own sidechain, instead opting to use other layer 2 scaling solutions, like Polygon and Optimism. Even Uniswap, Ethereum’s biggest gas guzzler, decided to launch v3 on Ethereum Mainnet and Optimism instead of building its own. 
+
+Not Axie. Axie wanted to build its own sidechain, Ronin, with its own wallet. That would be ambitious at today’s massive volumes. It was particularly ambitious back then given that in June 2020, Axie did a measly $2,044.09 in revenue. But they went for it, built for a year, and in early May, Axie Infinity migrated to Ronin. 
+
+
+After the migration, everything in the Axie universe took place on the Ronin sidechain, and bridged into Ethereum when needed. Today, SLP and AXS are the main items that go over the bridge. The ERC-721 assets -- Axies, Land, and Items -- aren’t yet transferable over the bridge, but Jiho told me people haven’t been asking for that feature yet. The assets are more valuable within the Axie universe than they are anywhere else, and largely thanks to Ronin, there’s more activity happening inside of the Axie universe than there is anywhere else in web3. 
+
+Axie by the Numbers: Infinity Revenue
+We’re talking about games today, so let’s play a game: spot the place on this chart where Axie released Ronin.
+
+
+Since unblocking the congestion issue in May, Axie has caught fire. You can see it in that graph above. If it keeps going at this pace, its revenue is headed… 
+
+
+… but even that graph doesn’t quite put it into context. 
+
+That’s nearly unprecedented growth at scale for any company. Roblox, a $43 billion public company, did $144 million in April in its seventeenth year of operations. 
+
+It’s among the all-time best performances in gaming, made all the more impressive given that Axie breaks the Free-to-Play model that’s dominated the past decade. 
+
+Axie is on pace to generate over $150 million just from its 4.25% cut. On Tuesday alone, it did $32 million in total transaction volume, which is a closer comp to Free-to-Play games’ top-line revenue. 
+
+It gets really wild when you compare it to other blockchain-based apps… and entire blockchains. 
+
+Where to begin? 
+
+Let’s compare Axie with all of the other dApps and blockchains based on revenue.
+
+
+Source: Token Terminal
+Over the past 7 days, Axie Infinity has generated more total revenue than any dApp or blockchain except for Ethereum, which barely nudges it out. Interestingly, if you take out the roughly $2.2 million in gas fees that Axie paid to Ethereum over the past week, Axie re-takes the lead. 
+
+It generated $39 million in revenue compared to Bitcoin’s $4.5 million, or as Jiho so eloquently put it, “The pets are generating 7x the fees of the pet rock.”  
+
+Even better, Axie Infinity’s Community Treasury is capturing this revenue. It’s not being paid out as gas or other mining fees. When you just compare protocol revenue, the amount captured by the protocol itself, Axie blows the competition out of the water.
+
+
+Source: Token Terminal
+Over the past 30 days, according to Token Terminal, Axie has generated more than 7x the protocol revenue than its next closest competitor, PancakeSwap, the leading Dex on the Binance Smart Chain. It also beats out DeFi giants like Compound, Aave, SushiSwap, and MakerDAO. 
+
+What’s even wilder is that Axie generated more protocol revenue in the last 30 days -- $81.5 million -- than any of the other dApps or blockchains in the set made in the past year.
+
+
+Source: Token Terminal
+Not bad for a cute game. But how’s it doing against the NFT Marketplaces in terms of total volume? Certainly people can’t be buying more money’s worth of Axies than all of the NFTs on OpenSea or CryptoPunks, right? 
+
+
+Source: DappRadar
+Over the past 24 hours, 7 days, and 30 days, Axie Infinity has done more volume than any other NFT Marketplace, including open ones like OpenSea, Foundation, and Rarible, and asset-specific ones like CryptoPunks, NBA TopShot, and SoRare. It’s now third all-time by volume, and amazingly, its past 30 day volume alone would rank third all-time!
+
+With all of that activity, despite the fact that most of the action takes place on the Ronin sidechain, Axie is still the number four gas guzzler on Ethereum. 
+
+
+Source: EtherScan
+Finally, there’s the tokens themselves. AXS, the game’s governance token, dropped in early November 2020 and has grown 10,964% since, to a market cap of $1.1 billion. 
+
+
+Despite the rapid growth, according to Delphi Digital, AXS still only trades at a P/E ratio of 7.7x. (Delphi is an investor in Axie, one of the best web3 research companies, and helped design the AXS token, so their understanding of this protocol is second-to-none.) ​​
+
+Compare Axie’s 7.7x P/E to Roblox, which is still unprofitable, and Grand Theft Auto-maker TakeTwo, which trades at a 33.5x P/E ratio. If Axie can even maintain current levels, these levels will look incredibly cheap. 
+
+I could go on, but suffice it to say, this game is an absolute monster, pun intended. 
+
+But it’s not just about the money. Axie polled its players on their main motivation for playing Axie Infinity. 48% said they played for the economy, forming a solid base of people building livings on the platform, but 37% said that their main motivation is the community. That community mainly lives in Axie’s 549k member Discord server. It’s one of only a handful of Discord servers with over half a million people in the world. Until very recently, Discord didn’t even support communities over 500k people. Fortnite, for comparison, has about 800k. 
+
+Numbers can be gamed; real community and product love can’t. 
+
+Over the past week, Axie has seen so much volume that its servers have been going down. The company sent a message in its Discord saying that: 
+
+Hooking a game up to blockchain data is a new invention; something that nobody has ever done before with a large number of players. Things were going smoothly until the last few weeks but the server started to breakdown once we passed 500,000 daily active players.
+
+That’s a huge problem, and a great problem to have. Many of Axie’s users can’t play. After going up continuously every minute, Axie’s revenue numbers seem to have stalled for a few hours yesterday. And yet, people keep trying to get in and play. They can’t stop playing Axie Infinity. It will be fascinating to see how quickly and furiously they bounce back once everything is running smoothly again.
+
+Twitter avatar for @AxieInfinity
+What’s most amazing about the issues is the response from the community, many of whom rely on Axie to make a living and were temporarily shut out. Go read the replies to that tweet. 
+
+Jiho told me that he’s most worried about the community staying “tight-knit, civil, and loving” as they scale. This test seems to be proving that for now, they’re good, which is important, because community love is a key piece of Axie Infinity’s strategy.
+
+Vertical Integration in a World of Lego Blocks 
+If we can build a community of millions of blockchain-educated users by bringing in new types of people, then we can build a juggernaut that eats other products.
+
+-- Jiho
+
+Remember that quote from way back in the beginning of the piece, the one about cute, innocent-looking Axies masking the fact that it's a strategic game? The same can be said about Sky Mavis’ overall strategy, which is a never-before-seen combination of vertical integration and decentralization. 
+
+Part of the beauty of web3 is that you can snap together existing protocols and smart contracts and blockchains and L2’s and dApps like Legos. That’s called composability. It means that companies can move faster and build more and more complex and mind-blowing products with fewer resources.  
+
+The Sky Mavis team’s strategy for Axie Infinity is not that. 
+
+Twitter avatar for @AxiePuff
+This Tesla/SpaceX analogy seems to be a common refrain in the Axie community. Jiho made the same comparison when we spoke, reasoning that when you’re building something really complex, you need to build everything in-house. Tesla builds its own batteries, software, and parts. SpaceX built its entire supply chain from scratch, from rocket engines to electronics components. And Sky Mavis is building everything itself, too. 
+
+That started with the Intellectual Property (IP), the Axies themselves. Sky Mavis created the Origin Axies and mascots, and still holds them in its own wallet. 
+
+
+Next came the game, which Sky Mavis developed and illustrated in-house. 
+
+
+Next, Axie built its own NFT Marketplace in early 2018, despite the fact that OpenSea had already launched in December 2017 and is likely where the team would have bought and sold CryptoKitties. As mentioned, over the past month, Axie’s NFT marketplace has done more volume over the past 30 days than OpenSea has, despite only including Axie-specific NFTs.
+
+
+Axie is also building its own world, Lunacia, and began auctioning off parcels in 2019. Later that year, it merged its Axie and Land marketplaces into one. In the near future (although “near future” is a running joke in the community), it plans to release land-based gameplay, opening up new ways to engage the community, and importantly, new ways for players to earn money (more here).
+
+
+Sky Mavis also introduced their own in-game currency, exchangeable for fiat via ETH, SLP, and in November, dropped its own governance token, AXS. 
+
+
+As discussed, fed up with Ethereum congestion and gas fees, and not content with other peoples’ L2 solutions, Sky Mavis built and merged its own sidechain, Ronin, and an associated Ronin Wallet, which people need to install to play the game. 
+
+
+Whew. That’s a hungry Axie. And that’s just everything to date. What’s next? 
+
+
+Think about why vertical integration makes sense, particularly in the presence of good-enough modularized components. Vertical integration is preferable if it can lower Axie’s costs and create a better user experience. Currently, the main place that players are spending transaction fees outside of the Axie universe, and the biggest point of friction for a frequent use case, is when they need to exchange their SLP for ETH for fiat on a DEX like Uniswap. 
+
+The next step in Axie’s vertical integration is to build its own DEX. 
+
+Twitter avatar for @AxieInfinity
+But it also gives the Axie protocol more incentive to tokenize more things -- experience points, the Ronin sidechain itself -- all tradeable on the Ronin DEX. Jiho told me that he thinks it can become the most used DEX by number of users of all-time. 
+
+Which sounds crazy, until you realize the secret that Axie has figured out. 
+
+One of crypto’s biggest challenges to date has been figuring out mass adoption and use cases that keep people coming back. If Axie is able to amass the largest user base in crypto, help them earn a living, and keep them happy and engaged, they can turn that firehose on any product they choose. That’s why they’re vertically integrating now -- they have the users, they want to capture the upside and make the user experience better. 
+
+Axie isn’t just building a game; it’s building the web3 aggregator, and backwards integrating to own as much of the value chain as possible. 
+
+Plus, by creating something enjoyable in its own right, and attracting a ton of eyeballs, Axie is attracting capital that’s not seeking a return! That’s rare in crypto. That lowers its cost of capital and creates free revenue in a way that a DeFi protocol can’t. As just a few examples: 
+
+People buy Axies as pets. There are two billion pet owners worldwide, 99.99999% of whom buy pets knowing that they’ll lose a lot of money. Axie is already attracting many people who just buy their Axies as pets with no expectation of return. 
+
+People who just love the game. 15% of Axie players cite the gameplay as their main motivation in playing Axie, ahead of the economy or the community. Axie is doubling-down here by investing in better gameplay and animations. 
+
+E-Sports Tournaments. Axie lends itself well to esports tournaments, and is already seeing its Twitch viewership rise in-line with recent activity. These tournaments will bring sponsorship money into the ecosystem in exchange for eyeballs.
+
+Sponsors Providing Exogenous Capital. As other aggregators like Facebook and Google know well, when you have a lot of users, you have a money-printing machine. Sponsors like Aave are already dumping exogenous capital into the system, and as Axie’s DAUs climb into the millions, there will be no shortage of sponsorship opportunities. Because revenue goes to the Community Treasury, which will be controlled by the players, the sponsorship relationship can be accretive instead of extractive. 
+
+But it gets crazier. Instead of keeping that money and power in the hands of the small, 40-person core team at Sky Mavis, Axie is decentralizing at the same time as it’s vertically integrating. 
+
+Decentralizing the Axie Universe
+Axie is decentralizing in a few ways. 
+
+First, later this year, “the $AXS ecosystem begins.” Axie did the public sale of its AXS governance tokens back in November 2020, selling 11% of tokens to the public. Along with a private sale, advisory shares, the Sky Mavis team, and an ecosystem fund, 22.2% of the total 270 million AXS max started circulating then. 
+
+In order to progressively decentralize -- i.e. let the core team make decisions on behalf of the community -- the Sky Mavis team is able to vote the locked Play-to-Earn and Staking Reward tokens. As more AXS tokens are unlocked over a 65 month schedule, Sky Mavis will slowly lose voting power, until it loses its majority some time in late 2023. 
+
+
+Source: Axie Infinity Whitepaper
+To date, Play-to-Earn has centered around earning SLP tokens, but in the coming months, players will also be able to earn AXS tokens through gameplay. At the same time, AXS holders will be able to stake their AXS to earn more staking rewards (read more from Delphi here), and to vote on the future direction of the game. In the whitepaper, the team laid out a few of the types of things that the community should be able to vote on:
+
+Should Axie Infinity Limited continue to pay Sky Mavis to develop Axie Infinity?
+
+Should Axie Infinity use the marketplace created by Sky Mavis?
+
+How should the Community Treasury be used to reward AXS holders and the broader Axie community?
+
+Should the Community Treasury funds be attached to any yield farming/staking services such as Yearn.finance or Rari.Capital? 
+
+In the second part of the one-two decentralization punch, Sky Mavis is going to open up an SDK to let other developers build new things. Jiho called it the “Internet Monster Protocol, where people can access the IP and make stuff.” The team envisions being able to use Axies across many user-generated games within one Axie universe.
+
+Already, members of the community are generating Axie-content just for fun, with no expectation of reward, here:
+
+Twitter avatar for @AxieKing
+Within the next two years, if all goes according to plan, Axie players will govern the direction of the community, mainly via voting on the use of Community Treasury funds, and will be able to build extensions to the universe themselves, all while earning tokens for their work. They might even decide to undo Axie’s vertical integration, or make new and better marketplaces, sidechains, wallets, and exchanges. 
+
+If they pull it off, Axie will be like Roblox on steroids, with better margins and better incentive alignment. Axie might become an even more important corner of the Metaverse, and a beacon for people building decentralized worlds online that blur work and play. 
+
+At what point does a virtual world intersect with and influence the physical one? 
+
+Today, right now, hundreds of thousands of people are making a living playing a video game in a virtual world. They’re participants in a virtual economy who use their spoils to improve their lot in the physical world. Kids in the Philippines, Vietnam, Brazil, and beyond are applying for Axie Scholarships like they would apply for college or a job, hoping to bend their trajectories upwards. 
+
+In the virtual realm, Axie Infinity will expand and leverage its IP in predictable ways: 
+
+Content. There’s almost zero chance we don’t see an Axie movie or Netflix show in the next few years. Might NFT ownership of Axies used in films generate royalty streams for their owners? Could owners of certain Mystic Axies negotiate with studios directly, or build their own characters online, as people are contemplating with Bored Apes and CryptoPunks? 
+
+Universe Expansion and UGC. The Axie team has already said that they can’t make enough content and experiences to keep up with growing user demand, and that they want to turn to players for help. Might Axie Infinity become a platform for builders, the next Roblox, one that better aligns incentives and gives creators more tools to make money? 
+
+Crypto Expansion. Having onboarded hundreds of thousands, and soon millions, of new users onto crypto, will Axie offer these crypto neophytes an increasing suite of tools to not just earn but manage and grow their stacks? 
+
+It sounds hyperbolic (and at this point, a couple of months into real revenue growth, it certainly is), but there’s a chance that Axie Infinity could become the most valuable IP of all-time. The current leader is uncoincidentally the franchise to which Axie publicly compares itself most often:
+
+
+It will be fascinating to watch all of that play out, but the truly gargantuan impact could come when the Axie Infinity recognizes the power that it has to shape real-world policy and help the world adapt to a future in which everyone no longer needs to work a traditional job to survive.
+
+Before Axie, Jiho grew up collecting fossils and insects before studying military and economic history at Yale, where he wrote his thesis on Alexander Hamilton’s debt restructuring plan. Axie is the intersection of those two nerdy passions, and a chance to use his knowledge and passion to help design new economies.  
+
+When there are enough Axie players earning a living through the game, the team could work with governments to run controlled experiments on the impact of Universal Basic Income (UBI). It’s hard to measure the impact of UBI precisely in the messy environment that is the real-world, but governments could run experiments wherein they give UBI to certain Axie players and measure whether they remain active players, builders, and community participants. 
+
+One of the big challenges with UBI is that work is about more than money -- it’s about meaning and belonging and a sense of self-worth. As more and more becomes automated, and less and less human labor is required, we will need new ways to deliver those things along with a check. In Kurt Vonnegut’s first novel, 1952’s Player Piano, he describes a future world in which automation replaced the need for most jobs, and in response, the government hires people to dig holes and fill them back in, over and over. Axie might help usher in a more fulfilling, and fun, era of work in the Metaverse.
+
+Am I getting ahead of myself? Sure. A lot could go wrong. 
+
+This whole crypto thing could fall apart (I don’t believe that, but it could happen).
+
+Even if it doesn’t fall apart long-term, another sustained Crypto Winter could lower the money available through Play-to-Earn, halt Axie’s momentum, and break up the community. 
+
+Vertically integrating instead of using best-in-class existing products and protocols means more opportunities to mess up. 
+
+Decentralizing, and giving power to the community, can and will lead to unpredictable results. 
+
+The servers could continue to go down under the load and players might feel that they can no longer rely on Axie for their income.
+
+Gaming is notoriously fickle -- one month’s hot game could be old news the next. 
+
+But it feels like something special is happening here. Play-to-Earn can onboard new users looking to earn a living and keep them engaged in ways that look more like long-term employment than the latest gaming fad. Turning Axie Infinity into a platform, and one owned and governed by users at that, can create stickiness via network effects and high switching costs, as platforms are wont to do. The Metaverse will need more than entertainment; it will need to blur the lines between entertainment and employment. Axie is already proving that’s possible.
+
+Axie’s ascent comes at a time when crypto is trading sideways, when NFTs are supposed to be dead, and when people are questioning whether this whole web3 thing will really have any real-world impact. In a category that typically trades in lockstep, Axie’s outperformance seems like something that’s worth paying attention to. 
+
+When we look back in a decade or two, my bet is that this period in Axie’s life is just the start of something huge, a small blip on a much bigger graph, both in terms of revenue and impact. In the mid-case, it’s a player-owned, Pokémon-sized juggernaut and an example of the benefits of vertical integration. In the bull case, it’s a new nation, based in the Metaverse, that improves the lives of millions of people around the world. 
+
+Not bad for a cute little game. 
