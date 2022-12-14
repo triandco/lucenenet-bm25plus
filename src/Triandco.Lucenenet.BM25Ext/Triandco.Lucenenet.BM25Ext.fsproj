@@ -2,19 +2,21 @@
 
   <PropertyGroup>
     <TargetFramework>net7.0</TargetFramework>
-    <OutputTYpe>Exe</OutputTYpe>
+    <IsPackable>true</IsPackable>
     <GenerateDocumentationFile>true</GenerateDocumentationFile>
   </PropertyGroup>
 
   <ItemGroup>
-    <Compile Include="Library.fs" />
-    <Compile Include="Program.fs" />
+    <Compile Include="Ext.fs" />
+    <Compile Include="Core.fs" />
+    <Compile Include="Lucene.fs" />
+    <Compile Include="Control.fs" />
+    <Compile Include="Okapi.fs" />
+    <Compile Include="Plus.fs" />
   </ItemGroup>
 
   <ItemGroup>
     <PackageReference Include="Lucene.Net" Version="4.8.0-beta00016" />
-    <PackageReference Include="Lucene.Net.Analysis.Common" Version="4.8.0-beta00016" />
-    <PackageReference Include="Lucene.Net.QueryParser" Version="4.8.0-beta00016" />
   </ItemGroup>
 
 </Project>

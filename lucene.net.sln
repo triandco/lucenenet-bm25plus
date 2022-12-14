@@ -5,9 +5,11 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{7B346686-3C40-47C3-9CBC-F390A47E4E44}"
 EndProject
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Library", "src\Library\Library.fsproj", "{D8D300A6-2085-441C-8460-617F4B0A57D6}"
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Triandco.Lucenenet.BM25Ext", "src\Triandco.Lucenenet.BM25Ext\Triandco.Lucenenet.BM25Ext.fsproj", "{D8D300A6-2085-441C-8460-617F4B0A57D6}"
 EndProject
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Library.Tests", "src\Library.Tests\Library.Tests.fsproj", "{6BE8EA62-2CFA-4A6B-9C7B-A75C554453EC}"
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Triandco.Lucenenet.BM25Ext.Tests", "src\Triandco.Lucenenet.BM25Ext.Tests\Triandco.Lucenenet.BM25Ext.Tests.fsproj", "{6BE8EA62-2CFA-4A6B-9C7B-A75C554453EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LuceneBM25", "src\LuceneBM25\LuceneBM25.csproj", "{730A24B3-ABB9-4A40-8558-164B39026A01}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -26,9 +28,14 @@ Global
 		{6BE8EA62-2CFA-4A6B-9C7B-A75C554453EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6BE8EA62-2CFA-4A6B-9C7B-A75C554453EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6BE8EA62-2CFA-4A6B-9C7B-A75C554453EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{730A24B3-ABB9-4A40-8558-164B39026A01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{730A24B3-ABB9-4A40-8558-164B39026A01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{730A24B3-ABB9-4A40-8558-164B39026A01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{730A24B3-ABB9-4A40-8558-164B39026A01}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{D8D300A6-2085-441C-8460-617F4B0A57D6} = {7B346686-3C40-47C3-9CBC-F390A47E4E44}
 		{6BE8EA62-2CFA-4A6B-9C7B-A75C554453EC} = {7B346686-3C40-47C3-9CBC-F390A47E4E44}
+		{730A24B3-ABB9-4A40-8558-164B39026A01} = {7B346686-3C40-47C3-9CBC-F390A47E4E44}
 	EndGlobalSection
 EndGlobal

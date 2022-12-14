@@ -2,12 +2,14 @@
 
   <PropertyGroup>
     <TargetFramework>net7.0</TargetFramework>
-
+    <OutputTYpe>Exe</OutputTYpe>
     <IsPackable>false</IsPackable>
     <GenerateProgramFile>false</GenerateProgramFile>
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Include="Utils.fs" />
+    <Compile Include="Search.fs" />
     <Compile Include="Test.fs" />
     <Compile Include="Program.fs" />
   </ItemGroup>
@@ -18,10 +20,18 @@
     <PackageReference Include="NUnit3TestAdapter" Version="4.2.1" />
     <PackageReference Include="NUnit.Analyzers" Version="3.3.0" />
     <PackageReference Include="coverlet.collector" Version="3.1.2" />
+    <PackageReference Include="Lucene.Net" Version="4.8.0-beta00016" />
+    <PackageReference Include="Lucene.Net.Analysis.Common" Version="4.8.0-beta00016" />
+    <PackageReference Include="Lucene.Net.QueryParser" Version="4.8.0-beta00016" />
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Library\Library.fsproj" />
+    <ProjectReference Include="..\Triandco.Lucenenet.BM25Ext\Triandco.Lucenenet.BM25Ext.fsproj" />
+    <ProjectReference Include="..\LuceneBM25\LuceneBM25.csproj" />
   </ItemGroup>
 
+
+  <ItemGroup>
+    <Content Include="doc\**\*" CopyToPublishDirectory="PreserveNewest" />
+  </ItemGroup>
 </Project>
