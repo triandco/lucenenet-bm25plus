@@ -1,5 +1,5 @@
 // This is a straight forward translation of the BM25Similarity implemented by LuceneDotnet in Fsharp for reference
-module BM25.Lucene
+module BM25.Lucene.Base
 
 open System
 open Lucene.Net.Search
@@ -7,7 +7,7 @@ open Lucene.Net.Search
 type SmallSingle = Lucene.Net.Util.SmallSingle
 type SimWeight = Similarities.Similarity.SimWeight
 type FieldInvertState = Lucene.Net.Index.FieldInvertState
-type TunningParam = Core.Okapi.TunningParam
+type TunningParam = BM25.Core.Okapi.TunningParam
 
 module Explain =
   let idfs (collectionStats: CollectionStatistics) (termStats: TermStatistics array) idfFunc= 
@@ -42,7 +42,7 @@ module Norm =
     |> SmallSingle.SingleToByte315
 
   let decode (b: byte) = table[(int b) &&& 0xFF]
-   
+  
 
 type BM25Stats(field:string,  idf: Explanation, queryBoost:single,  avgdl:single, cache: single array) =
   inherit Similarities.Similarity.SimWeight()
@@ -71,7 +71,7 @@ type BM25DocScorer () =
   inherit Similarities.Similarity.SimScorer()
 
   override this.ComputeSlopFactor(distance:int) : single = 
-    1f / (distance + 1 |> single)
+    1f / ((distance + 1) |> single)
 
   override this.ComputePayloadFactor(_, _, _, _) = 1f // The default implementation returns 1
 
@@ -79,7 +79,7 @@ type BM25DocScorer () =
 type BM25 () =
   inherit Similarities.Similarity ()
   member val DiscountOverlaps: bool = true with get,set
-       
+      
   override this.ComputeNorm(state: FieldInvertState): int64 =
     let numTerms = if this.DiscountOverlaps then state.Length - state.NumOverlap else state.Length
     int64 <| Norm.encode state.Boost numTerms

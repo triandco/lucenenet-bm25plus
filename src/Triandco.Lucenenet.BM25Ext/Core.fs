@@ -19,9 +19,9 @@ module Okapi =
     }
 
   let idf (frequencies: int64) (documentCount: int64) : single =  
-    let docf = single frequencies
-    let nDocs = single documentCount
-    1f + (nDocs -  docf + 0.5f) / (docf + 0.5f)
+    let docf = double frequencies
+    let nDocs = double documentCount
+    1. + (nDocs -  docf + 0.5) / (docf + 0.5)
     |> float
     |> ln
     |> single
@@ -31,8 +31,8 @@ module Okapi =
   let computeDocumentNorm (k1:single) (b:single) (docLength: single) (avgdl: single) = 
     k1 * ((1f - b) + b * docLength / avgdl)
 
-  let scoreWithNorm (k1:float32) (idf:float32) (tftd:float32) (norm:float32) =
-    idf * tftd * (k1 + 1f) / (norm + tftd)
+  let scoreWithNorm (k1:single) (idf:single) (tftd:single) (norm:single) =
+    idf * (k1 + 1f) * tftd / (tftd + norm)
 
   // https://en.wikipedia.org/wiki/Okapi_BM25
   let score (param:TunningParam) (idf: float32) (tftd:float32) (docLength: float32) (avgdl:float32)= 

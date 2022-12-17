@@ -1,7 +1,7 @@
 module BM25Tests.Program
 open BM25Tests.Search
 open BM25Tests.Utils
-open BM25.LucenePlus
+open BM25.Lucene.Plus
 
 type TestCase = { 
   Query: string 

@@ -1,11 +1,12 @@
 // This is a straight forward translation of the BM25Similarity implemented by LuceneDotnet in Fsharp for reference
-module BM25.LucenePlus
+module BM25.Lucene.Plus
+
 
 open System
 open Lucene.Net.Search
 open Lucene.Net.Index
 open BM25.Core
-open BM25.Lucene
+open BM25.Lucene.Base
 open BM25.Ext
 
 type SimWeight = Similarities.Similarity.SimWeight
@@ -100,6 +101,3 @@ type BM25Plus =
       |> Seq.toArray
 
     new BM25Stats(collectionStats.Field, idf, queryBoost, avgdl, cache)
-        
-
-        

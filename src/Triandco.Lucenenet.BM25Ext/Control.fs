@@ -46,7 +46,7 @@ type BM25Scorer (k1: single, explainScore: ExplainScore, sloppyFreq: SloppyFreq,
   member this.cache: single array = sta.Cache
 
 
-  override this.Score(doc: int, freq: single) : single= 
+  override this.Score(doc: int, freq: single) : single = 
     let norm = 
       if this.norms = null then k1
       else 
@@ -82,9 +82,9 @@ type BM25Sim =
   }
 
   member this.Idf (docFreq: int64, numDocs: int64): float32 = 
-    let numDocsF32 = float32 numDocs
-    let docFreqF32 = float32 docFreq
-    let value = 1f + (numDocsF32 - docFreqF32 + 0.5f) / (docFreqF32 + 0.5f)
+    let numDocsF32 = float numDocs
+    let docFreqF32 = float docFreq
+    let value = 1. + (numDocsF32 - docFreqF32 + 0.5) / (docFreqF32 + 0.5)
     value |> float |> System.Math.Log |> float32
 
   member this.SloppyFreq (distance: int) : Single = 1.0f / (distance + 1 |> single)
