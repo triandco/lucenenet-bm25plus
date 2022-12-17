@@ -1,22 +1,17 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
-
   <PropertyGroup>
     <TargetFramework>net7.0</TargetFramework>
     <IsPackable>true</IsPackable>
     <GenerateDocumentationFile>true</GenerateDocumentationFile>
   </PropertyGroup>
-
   <ItemGroup>
     <Compile Include="Ext.fs" />
     <Compile Include="Core.fs" />
     <Compile Include="Lucene.fs" />
-    <Compile Include="Control.fs" />
     <Compile Include="Okapi.fs" />
     <Compile Include="Plus.fs" />
   </ItemGroup>
-
   <ItemGroup>
     <PackageReference Include="Lucene.Net" Version="4.8.0-beta00016" />
   </ItemGroup>
-
 </Project>

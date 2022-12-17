@@ -89,7 +89,7 @@ type BM25Plus =
 
 
   override this.ComputeWeight(queryBoost: float32, collectionStats: CollectionStatistics, [<System.ParamArray>] termStats: TermStatistics[]): SimWeight =
-    let idf = Explain.idfs collectionStats termStats Plus.idf
+    let idfValue = Explain.idfs collectionStats termStats BM25.Core.idf
     let avgdl = avgDocumentLength collectionStats.SumDocFreq collectionStats.MaxDoc
 
     let cache =
@@ -100,4 +100,4 @@ type BM25Plus =
       )
       |> Seq.toArray
 
-    new BM25Stats(collectionStats.Field, idf, queryBoost, avgdl, cache)
+    new BM25Stats(collectionStats.Field, idfValue, queryBoost, avgdl, cache)

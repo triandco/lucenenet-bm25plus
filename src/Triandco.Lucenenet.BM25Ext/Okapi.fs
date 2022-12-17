@@ -94,7 +94,7 @@ type Okapi =
   
   
   override this.ComputeWeight (queryBoost: float32, collectionStats: CollectionStatistics, [<System.ParamArray>] termStats: TermStatistics array) : SimWeight = 
-    let idfValue = BM25.Lucene.Base.Explain.idfs collectionStats termStats BM25.Core.Okapi.idf
+    let idfValue = BM25.Lucene.Base.Explain.idfs collectionStats termStats BM25.Core.idf
     let avgdl = BM25.Core.avgDocumentLength collectionStats.SumTotalTermFreq collectionStats.MaxDoc
     let cache = this.getCache avgdl
     

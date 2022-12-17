@@ -6,6 +6,14 @@ let avgDocumentLength (sumTotalTermFreq: int64) (maxDoc: int64): single =
     if sumTotalTermFreq <= 0 then 1f else 
     (single sumTotalTermFreq) / (single maxDoc)
 
+let idf (frequencies: int64) (documentCount: int64) : single =  
+    let docf = double frequencies
+    let nDocs = double documentCount
+    1. + (nDocs -  docf + 0.5) / (docf + 0.5)
+    |> float
+    |> ln
+    |> single
+
 module Okapi = 
   type TunningParam = {
     K1: single
@@ -17,15 +25,6 @@ module Okapi =
       K1 = 1.2f
       B = 0.75f
     }
-
-  let idf (frequencies: int64) (documentCount: int64) : single =  
-    let docf = double frequencies
-    let nDocs = double documentCount
-    1. + (nDocs -  docf + 0.5) / (docf + 0.5)
-    |> float
-    |> ln
-    |> single
-    
 
   // split computation of score in half so norms can be cached by downstream
   let computeDocumentNorm (k1:single) (b:single) (docLength: single) (avgdl: single) = 
@@ -47,20 +46,13 @@ module Plus =
     B: float32
     Delta: float32
   }
+
   module TunningParam = 
     let defaultValue (): TunningParam = {
       K1 = 1.5f
       B = 0.75f
       Delta = 1f
     }
-
-  let idf (frequencies:int64) (documentCount: int64): single =  
-    let docf = float32 frequencies
-    let nDocs = float32 documentCount
-    (nDocs + 1f) / docf 
-    |> float
-    |> ln
-    |> single
 
   // split computation of score in half so norms can be cached by downstream
   let computeDocumentNorm k1 b (docLength: float32) (avgdl: float32) = 

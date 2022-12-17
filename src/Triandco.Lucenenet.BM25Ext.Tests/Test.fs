@@ -4,7 +4,9 @@ open BM25Tests.Search
 open BM25Tests.Utils
 
 [<TestFixture>]
-type Tests () = 
+type Tests () =
+
+  // Test against a less encapsulated version of Lucene.Net.Search.Similarities.BM25Similarity
   [<Test>]
   member this.VerifyMatchingOkapiConfiguration () =
     let csharp = LuceneSimilarities.BM25Similarity()
@@ -64,11 +66,11 @@ type Tests () =
     let collectionStats = Lucene.Net.Search.CollectionStatistics("blah", 10, 8, 20, 4)
 
     let explanationCsharp = csharp.IdfExplain(collectionStats, termStat[0])
-    let explanationFsharp = BM25.Lucene.Base.Explain.idfs collectionStats [| termStat[0] |] BM25.Core.Okapi.idf
+    let explanationFsharp = BM25.Lucene.Base.Explain.idfs collectionStats [| termStat[0] |] BM25.Core.idf
     Assert.That(explanationFsharp.Value, Is.EqualTo(explanationCsharp.Value), "Expect single term value to be equal")
 
     let explanationsCsharp = csharp.IdfExplain(collectionStats, termStat)
-    let explanationsFsharp = BM25.Lucene.Base.Explain.idfs collectionStats termStat BM25.Core.Okapi.idf
+    let explanationsFsharp = BM25.Lucene.Base.Explain.idfs collectionStats termStat BM25.Core.idf
     Assert.That(explanationsFsharp.Value, Is.EqualTo(explanationsCsharp.Value), "Expect single term value to be equal")
 
     let cSharpDetails = explanationsCsharp.GetDetails()
@@ -77,10 +79,20 @@ type Tests () =
     Assert.That(fSharpDetails[0].Value, Is.EqualTo(cSharpDetails[0].Value), "Expect hello term is equal")
     Assert.That(fSharpDetails[1].Value, Is.EqualTo(cSharpDetails[1].Value), "Expect world term is equal")
 
+  [<Test>]
+  member this.VerifyIdf () = 
+    let csharp = LuceneSimilarities.BM25Similarity()
+    let rand = new System.Random()
+    let numDoc = rand.Next(500, 600)
+    let freq = rand.Next(5, 20)
 
+    Assert.That(BM25.Core.idf numDoc freq, Is.EqualTo(csharp.Idf(numDoc, freq)), "Expect idf to be equal")
+
+
+  // Test against Lucene.Net.Similarities
   [<Test>]
   member this.VerifyComputeSimWeight () =
-    let csharp = LuceneSimilarities.BM25Similarity()
+    let csharp = Lucene.Net.Search.Similarities.BM25Similarity()
     let fsharp = BM25.Lucene.Okapi.Okapi()
 
     let byteRefHello = Lucene.Net.Util.BytesRef("Hello")
@@ -99,15 +111,6 @@ type Tests () =
     let fsharpSimWeight = fsharp.ComputeWeight(0f, collectionStats, termStats[0], termStats[1], termStats[2])
 
     Assert.That(fsharpSimWeight.GetValueForNormalization(), Is.EqualTo(csharpSimWeight.GetValueForNormalization()), "Expect compute weight to be fsharpSimWeight")
-
-  [<Test>]
-  member this.VerifyIdf () = 
-    let csharp = LuceneSimilarities.BM25Similarity()
-    let rand = new System.Random()
-    let numDoc = rand.Next(500, 600)
-    let freq = rand.Next(5, 20)
-
-    Assert.That(BM25.Core.Okapi.idf numDoc freq, Is.EqualTo(csharp.Idf(numDoc, freq)), "Expect idf to be equal")
     
 
   [<Test>]
