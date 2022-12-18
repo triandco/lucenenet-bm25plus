@@ -107,8 +107,3 @@ type Okapi =
       | _ -> raise <| System.ArgumentException("Expected BM25Stats as SimWeight") 
 
     new BM25Scorer(this.Param, bm25Stats, context.AtomicReader.GetNormValues(bm25Stats.Field))
-
-
-  
-
-  

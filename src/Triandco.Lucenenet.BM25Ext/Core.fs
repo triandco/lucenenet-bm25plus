@@ -42,9 +42,9 @@ module Okapi =
 
 module Plus = 
   type TunningParam = {
-    K1: float32
-    B: float32
-    Delta: float32
+    K1: single
+    B: single
+    Delta: single
   }
 
   module TunningParam = 
@@ -55,14 +55,14 @@ module Plus =
     }
 
   // split computation of score in half so norms can be cached by downstream
-  let computeDocumentNorm k1 b (docLength: float32) (avgdl: float32) = 
+  let computeDocumentNorm (k1:single) (b:single) (docLength: single) (avgdl: single) = 
     k1 * (1f - b + b * docLength / avgdl)
 
-  let scoreWithNorm (k1:float32) (delta:float32) (idf:float32) (tftd:float32) (norm:float32) =
+  let scoreWithNorm (k1:single) (delta:single) (idf:single) (tftd:single) (norm:single) =
     idf * (delta + (tftd * (k1 + 1f)) / norm + tftd)
 
   // http://www.cs.otago.ac.nz/homepages/andrew/papers/2014-2.pdf
-  let score (param:TunningParam) (idf: float32) (tftd:float32) (docLength: float32) (avgdl:float32) =
+  let score (param:TunningParam) (idf: single) (tftd:single) (docLength: single) (avgdl:single) =
     // idf * (delta + (tftd * (k1 + 1f)) / (k1 * (1f - b + b * docLength / avgdl) + tftd))
     let norm = computeDocumentNorm param.K1 param.B docLength avgdl
     scoreWithNorm param.K1 param.Delta idf tftd norm

@@ -1,103 +1,110 @@
-// This is a straight forward translation of the BM25Similarity implemented by LuceneDotnet in Fsharp for reference
 module BM25.Lucene.Plus
 
 
-open System
-open Lucene.Net.Search
-open Lucene.Net.Index
-open BM25.Core
-open BM25.Lucene.Base
-open BM25.Ext
+type AtomicReaderContext = Lucene.Net.Index.AtomicReaderContext
+type BytesRef = Lucene.Net.Util.BytesRef
+type FieldInvertState = Lucene.Net.Index.FieldInvertState
+type NumericDocValues = Lucene.Net.Index.NumericDocValues
+type SmallSingle = Lucene.Net.Util.SmallSingle
+type CollectionStatistics = Lucene.Net.Search.CollectionStatistics
+type TermStatistics = Lucene.Net.Search.TermStatistics
+type Explanation = Lucene.Net.Search.Explanation
+type SimWeight = Lucene.Net.Search.Similarities.Similarity.SimWeight
+type SimScorer = Lucene.Net.Search.Similarities.Similarity.SimScorer
+type Single = System.Single
 
-type SimWeight = Similarities.Similarity.SimWeight
-type SimScorer = Similarities.Similarity.SimScorer
+type BM25Stats = BM25.Lucene.Base.BM25Stats
+type TunningParam = BM25.Core.Plus.TunningParam
 
-type TunningParam = Plus.TunningParam
 
-module Explain =
+type ExplainScore = int * Explanation * BM25Stats * NumericDocValues -> Explanation
+type SloppyFreq = int -> Single
+type ScorePayLoad = (int * int * int * BytesRef) -> float32
 
-  let score(param: TunningParam) (doc: int) (freq: Explanation) (stats: BM25Stats) (norms: NumericDocValues option): Explanation  =
+type Scorer (
+  param: TunningParam, 
+  stats: BM25Stats, 
+  norms: NumericDocValues) =
+  inherit SimScorer()
+
+  override this.Score(doc: int, freq: single) : single = 
+    let norm = 
+      if norms = null then param.K1
+      else 
+       let t = sbyte <| norms.Get(doc)
+       let d = (int t) &&& 0xFF
+       float32 <| stats.Cache[d]
+
+    BM25.Core.Plus.scoreWithNorm param.K1 param.Delta stats.Weight freq norm
+
+  
+  override this.Explain(doc: int, freq:Explanation) : Explanation = 
     let result = new Explanation()
-    result.Description <- $"score(doc={doc}freq={freq}), product of:"
-
-    let boostExpl = new Explanation(float32 <| stats.QueryBoost * stats.TopLevelBoost, "boost")
-    if boostExpl.Value <> 1.0f then
-      result.AddDetail(boostExpl)
-
+    result.Description <- $"score(doc={doc},freq={freq})"
+    let boostExplanation = new Explanation(stats.QueryBoost * stats.TopLevelBoost, "boost")
+    if boostExplanation.Value <> 1f then result.AddDetail(boostExplanation)
     result.AddDetail(stats.Idf)
-
     let tfNormExpl = new Explanation()
     tfNormExpl.Description <- "tfNorm, computed from:"
     tfNormExpl.AddDetail(freq)
-    tfNormExpl.AddDetail(new Explanation(param.K1, "parameter k1"))
-    tfNormExpl.AddDetail(new Explanation(param.B, "parameter b"))
-    tfNormExpl.AddDetail(new Explanation(param.Delta, "parameter delta"))
-    match norms with
-    | None ->
-      tfNormExpl.AddDetail(new Explanation(0f, "parameter b (norms omitted for field)"))
-      tfNormExpl.Value <- Plus.scoreWithNorm param.K1 param.Delta 1f freq.Value param.K1
-    | Some n ->
-      let doclen = Norm.decode(byte <| n.Get(doc))
-      tfNormExpl.AddDetail(new Explanation(param.B, "parameter b"))
-      tfNormExpl.AddDetail(new Explanation((float32 stats.Avgdl), "avgFieldLength"))
-      tfNormExpl.AddDetail(new Explanation(doclen, "fieldLength"))
-      tfNormExpl.Value <- Plus.computeDocumentNorm param.K1 param.B doclen (float32 stats.Avgdl)
+    if norms = null then 
+      tfNormExpl.AddDetail(new Explanation(0f, "parameter b (norms ommited for field"))
+      // norm = k1 ; idf = 1
+      tfNormExpl.Value <- BM25.Core.Plus.scoreWithNorm param.K1 param.Delta 1f freq.Value param.K1
+    else 
+      let doclen = BM25.Lucene.Base.Norm.decode (byte <| norms.Get(doc))
+      tfNormExpl.AddDetail(new Explanation(float32<| param.B, "parameter b"))
+      tfNormExpl.AddDetail(new Explanation(float32 <| stats.Avgdl, "avgFieldLength"))
+      tfNormExpl.AddDetail(new Explanation(float32 <| doclen, "fieldLength"))
+      tfNormExpl.Value <-  BM25.Core.Plus.score param 1f freq.Value doclen stats.Avgdl // idf = 1
+      result.AddDetail(tfNormExpl)
+      result.Value <- boostExplanation.Value * stats.Idf.Value * tfNormExpl.Value
     
-    result.AddDetail(tfNormExpl)
-    result.Value <- boostExpl.Value * stats.Idf.Value * tfNormExpl.Value
     result
 
-
-type Scorer(param: TunningParam, stats: BM25Stats, norms: NumericDocValues option) =
-  inherit BM25DocScorer()
-
-  override this.Score(doc:int, freq:float32): float32 = 
-    let norm =
-      match norms with 
-      | None -> param.K1
-      | Some n -> float32 <| stats.Cache[int (sbyte <| (n.Get(doc) &&& 0xFF))]
-    
-    Plus.scoreWithNorm param.K1 param.Delta stats.Weight freq norm
-  
-  override this.Explain(doc: int, freq: Explanation): Explanation = 
-    Explain.score param doc freq stats norms
+  override this.ComputeSlopFactor (distance: int) = 1.0f / (distance + 1 |> single)
+  override this.ComputePayloadFactor (doc: int, start: int, ``end``: int, payload: BytesRef) = 1f
 
 
-type BM25Plus =
-  inherit BM25
-  val param: TunningParam
-  
-  new (param) = { 
-    inherit BM25() 
-    param = param
+type Plus = 
+  inherit BM25.Lucene.Base.BM25
+  val Param: TunningParam
+
+  new (param: TunningParam) = {
+    inherit BM25.Lucene.Base.BM25()
+    Param = param
   }
 
   new () = {
-    inherit BM25() 
-    param = Plus.TunningParam.defaultValue () 
+    inherit BM25.Lucene.Base.BM25()
+    Param = {
+      K1 = 1.2f
+      B = 0.75f
+      Delta = 1f
+    }
   }
+
+  override this.ToString () = $"BM25(k1={this.Param.K1},b={this.Param.B})"
   
-
-  override this.GetSimScorer(weight: SimWeight, context: AtomicReaderContext) : SimScorer = 
-    let w = 
-      match weight with 
-      | :? BM25Stats as stat -> stat
-      | _ -> raise <| InvalidCastException("Expected to receive BM25Stats but received stranger.")
-    
-    let n = Option.optional <| context.AtomicReader.GetNormValues(w.Field)
-    new Scorer(this.param, w, n)
-
-
-  override this.ComputeWeight(queryBoost: float32, collectionStats: CollectionStatistics, [<System.ParamArray>] termStats: TermStatistics[]): SimWeight =
-    let idfValue = Explain.idfs collectionStats termStats BM25.Core.idf
-    let avgdl = avgDocumentLength collectionStats.SumDocFreq collectionStats.MaxDoc
-
-    let cache =
-      [0..256]
-      |> Seq.map (fun i ->
-        let docLength = Norm.decode((byte i))
-        Plus.computeDocumentNorm this.param.K1 this.param.Delta docLength avgdl
-      )
+  member this.getCache avgdl : single array = 
+      [0..255]
+      |> Seq.map (fun i -> 
+        let t = BM25.Lucene.Base.Norm.decode (byte i)
+        BM25.Core.Plus.computeDocumentNorm this.Param.K1 this.Param.B t avgdl)
       |> Seq.toArray
-
+  
+  
+  override this.ComputeWeight (queryBoost: float32, collectionStats: CollectionStatistics, [<System.ParamArray>] termStats: TermStatistics array) : SimWeight = 
+    let idfValue = BM25.Lucene.Base.Explain.idfs collectionStats termStats BM25.Core.idf
+    let avgdl = BM25.Core.avgDocumentLength collectionStats.SumTotalTermFreq collectionStats.MaxDoc
+    let cache = this.getCache avgdl
+    
     new BM25Stats(collectionStats.Field, idfValue, queryBoost, avgdl, cache)
+
+  override this.GetSimScorer (stats: SimWeight, context: AtomicReaderContext) =
+    let bm25Stats = 
+      match stats with 
+      | :? BM25Stats as t -> t 
+      | _ -> raise <| System.ArgumentException("Expected BM25Stats as SimWeight") 
+
+    new Scorer(this.Param, bm25Stats, context.AtomicReader.GetNormValues(bm25Stats.Field))
