@@ -9,7 +9,6 @@
 
   <ItemGroup>
     <Compile Include="BM25Similarity.cs" />
-    <Compile Include="BM25PlusSimilarity.cs" />
   </ItemGroup>
 
   <ItemGroup>

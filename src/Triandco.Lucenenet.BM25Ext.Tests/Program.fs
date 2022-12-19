@@ -1,7 +1,6 @@
 module BM25Tests.Program
 open BM25Tests.Search
 open BM25Tests.Utils
-open BM25.Lucene.Plus
 
 type TestCase = { 
   Query: string 
@@ -26,7 +25,7 @@ let printHappy = cprintfn System.ConsoleColor.Green
 
 let runTest (tests: TestGroup) = 
   let doc = getAllDocuments tests.Data
-  let similarity = LuceneSimilarities.BM25PlusSimilarity()
+  let similarity = BM25.Lucene.Plus.Similarity()
   let directory = index similarity doc
   
   let mutable sucessCount = 0

@@ -8,6 +8,7 @@ type SmallSingle = Lucene.Net.Util.SmallSingle
 type SimWeight = Similarities.Similarity.SimWeight
 type FieldInvertState = Lucene.Net.Index.FieldInvertState
 type TunningParam = BM25.Core.Okapi.TunningParam
+type NumericDocValues = Lucene.Net.Index.NumericDocValues
 
 module Explain =
   let idfs (collectionStats: CollectionStatistics) (termStats: TermStatistics array) idfFunc= 
@@ -65,15 +66,26 @@ type BM25Stats(field:string,  idf: Explanation, queryBoost:single,  avgdl:single
     this.TopLevelBoost <- topLevelBoost
     this.Weight <- this.Idf.Value * this.QueryBoost * this.TopLevelBoost
 
+  static member unsafeParse (x: SimWeight) = 
+    match x with
+    | :? BM25Stats as t -> t 
+    | _ -> raise <| System.ArgumentException("Expected BM25Stats as SimWeight") 
+
 
 [<AbstractClass>]
 type BM25DocScorer () =
   inherit Similarities.Similarity.SimScorer()
-
-  override this.ComputeSlopFactor(distance:int) : single = 
-    1f / ((distance + 1) |> single)
-
+  override this.ComputeSlopFactor(distance:int) : single =  1f / ((distance + 1) |> single)
   override this.ComputePayloadFactor(_, _, _, _) = 1f // The default implementation returns 1
+
+  static member normOrDefault (stats: BM25Stats) (doc: int) (defaultValue: single) (norms: NumericDocValues option) =
+    match norms with
+    | None -> defaultValue
+    | Some n ->
+      let t = sbyte <| n.Get(doc)
+      let d = (int t) &&& 0xFF
+      float32 <| stats.Cache[d]
+
 
 [<AbstractClass>]
 type BM25 () =
@@ -83,3 +95,9 @@ type BM25 () =
   override this.ComputeNorm(state: FieldInvertState): int64 =
     let numTerms = if this.DiscountOverlaps then state.Length - state.NumOverlap else state.Length
     int64 <| Norm.encode state.Boost numTerms
+
+
+let tryGetNorms (context: Lucene.Net.Index.AtomicReaderContext) (bm25Stats: BM25Stats) = 
+  match context.AtomicReader.GetNormValues(bm25Stats.Field) with
+      | null -> None
+      | s -> Some s
