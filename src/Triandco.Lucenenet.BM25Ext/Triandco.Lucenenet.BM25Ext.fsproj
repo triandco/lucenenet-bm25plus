@@ -3,6 +3,13 @@
     <TargetFramework>net7.0</TargetFramework>
     <IsPackable>true</IsPackable>
     <GenerateDocumentationFile>true</GenerateDocumentationFile>
+    <PackageId>TriandCo.Lucenenet.BM25Ext</PackageId>
+    <Version>1.0.0</Version>
+    <Authors>Tri Nguyen</Authors>
+    <Company>triandco</Company>
+    <PackageDescription>BM25Plus implementation for Lucene.net</PackageDescription>
+    <RepositoryUrl>https://github.com/triandco/lucenenet-bm25plus</RepositoryUrl>
+
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="Core.fs" />
