@@ -9,7 +9,7 @@
     <Company>triandco</Company>
     <PackageDescription>BM25Plus implementation for Lucene.net</PackageDescription>
     <RepositoryUrl>https://github.com/triandco/lucenenet-bm25plus</RepositoryUrl>
-
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="Core.fs" />
